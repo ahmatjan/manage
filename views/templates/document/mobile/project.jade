@@ -1,0 +1,23 @@
+extends layout
+block append head
+	link(rel='stylesheet', href='/stylesheets/project.css')
+	script(src='/js/jquery.min.js',type="text/javascript")
+	script(src='/js/project.js',type="text/javascript")
+block content
+	h3= title
+	div.project-add
+		项目名：
+		input(type="text",name="projectName")
+		input(type="button",value="提交",id="project_add")
+	div.project-list
+		h3 项目列表：
+		ul
+			each item in projects  
+				li #{item.name} 
+					span.addCate
+						a(href="###",data-project-id="#{item.id}") 添加分类
+						ul
+							each cate in item.category
+								li #{cate.name}
+
+

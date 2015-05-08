@@ -1,0 +1,73 @@
+.lhz-tb {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.lhz-tb td {
+	border: 1px #ddd solid;
+	padding: 3px 5px;
+}
+.lhz-tb thead {
+	text-align: center;
+	font-weight: bold;
+}
+.lhz-tb tbody td input {
+	width: 100%;
+	padding: 3px 0;
+}
+.ui-hit {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	background: #68af02;
+	z-index: 99;
+	white-space: nowrap;
+	padding: 3px 20px 3px;
+	color: #fff;
+	height: 20px;
+	line-height: 18px;
+	border-radius: 3px;
+	font-size: 1em;
+}
+/*百分比显示*/
+
+.percent-box {
+	display: block;
+	border: 1px solid #CCCCCC;
+	font-size: 1px;
+	text-align: left;
+	overflow: hidden;
+	width: 120px;
+	height: 12px;
+}
+.percent-inner {
+	background: #F7DF8C;
+	font-size: 1px;
+	height: 12px;
+	text-align: left;
+	overflow: hidden;
+}
+.lhz-filter dl {
+	float: left;
+	width: 100%;
+	margin: 0.2em 0;
+}
+.lhz-filter dl dt,
+.lhz-filter dl dd {
+	float: left;
+}
+.showOption {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.showOption li {
+	float: left;
+	height: 26px;
+	line-height: 26px;
+	margin-right: 20px;
+	list-style: none;
+	text-decoration: none;
+}
+.showOption li a {
+	text-decoration: none;
+}

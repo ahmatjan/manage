@@ -1,0 +1,26 @@
+extends layout
+
+block append head
+  link(rel='stylesheet', href='/stylesheets/codemirror.css')
+  link(rel='stylesheet', href='/stylesheets/add.css')
+  script(src='/js/jquery.min.js')
+  script(src='/js/marked.js')
+  script(src='/js/codemirror.js')
+  script(src='/js/update.js')
+
+block content
+ div.side-left
+  h1= title
+  form(method="post",action="/update")
+    label 标题：
+    input(type="text",value="#{doc.title}",name="title")
+    <br/>
+    textarea(name="content",id="code") #{doc.content}
+    input(type="hidden",value="#{doc.id}",name="id")
+    input(type="submit",value="提交",id="toAdd")
+
+ div.side-right
+    iframe#preview(frameborder="0",height="100%")
+
+
+block  footer

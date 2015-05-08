@@ -1,0 +1,2300 @@
+
+
+
+2014-12-08 02:58:15 查询 SELECT * FROM `question` where id = 8
+2014-12-08 02:58:15 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 02:58:15 释放结果集
+2014-12-08 02:58:15 完成整个查询任务,所用时间为0.97200012207031
+2014-12-08 02:58:16 查询 SELECT * FROM `question` where id = 8
+2014-12-08 02:58:16 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 02:58:16 释放结果集
+2014-12-08 02:58:16 完成整个查询任务,所用时间为0.80099987983704
+2014-12-08 02:59:07 查询 SELECT * FROM `question` where id = 8
+2014-12-08 02:59:07 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 02:59:07 释放结果集
+2014-12-08 02:59:07 完成整个查询任务,所用时间为0.88399982452393
+2014-12-08 02:59:20 查询 SELECT * FROM `question` where id = 8
+2014-12-08 02:59:20 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 02:59:20 释放结果集
+2014-12-08 02:59:20 完成整个查询任务,所用时间为0.85999989509583
+2014-12-08 02:59:50 查询 SELECT * FROM `question` where id = 8
+2014-12-08 02:59:51 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:00:27 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:00:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:00:27 释放结果集
+2014-12-08 03:00:27 完成整个查询任务,所用时间为0.88100004196167
+2014-12-08 03:00:41 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:00:41 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:00:41 释放结果集
+2014-12-08 03:00:41 完成整个查询任务,所用时间为0.89499998092651
+2014-12-08 03:13:01 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:01 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:01 释放结果集
+2014-12-08 03:13:01 完成整个查询任务,所用时间为0.88108801841736
+2014-12-08 03:13:12 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:12 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:12 释放结果集
+2014-12-08 03:13:12 完成整个查询任务,所用时间为0.89809012413025
+2014-12-08 03:13:27 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:13:27 释放结果集
+2014-12-08 03:13:27 完成整个查询任务,所用时间为0.86608695983887
+2014-12-08 03:17:11 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:12 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:12 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:12 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:12 释放结果集
+2014-12-08 03:17:12 完成整个查询任务,所用时间为1.1241121292114
+2014-12-08 03:17:15 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:15 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:15 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:15 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:15 释放结果集
+2014-12-08 03:17:15 完成整个查询任务,所用时间为1.1251130104065
+2014-12-08 03:17:40 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 释放结果集
+2014-12-08 03:17:41 完成整个查询任务,所用时间为1.0131008625031
+2014-12-08 03:17:41 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:17:41 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 释放结果集
+2014-12-08 03:17:41 完成整个查询任务,所用时间为1.0090999603271
+2014-12-08 03:17:41 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:17:41 释放结果集
+2014-12-08 03:17:41 完成整个查询任务,所用时间为1.1131110191345
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 释放结果集
+2014-12-08 03:18:24 完成整个查询任务,所用时间为0.99709892272949
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:24 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为1.00910115242
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为1.0121011734009
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为0.99710011482239
+2014-12-08 03:18:25 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为1.0211019515991
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为1.1111109256744
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 释放结果集
+2014-12-08 03:18:25 完成整个查询任务,所用时间为0.99609899520874
+2014-12-08 03:18:25 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:25 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:25 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:26 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:26 释放结果集
+2014-12-08 03:18:26 完成整个查询任务,所用时间为1.0041010379791
+2014-12-08 03:18:26 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:26 释放结果集
+2014-12-08 03:18:26 完成整个查询任务,所用时间为1.0070998668671
+2014-12-08 03:18:26 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:26 释放结果集
+2014-12-08 03:18:26 完成整个查询任务,所用时间为0.99609994888306
+2014-12-08 03:18:27 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:27 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 释放结果集
+2014-12-08 03:18:27 完成整个查询任务,所用时间为3.2653269767761
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 释放结果集
+2014-12-08 03:18:27 完成整个查询任务,所用时间为3.4173419475555
+2014-12-08 03:18:27 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:27 释放结果集
+2014-12-08 03:18:27 完成整个查询任务,所用时间为3.426342010498
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 释放结果集
+2014-12-08 03:18:30 完成整个查询任务,所用时间为6.2296230792999
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 释放结果集
+2014-12-08 03:18:30 完成整个查询任务,所用时间为6.4336431026459
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:30 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 释放结果集
+2014-12-08 03:18:30 完成整个查询任务,所用时间为6.4266428947449
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 释放结果集
+2014-12-08 03:18:30 完成整个查询任务,所用时间为6.4336440563202
+2014-12-08 03:18:30 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:30 释放结果集
+2014-12-08 03:18:30 完成整个查询任务,所用时间为6.447643995285
+2014-12-08 03:18:31 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:31 释放结果集
+2014-12-08 03:18:31 完成整个查询任务,所用时间为6.4196419715881
+2014-12-08 03:18:31 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:31 释放结果集
+2014-12-08 03:18:31 完成整个查询任务,所用时间为6.4476451873779
+2014-12-08 03:18:36 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 释放结果集
+2014-12-08 03:18:36 完成整个查询任务,所用时间为12.20822095871
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 释放结果集
+2014-12-08 03:18:36 完成整个查询任务,所用时间为12.245223999023
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 查询 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:36 释放结果集
+2014-12-08 03:18:36 完成整个查询任务,所用时间为12.413240909576
+2014-12-08 03:18:36 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-08 03:18:36 查询 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:37 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-08 03:18:37 释放结果集
+2014-12-08 03:18:37 完成整个查询任务,所用时间为12.243224143982
+2014-12-08 03:19:16 查询 SELECT * FROM `question` where id = 7
+2014-12-08 03:19:16 获取一条记录 SELECT * FROM `question` where id = 7
+2014-12-08 03:19:16 查询 SELECT * FROM `tag` where id = 3
+2014-12-08 03:19:17 获取一条记录 SELECT * FROM `tag` where id = 3
+2014-12-08 03:19:17 释放结果集
+2014-12-08 03:19:17 完成整个查询任务,所用时间为3.9023909568787
+2014-12-08 03:19:20 查询 SELECT * FROM `question` where id = 7
+2014-12-08 03:19:21 获取一条记录 SELECT * FROM `question` where id = 7
+2014-12-08 03:19:21 释放结果集
+2014-12-08 03:19:21 完成整个查询任务,所用时间为0.8970890045166
+2014-12-17 00:27:48 插入 insert into tag(id,name) values('','dfdf')
+2014-12-17 00:27:48 查询 insert into tag(id,name) values('','dfdf')
+2014-12-17 00:27:48 最后插入的id为15
+2014-12-17 00:27:48 插入 insert into question(id,title,tag,content,answer) values('','sdfsf','15','dfd','dfd')
+2014-12-17 00:27:48 查询 insert into question(id,title,tag,content,answer) values('','sdfsf','15','dfd','dfd')
+2014-12-17 00:27:48 释放结果集
+2014-12-17 00:27:48 完成整个查询任务,所用时间为0.40476083755493
+2014-12-17 00:27:50 查询 SELECT * FROM `question` where id = 20
+2014-12-17 00:27:50 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 00:27:50 查询 SELECT * FROM `tag` where id = 15
+2014-12-17 00:27:50 获取一条记录 SELECT * FROM `tag` where id = 15
+2014-12-17 00:27:50 释放结果集
+2014-12-17 00:27:50 完成整个查询任务,所用时间为0.25689697265625
+2014-12-17 00:27:57 查询 SELECT * FROM `question` where id = 
+2014-12-17 00:27:57 Query Error: SELECT * FROM `question` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2014-12-17 00:27:57 释放结果集
+2014-12-17 00:27:57 完成整个查询任务,所用时间为0.25892615318298
+2014-12-17 00:38:31 查询 SELECT * FROM `question` where id = 20
+2014-12-17 00:38:31 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 00:38:31 查询 SELECT * FROM `tag` where id = 15
+2014-12-17 00:38:31 获取一条记录 SELECT * FROM `tag` where id = 15
+2014-12-17 00:38:31 释放结果集
+2014-12-17 00:38:31 完成整个查询任务,所用时间为0.19924092292786
+2014-12-17 09:32:49 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:32:49 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:32:49 查询 SELECT * FROM `tag` where id = 15
+2014-12-17 09:32:49 获取一条记录 SELECT * FROM `tag` where id = 15
+2014-12-17 09:32:49 释放结果集
+2014-12-17 09:32:49 完成整个查询任务,所用时间为0.263512134552
+2014-12-17 09:32:55 查询 SELECT * FROM `question` where id = 
+2014-12-17 09:32:55 Query Error: SELECT * FROM `question` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2014-12-17 09:32:55 释放结果集
+2014-12-17 09:32:55 完成整个查询任务,所用时间为0.30186581611633
+2014-12-17 09:35:18 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:35:18 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:35:18 查询 SELECT * FROM `tag` where id = 15
+2014-12-17 09:35:18 获取一条记录 SELECT * FROM `tag` where id = 15
+2014-12-17 09:35:18 释放结果集
+2014-12-17 09:35:18 完成整个查询任务,所用时间为0.32226705551147
+2014-12-17 09:35:24 插入 insert into tag(id,name) values('','dfdf111')
+2014-12-17 09:35:24 查询 insert into tag(id,name) values('','dfdf111')
+2014-12-17 09:35:24 最后插入的id为16
+2014-12-17 09:35:24 更新 update question set title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111',title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111' where 1=1 and id=
+2014-12-17 09:35:24 查询 update question set title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111',title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111' where 1=1 and id=
+2014-12-17 09:35:24 Query Error: update question set title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111',title = 'sdfsf111',tag = '16',content = 'dfd111',answer = 'dfd111' where 1=1 and id=
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2014-12-17 09:35:24 释放结果集
+2014-12-17 09:35:24 完成整个查询任务,所用时间为0.2528657913208
+2014-12-17 09:36:08 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:36:08 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:36:08 查询 SELECT * FROM `tag` where id = 15
+2014-12-17 09:36:08 获取一条记录 SELECT * FROM `tag` where id = 15
+2014-12-17 09:36:09 释放结果集
+2014-12-17 09:36:09 完成整个查询任务,所用时间为0.32361912727356
+2014-12-17 09:36:14 插入 insert into tag(id,name) values('','dfdf11')
+2014-12-17 09:36:14 查询 insert into tag(id,name) values('','dfdf11')
+2014-12-17 09:36:14 最后插入的id为17
+2014-12-17 09:36:14 更新 update question set title = 'sdfsf11',tag = '17',content = 'dfd11',answer = 'dfd11',title = 'sdfsf11',tag = '17',content = 'dfd11',answer = 'dfd11' where 1=1 and id=20
+2014-12-17 09:36:14 查询 update question set title = 'sdfsf11',tag = '17',content = 'dfd11',answer = 'dfd11',title = 'sdfsf11',tag = '17',content = 'dfd11',answer = 'dfd11' where 1=1 and id=20
+2014-12-17 09:36:14 释放结果集
+2014-12-17 09:36:14 完成整个查询任务,所用时间为0.18766403198242
+2014-12-17 09:37:12 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:37:12 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:37:12 查询 SELECT * FROM `tag` where id = 17
+2014-12-17 09:37:12 获取一条记录 SELECT * FROM `tag` where id = 17
+2014-12-17 09:37:12 释放结果集
+2014-12-17 09:37:12 完成整个查询任务,所用时间为0.19197487831116
+2014-12-17 09:37:14 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:37:14 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:37:14 查询 SELECT * FROM `tag` where id = 17
+2014-12-17 09:37:14 获取一条记录 SELECT * FROM `tag` where id = 17
+2014-12-17 09:37:14 释放结果集
+2014-12-17 09:37:14 完成整个查询任务,所用时间为0.18883204460144
+2014-12-17 09:37:21 插入 insert into tag(id,name) values('','dfdf11222')
+2014-12-17 09:37:21 查询 insert into tag(id,name) values('','dfdf11222')
+2014-12-17 09:37:21 最后插入的id为18
+2014-12-17 09:37:21 更新 update question set title = 'sdfsf22',tag = '18',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf22',tag = '18',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2014-12-17 09:37:21 查询 update question set title = 'sdfsf22',tag = '18',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf22',tag = '18',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2014-12-17 09:37:21 释放结果集
+2014-12-17 09:37:21 完成整个查询任务,所用时间为0.18788909912109
+2014-12-17 09:38:23 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:38:23 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:38:23 查询 SELECT * FROM `tag` where id = 18
+2014-12-17 09:38:23 获取一条记录 SELECT * FROM `tag` where id = 18
+2014-12-17 09:38:23 释放结果集
+2014-12-17 09:38:23 完成整个查询任务,所用时间为0.18877100944519
+2014-12-17 09:38:26 插入 insert into tag(id,name) values('','dfdf11222')
+2014-12-17 09:38:26 查询 insert into tag(id,name) values('','dfdf11222')
+2014-12-17 09:38:26 最后插入的id为19
+2014-12-17 09:38:26 更新 update question set title = 'sdfsf44',tag = '19',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44',tag = '19',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2014-12-17 09:38:26 查询 update question set title = 'sdfsf44',tag = '19',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44',tag = '19',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2014-12-17 09:38:26 释放结果集
+2014-12-17 09:38:26 完成整个查询任务,所用时间为0.19076299667358
+2014-12-17 09:40:54 查询 SELECT * FROM `question` where id = 20
+2014-12-17 09:40:54 获取一条记录 SELECT * FROM `question` where id = 20
+2014-12-17 09:40:55 释放结果集
+2014-12-17 09:40:55 完成整个查询任务,所用时间为0.22741198539734
+<<<<<<< HEAD
+2014-12-26 08:34:52 查询 SELECT * FROM `question` where id = 8
+2014-12-26 08:34:52 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-26 08:34:52 释放结果集
+2014-12-26 08:34:52 完成整个查询任务,所用时间为0.47539305687
+2014-12-26 08:35:09 查询 SELECT * FROM `question` where id = 8
+2014-12-26 08:35:09 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-26 08:35:09 查询 SELECT * FROM `tag` where id = 4
+2014-12-26 08:35:09 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-26 08:35:09 释放结果集
+2014-12-26 08:35:09 完成整个查询任务,所用时间为0.391277074814
+2014-12-26 09:28:46 查询 SELECT * FROM `question` where id = 8
+2014-12-26 09:28:46 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-26 09:28:46 释放结果集
+2014-12-26 09:28:46 完成整个查询任务,所用时间为0.301471948624
+2014-12-26 09:29:31 查询 SELECT * FROM `question` where id = 8
+2014-12-26 09:29:31 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-26 09:29:31 查询 SELECT * FROM `tag` where id = 4
+2014-12-26 09:29:31 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-26 09:29:31 释放结果集
+2014-12-26 09:29:31 完成整个查询任务,所用时间为0.134582996368
+2014-12-30 07:33:27 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:27 查询 SELECT * FROM `tag` where id = 4
+2014-12-30 07:33:27 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-30 07:33:27 释放结果集
+2014-12-30 07:33:27 完成整个查询任务,所用时间为0.357712984085
+2014-12-30 07:33:32 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:32 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:32 释放结果集
+2014-12-30 07:33:32 完成整个查询任务,所用时间为0.321616888046
+2014-12-30 07:33:38 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:38 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:33:38 查询 SELECT * FROM `tag` where id = 4
+2014-12-30 07:33:38 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-30 07:33:38 释放结果集
+2014-12-30 07:33:38 完成整个查询任务,所用时间为0.361336946487
+2014-12-30 07:37:04 查询 SELECT * FROM `question` where id = 9
+2014-12-30 07:37:04 获取一条记录 SELECT * FROM `question` where id = 9
+2014-12-30 07:37:04 释放结果集
+2014-12-30 07:37:04 完成整个查询任务,所用时间为0.281048059464
+2014-12-30 07:37:11 查询 SELECT * FROM `question` where id = 7
+2014-12-30 07:37:11 获取一条记录 SELECT * FROM `question` where id = 7
+2014-12-30 07:37:11 释放结果集
+2014-12-30 07:37:11 完成整个查询任务,所用时间为0.273380994797
+2014-12-30 07:37:15 查询 SELECT * FROM `question` where id = 7
+2014-12-30 07:37:15 获取一条记录 SELECT * FROM `question` where id = 7
+2014-12-30 07:37:15 查询 SELECT * FROM `tag` where id = 3
+2014-12-30 07:37:15 获取一条记录 SELECT * FROM `tag` where id = 3
+2014-12-30 07:37:15 释放结果集
+2014-12-30 07:37:15 完成整个查询任务,所用时间为0.346228837967
+2014-12-30 07:37:23 查询 SELECT * FROM `question` where id = 6
+2014-12-30 07:37:23 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-30 07:37:23 释放结果集
+2014-12-30 07:37:23 完成整个查询任务,所用时间为0.227724075317
+2014-12-30 07:37:27 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:27 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:27 释放结果集
+2014-12-30 07:37:27 完成整个查询任务,所用时间为0.270622014999
+2014-12-30 07:37:32 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:32 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:32 查询 SELECT * FROM `tag` where id = 4
+2014-12-30 07:37:32 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-30 07:37:32 释放结果集
+2014-12-30 07:37:32 完成整个查询任务,所用时间为0.341305971146
+2014-12-30 07:37:38 查询 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:38 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-30 07:37:38 释放结果集
+2014-12-30 07:37:38 完成整个查询任务,所用时间为0.273351192474
+2015-01-04 06:13:19 插入 insert into tag(id,name) values('','')
+2015-01-04 06:13:19 查询 insert into tag(id,name) values('','')
+2015-01-04 06:13:19 最后插入的id为36
+2015-01-04 06:13:19 插入 insert into question(id,title,tag,content,answer) values('','','36','','')
+2015-01-04 06:13:19 查询 insert into question(id,title,tag,content,answer) values('','','36','','')
+2015-01-04 06:13:19 释放结果集
+2015-01-04 06:13:19 完成整个查询任务,所用时间为0.585098981857
+2015-01-04 06:25:35 插入 insert into tag(id,name) values('','')
+2015-01-04 06:25:35 查询 insert into tag(id,name) values('','')
+2015-01-04 06:25:35 最后插入的id为37
+2015-01-04 06:25:35 插入 insert into question(id,title,tag,content,answer) values('','','37','','')
+2015-01-04 06:25:35 查询 insert into question(id,title,tag,content,answer) values('','','37','','')
+2015-01-04 06:25:36 Query Error: insert into question(id,title,tag,content,answer) values('','','37','','')
+Duplicate entry '' for key 'title'
+2015-01-04 06:25:36 释放结果集
+2015-01-04 06:25:36 完成整个查询任务,所用时间为0.348821878433
+2015-01-04 06:36:47 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:36:47 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:36:47 释放结果集
+2015-01-04 06:36:47 完成整个查询任务,所用时间为0.349021911621
+2015-01-04 06:37:43 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:37:43 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:37:43 释放结果集
+2015-01-04 06:37:43 完成整个查询任务,所用时间为0.349403858185
+2015-01-04 06:38:22 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:38:22 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:38:22 释放结果集
+2015-01-04 06:38:22 完成整个查询任务,所用时间为0.341867923737
+2015-01-04 06:45:02 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:45:02 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:45:02 释放结果集
+2015-01-04 06:45:02 完成整个查询任务,所用时间为0.345201015472
+2015-01-04 06:45:46 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:45:46 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:45:46 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 06:45:46 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 06:45:46 释放结果集
+2015-01-04 06:45:46 完成整个查询任务,所用时间为0.435530900955
+2015-01-04 06:47:18 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:47:18 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:47:18 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 06:47:18 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 06:47:18 释放结果集
+2015-01-04 06:47:18 完成整个查询任务,所用时间为0.375319957733
+2015-01-04 06:47:53 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:47:53 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:47:53 释放结果集
+2015-01-04 06:47:53 完成整个查询任务,所用时间为0.280333042145
+2015-01-04 06:47:59 查询 SELECT * FROM `question` where id = 6
+2015-01-04 06:47:59 获取一条记录 SELECT * FROM `question` where id = 6
+2015-01-04 06:47:59 释放结果集
+2015-01-04 06:47:59 完成整个查询任务,所用时间为0.283744812012
+2015-01-04 06:48:05 查询 SELECT * FROM `question` where id = 8
+2015-01-04 06:48:05 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 06:48:05 释放结果集
+2015-01-04 06:48:05 完成整个查询任务,所用时间为0.275498867035
+2015-01-04 07:04:19 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:04:19 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:04:19 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 07:04:19 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 07:04:19 释放结果集
+2015-01-04 07:04:19 完成整个查询任务,所用时间为0.365730047226
+2015-01-04 07:04:27 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:04:27 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:04:27 释放结果集
+2015-01-04 07:04:27 完成整个查询任务,所用时间为0.280908823013
+2015-01-04 07:06:35 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:06:35 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:06:35 释放结果集
+2015-01-04 07:06:35 完成整个查询任务,所用时间为0.36195397377
+2015-01-04 07:07:28 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:07:28 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:07:28 释放结果集
+2015-01-04 07:07:28 完成整个查询任务,所用时间为0.331336975098
+2015-01-04 07:09:02 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:09:02 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:09:02 释放结果集
+2015-01-04 07:09:02 完成整个查询任务,所用时间为0.351480960846
+2015-01-04 07:23:58 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:23:58 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:23:58 释放结果集
+2015-01-04 07:23:58 完成整个查询任务,所用时间为0.286231040955
+2015-01-04 07:25:55 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:25:55 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:25:55 释放结果集
+2015-01-04 07:25:55 完成整个查询任务,所用时间为0.652333021164
+2015-01-04 07:28:28 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:28:28 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:28:28 释放结果集
+2015-01-04 07:28:28 完成整个查询任务,所用时间为0.350620985031
+2015-01-04 07:29:41 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:29:42 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:29:42 释放结果集
+2015-01-04 07:29:42 完成整个查询任务,所用时间为1.47345280647
+2015-01-04 07:33:12 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:33:12 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:33:12 释放结果集
+2015-01-04 07:33:12 完成整个查询任务,所用时间为0.279979944229
+2015-01-04 07:34:07 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:34:07 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:34:07 释放结果集
+2015-01-04 07:34:07 完成整个查询任务,所用时间为0.574518203735
+2015-01-04 07:34:22 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:34:22 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:34:22 释放结果集
+2015-01-04 07:34:22 完成整个查询任务,所用时间为0.285489082336
+2015-01-04 07:36:36 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:36:36 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:36:36 释放结果集
+2015-01-04 07:36:36 完成整个查询任务,所用时间为0.279674053192
+2015-01-04 07:37:04 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:37:04 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:37:04 释放结果集
+2015-01-04 07:37:04 完成整个查询任务,所用时间为0.580776929855
+2015-01-04 07:38:40 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:38:40 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:38:40 释放结果集
+2015-01-04 07:38:40 完成整个查询任务,所用时间为0.271906137466
+2015-01-04 07:39:00 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:39:00 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:39:00 释放结果集
+2015-01-04 07:39:00 完成整个查询任务,所用时间为0.375149965286
+2015-01-04 07:42:18 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:42:18 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:42:18 释放结果集
+2015-01-04 07:42:18 完成整个查询任务,所用时间为0.335675001144
+2015-01-04 07:43:09 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:09 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:09 释放结果集
+2015-01-04 07:43:09 完成整个查询任务,所用时间为0.348456859589
+2015-01-04 07:43:12 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:13 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:13 释放结果集
+2015-01-04 07:43:13 完成整个查询任务,所用时间为0.30727481842
+2015-01-04 07:43:22 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:22 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:43:22 释放结果集
+2015-01-04 07:43:22 完成整个查询任务,所用时间为0.353214979172
+2015-01-04 07:44:31 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:44:31 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:44:31 释放结果集
+2015-01-04 07:44:31 完成整个查询任务,所用时间为0.291992902756
+2015-01-04 07:45:45 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:45:45 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:45:45 释放结果集
+2015-01-04 07:45:45 完成整个查询任务,所用时间为0.290518045425
+2015-01-04 07:51:38 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:51:38 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:51:38 释放结果集
+2015-01-04 07:51:38 完成整个查询任务,所用时间为0.278131961823
+2015-01-04 07:53:07 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:53:07 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:53:08 释放结果集
+2015-01-04 07:53:08 完成整个查询任务,所用时间为0.363963127136
+2015-01-04 07:53:41 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:53:41 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:53:41 释放结果集
+2015-01-04 07:53:41 完成整个查询任务,所用时间为0.333236217499
+2015-01-04 07:54:05 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:54:05 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:54:05 释放结果集
+2015-01-04 07:54:05 完成整个查询任务,所用时间为0.585577964783
+2015-01-04 07:55:46 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:55:46 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:55:46 释放结果集
+2015-01-04 07:55:46 完成整个查询任务,所用时间为0.279633045197
+2015-01-04 07:56:10 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:56:10 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:56:10 释放结果集
+2015-01-04 07:56:10 完成整个查询任务,所用时间为0.580689907074
+2015-01-04 07:56:45 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:56:45 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:56:45 释放结果集
+2015-01-04 07:56:45 完成整个查询任务,所用时间为0.572507143021
+2015-01-04 07:57:15 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:57:15 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:57:15 释放结果集
+2015-01-04 07:57:15 完成整个查询任务,所用时间为0.635791063309
+2015-01-04 07:57:17 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:57:17 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:57:17 释放结果集
+2015-01-04 07:57:17 完成整个查询任务,所用时间为0.286414146423
+2015-01-04 07:58:52 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:58:52 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:58:52 释放结果集
+2015-01-04 07:58:52 完成整个查询任务,所用时间为0.276546955109
+2015-01-04 07:59:18 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:59:18 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:59:18 释放结果集
+2015-01-04 07:59:18 完成整个查询任务,所用时间为0.585175037384
+2015-01-04 07:59:21 查询 SELECT * FROM `question` where id = 8
+2015-01-04 07:59:21 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 07:59:21 释放结果集
+2015-01-04 07:59:21 完成整个查询任务,所用时间为0.58388710022
+2015-01-04 08:12:25 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:12:25 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:12:25 释放结果集
+2015-01-04 08:12:25 完成整个查询任务,所用时间为0.329715967178
+2015-01-04 08:13:40 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:13:40 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:13:40 释放结果集
+2015-01-04 08:13:40 完成整个查询任务,所用时间为0.285576105118
+2015-01-04 08:13:59 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:13:59 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:13:59 释放结果集
+2015-01-04 08:13:59 完成整个查询任务,所用时间为0.274661064148
+2015-01-04 08:16:06 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:16:06 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:16:06 释放结果集
+2015-01-04 08:16:06 完成整个查询任务,所用时间为0.339756011963
+2015-01-04 08:16:38 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:16:38 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:16:38 释放结果集
+2015-01-04 08:16:38 完成整个查询任务,所用时间为0.276990890503
+2015-01-04 08:18:24 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:18:24 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:18:24 释放结果集
+2015-01-04 08:18:24 完成整个查询任务,所用时间为0.347028017044
+2015-01-04 08:20:21 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:20:21 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:20:22 释放结果集
+2015-01-04 08:20:22 完成整个查询任务,所用时间为0.359586000443
+2015-01-04 08:25:19 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:25:19 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:25:19 释放结果集
+2015-01-04 08:25:19 完成整个查询任务,所用时间为0.581066846848
+2015-01-04 08:25:22 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:25:22 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:25:22 释放结果集
+2015-01-04 08:25:22 完成整个查询任务,所用时间为0.277193069458
+2015-01-04 08:26:21 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:21 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:21 释放结果集
+2015-01-04 08:26:21 完成整个查询任务,所用时间为0.593543052673
+2015-01-04 08:26:23 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:23 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:23 释放结果集
+2015-01-04 08:26:23 完成整个查询任务,所用时间为0.280709028244
+2015-01-04 08:26:47 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:47 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:26:47 释放结果集
+2015-01-04 08:26:47 完成整个查询任务,所用时间为0.267904996872
+2015-01-04 08:27:57 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:27:57 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:27:57 释放结果集
+2015-01-04 08:27:57 完成整个查询任务,所用时间为0.316349029541
+2015-01-04 08:29:13 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:29:13 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:29:13 释放结果集
+2015-01-04 08:29:13 完成整个查询任务,所用时间为0.275551080704
+2015-01-04 08:30:10 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:30:10 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:30:10 释放结果集
+2015-01-04 08:30:10 完成整个查询任务,所用时间为0.278920888901
+2015-01-04 08:31:19 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:31:19 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:31:19 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:31:19 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:31:19 释放结果集
+2015-01-04 08:31:19 完成整个查询任务,所用时间为0.420140981674
+2015-01-04 08:33:12 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:33:12 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:33:12 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:33:12 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:33:12 释放结果集
+2015-01-04 08:33:12 完成整个查询任务,所用时间为0.348598003387
+2015-01-04 08:33:23 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:33:23 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:33:23 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:33:23 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:33:23 释放结果集
+2015-01-04 08:33:23 完成整个查询任务,所用时间为0.352277040482
+2015-01-04 08:34:49 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:34:49 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:34:49 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:34:49 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:34:49 释放结果集
+2015-01-04 08:34:49 完成整个查询任务,所用时间为0.446393013
+2015-01-04 08:35:47 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:35:47 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:35:47 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:35:47 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:35:47 释放结果集
+2015-01-04 08:35:47 完成整个查询任务,所用时间为0.411289930344
+2015-01-04 08:36:05 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:05 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:05 释放结果集
+2015-01-04 08:36:05 完成整个查询任务,所用时间为0.65764093399
+2015-01-04 08:36:08 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:08 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:08 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:36:08 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:36:08 释放结果集
+2015-01-04 08:36:08 完成整个查询任务,所用时间为0.362094163895
+2015-01-04 08:36:13 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:13 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:13 释放结果集
+2015-01-04 08:36:13 完成整个查询任务,所用时间为0.27970790863
+2015-01-04 08:36:15 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:15 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:36:15 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:36:16 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:36:16 释放结果集
+2015-01-04 08:36:16 完成整个查询任务,所用时间为0.366748809814
+2015-01-04 08:37:25 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:37:25 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:37:25 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:37:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:37:25 释放结果集
+2015-01-04 08:37:25 完成整个查询任务,所用时间为0.725655078888
+2015-01-04 08:38:04 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:38:04 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:38:04 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:38:04 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:38:04 释放结果集
+2015-01-04 08:38:04 完成整个查询任务,所用时间为0.386703968048
+2015-01-04 08:38:19 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:38:19 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:38:19 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:38:19 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:38:19 释放结果集
+2015-01-04 08:38:19 完成整个查询任务,所用时间为0.358878135681
+2015-01-04 08:39:25 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:25 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:25 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:39:25 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:39:25 释放结果集
+2015-01-04 08:39:25 完成整个查询任务,所用时间为0.72579407692
+2015-01-04 08:39:40 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:40 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:40 释放结果集
+2015-01-04 08:39:40 完成整个查询任务,所用时间为0.280688047409
+2015-01-04 08:39:48 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:48 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:39:48 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:39:48 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:39:48 释放结果集
+2015-01-04 08:39:48 完成整个查询任务,所用时间为0.672317028046
+2015-01-04 08:41:17 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:41:17 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:41:17 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:41:17 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:41:17 释放结果集
+2015-01-04 08:41:17 完成整个查询任务,所用时间为0.359624862671
+2015-01-04 08:58:41 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:58:41 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:58:41 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:58:41 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:58:41 释放结果集
+2015-01-04 08:58:41 完成整个查询任务,所用时间为0.382323026657
+2015-01-04 08:59:17 查询 SELECT * FROM `question` where id = 8
+2015-01-04 08:59:17 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 08:59:17 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 08:59:17 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 08:59:17 释放结果集
+2015-01-04 08:59:17 完成整个查询任务,所用时间为0.726487874985
+2015-01-04 09:15:55 查询 SELECT * FROM `question` where id = 8
+2015-01-04 09:15:55 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 09:15:55 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 09:15:55 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 09:15:55 释放结果集
+2015-01-04 09:15:55 完成整个查询任务,所用时间为0.351048946381
+2015-01-04 09:19:59 查询 SELECT * FROM `question` where id = 8
+2015-01-04 09:19:59 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 09:19:59 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 09:19:59 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 09:19:59 释放结果集
+2015-01-04 09:19:59 完成整个查询任务,所用时间为0.359241962433
+2015-01-04 09:20:38 查询 SELECT * FROM `question` where id = 8
+2015-01-04 09:20:38 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 09:20:38 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 09:20:38 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 09:20:38 释放结果集
+2015-01-04 09:20:38 完成整个查询任务,所用时间为0.369907140732
+2015-01-04 10:28:51 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:28:51 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:28:51 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 10:28:51 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 10:28:51 释放结果集
+2015-01-04 10:28:51 完成整个查询任务,所用时间为0.343831062317
+2015-01-04 10:28:56 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:28:56 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:28:56 释放结果集
+2015-01-04 10:28:56 完成整个查询任务,所用时间为0.260339021683
+2015-01-04 10:29:00 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:29:00 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:29:00 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 10:29:00 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 10:29:00 释放结果集
+2015-01-04 10:29:00 完成整个查询任务,所用时间为0.305063962936
+2015-01-04 10:29:37 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:29:37 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:29:37 释放结果集
+2015-01-04 10:29:37 完成整个查询任务,所用时间为0.273065805435
+2015-01-04 10:30:22 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:30:22 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:30:22 释放结果集
+2015-01-04 10:30:22 完成整个查询任务,所用时间为0.319648981094
+2015-01-04 10:30:24 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:30:24 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:30:24 释放结果集
+2015-01-04 10:30:24 完成整个查询任务,所用时间为0.270090103149
+2015-01-04 10:31:07 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:31:07 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:31:07 释放结果集
+2015-01-04 10:31:07 完成整个查询任务,所用时间为0.346261978149
+2015-01-04 10:32:05 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:32:05 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:32:05 释放结果集
+2015-01-04 10:32:05 完成整个查询任务,所用时间为0.334304094315
+2015-01-04 10:32:46 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:32:46 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:32:47 释放结果集
+2015-01-04 10:32:47 完成整个查询任务,所用时间为0.305984973907
+2015-01-04 10:38:08 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:38:08 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:38:08 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 10:38:09 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 10:38:09 释放结果集
+2015-01-04 10:38:09 完成整个查询任务,所用时间为0.741669178009
+2015-01-04 10:38:16 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:38:16 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:38:16 查询 SELECT * FROM `tag` where id = 4
+2015-01-04 10:38:16 获取一条记录 SELECT * FROM `tag` where id = 4
+2015-01-04 10:38:16 释放结果集
+2015-01-04 10:38:16 完成整个查询任务,所用时间为0.289149999619
+2015-01-04 10:41:32 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:41:33 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:41:33 释放结果集
+2015-01-04 10:41:33 完成整个查询任务,所用时间为0.247447013855
+2015-01-04 10:42:18 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:42:18 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:42:18 释放结果集
+2015-01-04 10:42:18 完成整个查询任务,所用时间为0.234488010406
+2015-01-04 10:42:40 查询 SELECT * FROM `question` where id = 8
+2015-01-04 10:42:41 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-04 10:42:41 释放结果集
+2015-01-04 10:42:41 完成整个查询任务,所用时间为1.27448511124
+2015-01-08 04:04:45 插入 insert into tag(id,name) values('','')
+2015-01-08 04:04:45 查询 insert into tag(id,name) values('','')
+2015-01-08 04:04:45 最后插入的id为43
+2015-01-08 04:04:45 插入 insert into question(id,title,tag,content,answer) values('','','43','','')
+2015-01-08 04:04:45 查询 insert into question(id,title,tag,content,answer) values('','','43','','')
+2015-01-08 04:04:45 释放结果集
+2015-01-08 04:04:45 完成整个查询任务,所用时间为0.282176017761
+2015-01-08 04:05:11 查询 SELECT * FROM `question` where id = 8
+2015-01-08 04:05:11 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-08 04:05:11 释放结果集
+2015-01-08 04:05:11 完成整个查询任务,所用时间为0.141849994659
+2015-01-08 04:05:16 查询 SELECT * FROM `question` where id = 8
+2015-01-08 04:05:16 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-08 04:05:16 查询 SELECT * FROM `tag` where id = 38
+2015-01-08 04:05:16 获取一条记录 SELECT * FROM `tag` where id = 38
+2015-01-08 04:05:16 释放结果集
+2015-01-08 04:05:16 完成整个查询任务,所用时间为0.255307912827
+=======
+2014-12-17 09:59:13 查询 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:13 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:13 查询 SELECT * FROM `tag` where id = 2
+2014-12-17 09:59:13 获取一条记录 SELECT * FROM `tag` where id = 2
+2014-12-17 09:59:13 释放结果集
+2014-12-17 09:59:13 完成整个查询任务,所用时间为0.183109998703
+2014-12-17 09:59:17 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:17 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:17 最后插入的id为6
+2014-12-17 09:59:17 更新 update question set title = 'asdf',tag = '6',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg',title = 'asdf',tag = '6',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg' where 1=1 and id=6
+2014-12-17 09:59:17 查询 update question set title = 'asdf',tag = '6',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg',title = 'asdf',tag = '6',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg' where 1=1 and id=6
+2014-12-17 09:59:17 释放结果集
+2014-12-17 09:59:17 完成整个查询任务,所用时间为0.19522714614868
+2014-12-17 09:59:19 查询 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:19 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:19 查询 SELECT * FROM `tag` where id = 6
+2014-12-17 09:59:19 获取一条记录 SELECT * FROM `tag` where id = 6
+2014-12-17 09:59:19 释放结果集
+2014-12-17 09:59:19 完成整个查询任务,所用时间为0.19368600845337
+2014-12-17 09:59:21 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:21 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:22 最后插入的id为7
+2014-12-17 09:59:22 更新 update question set title = 'asdffff',tag = '7',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg',title = 'asdffff',tag = '7',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg' where 1=1 and id=6
+2014-12-17 09:59:22 查询 update question set title = 'asdffff',tag = '7',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg',title = 'asdffff',tag = '7',content = '#sadfasdfsddfg',answer = '#asdfasdfasdfdfgsdfg' where 1=1 and id=6
+2014-12-17 09:59:22 释放结果集
+2014-12-17 09:59:22 完成整个查询任务,所用时间为0.23128485679626
+2014-12-17 09:59:24 查询 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:24 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 09:59:24 查询 SELECT * FROM `tag` where id = 7
+2014-12-17 09:59:24 获取一条记录 SELECT * FROM `tag` where id = 7
+2014-12-17 09:59:24 释放结果集
+2014-12-17 09:59:24 完成整个查询任务,所用时间为0.11981391906738
+2014-12-17 09:59:31 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:31 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 09:59:31 最后插入的id为8
+2014-12-17 09:59:31 更新 update question set title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')',title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')' where 1=1 and id=6
+2014-12-17 09:59:31 查询 update question set title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')',title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')' where 1=1 and id=6
+2014-12-17 09:59:31 Query Error: update question set title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')',title = 'asdffff',tag = '8',content = '$(element).is('input')',answer = '$(element).is('input')' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'input')',answer = '$(element).is('input')',title = 'asdffff',tag = '8',content =' at line 1
+2014-12-17 09:59:31 释放结果集
+2014-12-17 09:59:31 完成整个查询任务,所用时间为0.10830903053284
+2014-12-17 10:00:00 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:00 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:00 最后插入的id为9
+2014-12-17 10:00:00 更新 update question set title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```',title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```' where 1=1 and id=6
+2014-12-17 10:00:00 查询 update question set title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```',title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```' where 1=1 and id=6
+2014-12-17 10:00:01 Query Error: update question set title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```',title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(element).is('input')
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'input')
+```',title = 'asdffff',tag = '9',content = 'sdfasdf',answer = '```
+$(e' at line 1
+2014-12-17 10:00:01 释放结果集
+2014-12-17 10:00:01 完成整个查询任务,所用时间为0.13108611106873
+2014-12-17 10:00:39 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:39 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:39 最后插入的id为10
+2014-12-17 10:00:39 更新 update question set title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:00:39 查询 update question set title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:00:39 Query Error: update question set title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '10',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag' at line 1
+2014-12-17 10:00:39 释放结果集
+2014-12-17 10:00:39 完成整个查询任务,所用时间为0.1112048625946
+2014-12-17 10:00:47 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:47 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:00:47 最后插入的id为11
+2014-12-17 10:00:47 更新 update question set title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:00:47 查询 update question set title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:00:47 Query Error: update question set title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '11',content = 'sdfasdf',answer = '```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag' at line 1
+2014-12-17 10:00:47 释放结果集
+2014-12-17 10:00:47 完成整个查询任务,所用时间为0.14442896842957
+2014-12-17 10:01:50 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:01:50 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:01:50 最后插入的id为12
+2014-12-17 10:01:50 更新 update question set title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:01:50 查询 update question set title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:01:50 Query Error: update question set title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '```python
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hello world'
+```',title = 'asdffff',tag = '12',content = 'sdfasdf',answer = '``' at line 1
+2014-12-17 10:01:50 释放结果集
+2014-12-17 10:01:50 完成整个查询任务,所用时间为0.10963010787964
+2014-12-17 10:02:00 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:02:00 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:02:00 最后插入的id为13
+2014-12-17 10:02:00 更新 update question set title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```',title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:02:00 查询 update question set title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```',title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:02:00 Query Error: update question set title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```',title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '```python
+    print 'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hello world'
+```',title = 'asdffff',tag = '13',content = 'sdfasdf',answer = '``' at line 1
+2014-12-17 10:02:00 释放结果集
+2014-12-17 10:02:00 完成整个查询任务,所用时间为0.14638686180115
+2014-12-17 10:03:24 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:24 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:24 最后插入的id为14
+2014-12-17 10:03:24 更新 update question set title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:03:24 查询 update question set title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:03:25 Query Error: update question set title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sdfasfd'
+```',title = 'asdffff',tag = '14',content = 'sdfasdf',answer = '```pyt' at line 1
+2014-12-17 10:03:25 释放结果集
+2014-12-17 10:03:25 完成整个查询任务,所用时间为0.14489912986755
+2014-12-17 10:03:37 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:37 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:37 最后插入的id为15
+2014-12-17 10:03:37 更新 update question set title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```',title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:03:37 查询 update question set title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```',title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:03:37 Query Error: update question set title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```',title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+    'sdfasfd'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sdfasfd'
+```',title = 'asdffff',tag = '15',content = 'sdfasdf',answer = '```
+ ' at line 1
+2014-12-17 10:03:37 释放结果集
+2014-12-17 10:03:37 完成整个查询任务,所用时间为0.10645985603333
+2014-12-17 10:03:47 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:47 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:47 最后插入的id为16
+2014-12-17 10:03:47 更新 update question set title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+',title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+' where 1=1 and id=6
+2014-12-17 10:03:47 查询 update question set title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+',title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+' where 1=1 and id=6
+2014-12-17 10:03:47 Query Error: update question set title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+',title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sdfasfd'
+' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sdfasfd'
+',title = 'asdffff',tag = '16',content = 'sdfasdf',answer = '
+    'sd' at line 1
+2014-12-17 10:03:47 释放结果集
+2014-12-17 10:03:47 完成整个查询任务,所用时间为0.10922908782959
+2014-12-17 10:03:54 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:54 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:03:54 最后插入的id为17
+2014-12-17 10:03:54 更新 update question set title = 'asdffff',tag = '17',content = 'sdfasdf',answer = '
+    sdfasfd
+',title = 'asdffff',tag = '17',content = 'sdfasdf',answer = '
+    sdfasfd
+' where 1=1 and id=6
+2014-12-17 10:03:54 查询 update question set title = 'asdffff',tag = '17',content = 'sdfasdf',answer = '
+    sdfasfd
+',title = 'asdffff',tag = '17',content = 'sdfasdf',answer = '
+    sdfasfd
+' where 1=1 and id=6
+2014-12-17 10:03:54 释放结果集
+2014-12-17 10:03:54 完成整个查询任务,所用时间为0.23541903495789
+2014-12-17 10:03:57 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:03:57 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:03:57 查询 SELECT * FROM `tag` where id = 17
+2014-12-17 10:03:57 获取一条记录 SELECT * FROM `tag` where id = 17
+2014-12-17 10:03:57 释放结果集
+2014-12-17 10:03:57 完成整个查询任务,所用时间为0.10789895057678
+2014-12-17 10:05:29 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:05:29 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:05:29 最后插入的id为18
+2014-12-17 10:05:29 更新 update question set title = 'asdffff',tag = '18',content = 'sdfasdf',answer = 'dfgsdfgsdfgasdfasdf',title = 'asdffff',tag = '18',content = 'sdfasdf',answer = 'dfgsdfgsdfgasdfasdf' where 1=1 and id=6
+2014-12-17 10:05:29 查询 update question set title = 'asdffff',tag = '18',content = 'sdfasdf',answer = 'dfgsdfgsdfgasdfasdf',title = 'asdffff',tag = '18',content = 'sdfasdf',answer = 'dfgsdfgsdfgasdfasdf' where 1=1 and id=6
+2014-12-17 10:05:29 释放结果集
+2014-12-17 10:05:29 完成整个查询任务,所用时间为0.12760305404663
+2014-12-17 10:05:31 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:05:31 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:05:31 查询 SELECT * FROM `tag` where id = 18
+2014-12-17 10:05:31 获取一条记录 SELECT * FROM `tag` where id = 18
+2014-12-17 10:05:31 释放结果集
+2014-12-17 10:05:31 完成整个查询任务,所用时间为0.15903997421265
+2014-12-17 10:05:53 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:05:53 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:05:53 最后插入的id为19
+2014-12-17 10:05:53 更新 update question set title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:05:53 查询 update question set title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+2014-12-17 10:05:53 Query Error: update question set title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```',title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```python
+    print 'sdfasfd'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sdfasfd'
+```',title = 'asdffff',tag = '19',content = 'sdfasdf',answer = '```pyt' at line 1
+2014-12-17 10:05:53 释放结果集
+2014-12-17 10:05:53 完成整个查询任务,所用时间为0.10400700569153
+2014-12-17 10:06:35 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:06:35 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:06:35 最后插入的id为20
+2014-12-17 10:06:35 更新 update question set title = 'asdffff',tag = '20',content = 'sdfasdf',answer = '```
+```',title = 'asdffff',tag = '20',content = 'sdfasdf',answer = '```
+```' where 1=1 and id=6
+2014-12-17 10:06:35 查询 update question set title = 'asdffff',tag = '20',content = 'sdfasdf',answer = '```
+```',title = 'asdffff',tag = '20',content = 'sdfasdf',answer = '```
+```' where 1=1 and id=6
+2014-12-17 10:06:35 释放结果集
+2014-12-17 10:06:35 完成整个查询任务,所用时间为0.10685610771179
+2014-12-17 10:06:37 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:06:37 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:06:37 查询 SELECT * FROM `tag` where id = 20
+2014-12-17 10:06:38 获取一条记录 SELECT * FROM `tag` where id = 20
+2014-12-17 10:06:38 释放结果集
+2014-12-17 10:06:38 完成整个查询任务,所用时间为0.13616895675659
+2014-12-17 10:06:52 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:06:52 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:06:52 最后插入的id为21
+2014-12-17 10:06:52 更新 update question set title = 'asdffff',tag = '21',content = 'sdfasdf',answer = '```
+
+python
+```',title = 'asdffff',tag = '21',content = 'sdfasdf',answer = '```
+
+python
+```' where 1=1 and id=6
+2014-12-17 10:06:52 查询 update question set title = 'asdffff',tag = '21',content = 'sdfasdf',answer = '```
+
+python
+```',title = 'asdffff',tag = '21',content = 'sdfasdf',answer = '```
+
+python
+```' where 1=1 and id=6
+2014-12-17 10:06:52 释放结果集
+2014-12-17 10:06:52 完成整个查询任务,所用时间为0.10722494125366
+2014-12-17 10:06:53 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:06:53 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:06:53 查询 SELECT * FROM `tag` where id = 21
+2014-12-17 10:06:53 获取一条记录 SELECT * FROM `tag` where id = 21
+2014-12-17 10:06:53 释放结果集
+2014-12-17 10:06:53 完成整个查询任务,所用时间为0.11300182342529
+2014-12-17 10:07:03 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:03 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:03 最后插入的id为22
+2014-12-17 10:07:03 更新 update question set title = 'asdffff',tag = '22',content = 'sdfasdf',answer = '```
+class
+python
+```',title = 'asdffff',tag = '22',content = 'sdfasdf',answer = '```
+class
+python
+```' where 1=1 and id=6
+2014-12-17 10:07:03 查询 update question set title = 'asdffff',tag = '22',content = 'sdfasdf',answer = '```
+class
+python
+```',title = 'asdffff',tag = '22',content = 'sdfasdf',answer = '```
+class
+python
+```' where 1=1 and id=6
+2014-12-17 10:07:03 释放结果集
+2014-12-17 10:07:03 完成整个查询任务,所用时间为0.16439604759216
+2014-12-17 10:07:05 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:07:05 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:07:05 查询 SELECT * FROM `tag` where id = 22
+2014-12-17 10:07:05 获取一条记录 SELECT * FROM `tag` where id = 22
+2014-12-17 10:07:05 释放结果集
+2014-12-17 10:07:05 完成整个查询任务,所用时间为0.11449599266052
+2014-12-17 10:07:21 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:21 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:21 最后插入的id为23
+2014-12-17 10:07:21 更新 update question set title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:07:21 查询 update question set title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:07:21 Query Error: update question set title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag = '23',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '__main__':
+    # A comment
+    print 'hello world'
+```',title = 'asdffff',tag' at line 1
+2014-12-17 10:07:21 释放结果集
+2014-12-17 10:07:21 完成整个查询任务,所用时间为0.24803781509399
+2014-12-17 10:07:34 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:34 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:34 最后插入的id为24
+2014-12-17 10:07:34 更新 update question set title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```',title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:07:34 查询 update question set title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```',title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```' where 1=1 and id=6
+2014-12-17 10:07:34 Query Error: update question set title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```',title = 'asdffff',tag = '24',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    'hello world'
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '__main__':
+    # A comment
+    'hello world'
+```',title = 'asdffff',tag = '24' at line 1
+2014-12-17 10:07:34 释放结果集
+2014-12-17 10:07:34 完成整个查询任务,所用时间为0.10413908958435
+2014-12-17 10:07:40 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:40 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:40 最后插入的id为25
+2014-12-17 10:07:40 更新 update question set title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```',title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```' where 1=1 and id=6
+2014-12-17 10:07:40 查询 update question set title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```',title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```' where 1=1 and id=6
+2014-12-17 10:07:40 Query Error: update question set title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```',title = 'asdffff',tag = '25',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '__main__':
+    # A comment
+   
+```',title = 'asdffff',tag = '25',content = 's' at line 1
+2014-12-17 10:07:40 释放结果集
+2014-12-17 10:07:40 完成整个查询任务,所用时间为0.16621112823486
+2014-12-17 10:07:53 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:53 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:07:53 最后插入的id为26
+2014-12-17 10:07:53 更新 update question set title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```',title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```' where 1=1 and id=6
+2014-12-17 10:07:53 查询 update question set title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```',title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```' where 1=1 and id=6
+2014-12-17 10:07:53 Query Error: update question set title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```',title = 'asdffff',tag = '26',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+    # A comment
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sss':
+    # A comment
+   
+```',title = 'asdffff',tag = '26',content = 'sdfasd' at line 1
+2014-12-17 10:07:53 释放结果集
+2014-12-17 10:07:53 完成整个查询任务,所用时间为0.1128089427948
+2014-12-17 10:08:05 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:05 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:05 最后插入的id为27
+2014-12-17 10:08:05 更新 update question set title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```',title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:05 查询 update question set title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```',title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:05 Query Error: update question set title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```',title = 'asdffff',tag = '27',content = 'sdfasdf',answer = '```
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == 'sss':
+   
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sss':
+   
+   
+```',title = 'asdffff',tag = '27',content = 'sdfasdf',answer = ' at line 1
+2014-12-17 10:08:05 释放结果集
+2014-12-17 10:08:05 完成整个查询任务,所用时间为0.13175988197327
+2014-12-17 10:08:23 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:23 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:23 最后插入的id为28
+2014-12-17 10:08:23 更新 update question set title = 'asdffff',tag = '28',content = 'sdfasdf',answer = '```
+
+   
+   
+```',title = 'asdffff',tag = '28',content = 'sdfasdf',answer = '```
+
+   
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:23 查询 update question set title = 'asdffff',tag = '28',content = 'sdfasdf',answer = '```
+
+   
+   
+```',title = 'asdffff',tag = '28',content = 'sdfasdf',answer = '```
+
+   
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:23 释放结果集
+2014-12-17 10:08:23 完成整个查询任务,所用时间为0.14345192909241
+2014-12-17 10:08:25 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:08:25 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:08:25 查询 SELECT * FROM `tag` where id = 28
+2014-12-17 10:08:25 获取一条记录 SELECT * FROM `tag` where id = 28
+2014-12-17 10:08:25 释放结果集
+2014-12-17 10:08:25 完成整个查询任务,所用时间为0.12145590782166
+2014-12-17 10:08:39 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:39 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:08:39 最后插入的id为29
+2014-12-17 10:08:39 更新 update question set title = 'asdffff',tag = '29',content = 'sdfasdf',answer = '```
+
+   $(element).get(0).tagName
+   
+```',title = 'asdffff',tag = '29',content = 'sdfasdf',answer = '```
+
+   $(element).get(0).tagName
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:39 查询 update question set title = 'asdffff',tag = '29',content = 'sdfasdf',answer = '```
+
+   $(element).get(0).tagName
+   
+```',title = 'asdffff',tag = '29',content = 'sdfasdf',answer = '```
+
+   $(element).get(0).tagName
+   
+```' where 1=1 and id=6
+2014-12-17 10:08:39 释放结果集
+2014-12-17 10:08:39 完成整个查询任务,所用时间为0.1265070438385
+2014-12-17 10:08:41 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:08:41 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:08:41 查询 SELECT * FROM `tag` where id = 29
+2014-12-17 10:08:41 获取一条记录 SELECT * FROM `tag` where id = 29
+2014-12-17 10:08:41 释放结果集
+2014-12-17 10:08:41 完成整个查询任务,所用时间为0.10283708572388
+2014-12-17 10:09:21 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:21 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:21 最后插入的id为30
+2014-12-17 10:09:21 更新 update question set title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:21 查询 update question set title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:21 Query Error: update question set title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '30',content = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   ',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'input')
+   
+```',title = 'asdffff',tag = '30',content = '```
+$(element)[0].ta' at line 1
+2014-12-17 10:09:21 释放结果集
+2014-12-17 10:09:21 完成整个查询任务,所用时间为0.12247896194458
+2014-12-17 10:09:28 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:28 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:28 最后插入的id为31
+2014-12-17 10:09:28 更新 update question set title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:28 查询 update question set title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:28 Query Error: update question set title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```',title = 'asdffff',tag = '31',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('input')
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'input')
+   
+```',title = 'asdffff',tag = '31',content = '',answer = '```
+$(el' at line 1
+2014-12-17 10:09:28 释放结果集
+2014-12-17 10:09:28 完成整个查询任务,所用时间为0.14248204231262
+2014-12-17 10:09:35 插入 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:35 查询 insert into tag(id,name) values('','sadf')
+2014-12-17 10:09:35 最后插入的id为32
+2014-12-17 10:09:35 更新 update question set title = 'asdffff',tag = '32',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+
+   
+```',title = 'asdffff',tag = '32',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:35 查询 update question set title = 'asdffff',tag = '32',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+
+   
+```',title = 'asdffff',tag = '32',content = '',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+
+   
+```' where 1=1 and id=6
+2014-12-17 10:09:35 释放结果集
+2014-12-17 10:09:35 完成整个查询任务,所用时间为0.11829686164856
+2014-12-17 10:09:37 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:09:37 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:09:37 释放结果集
+2014-12-17 10:09:37 完成整个查询任务,所用时间为0.19513487815857
+2014-12-17 10:10:57 查询 SELECT * FROM `question` where id = 6
+2014-12-17 10:10:57 获取一条记录 SELECT * FROM `question` where id = 6
+2014-12-17 10:10:57 查询 SELECT * FROM `tag` where id = 32
+2014-12-17 10:10:57 获取一条记录 SELECT * FROM `tag` where id = 32
+2014-12-17 10:10:57 释放结果集
+2014-12-17 10:10:57 完成整个查询任务,所用时间为0.11547303199768
+2014-12-17 10:13:04 插入 insert into tag(id,name) values('','jquery')
+2014-12-17 10:13:04 查询 insert into tag(id,name) values('','jquery')
+2014-12-17 10:13:04 最后插入的id为33
+2014-12-17 10:13:04 更新 update question set title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```',title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```' where 1=1 and id=6
+2014-12-17 10:13:04 查询 update question set title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```',title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```' where 1=1 and id=6
+2014-12-17 10:13:04 Query Error: update question set title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```',title = 'jquery获取元素标签名称',tag = '33',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+$(element).is('p')
+   
+```' where 1=1 and id=6
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'p')
+   
+```',title = 'jquery获取元素标签名称',tag = '33',content = 'jq' at line 1
+2014-12-17 10:13:04 释放结果集
+2014-12-17 10:13:04 完成整个查询任务,所用时间为0.24976110458374
+2014-12-17 10:13:20 插入 insert into tag(id,name) values('','jquery')
+2014-12-17 10:13:20 查询 insert into tag(id,name) values('','jquery')
+2014-12-17 10:13:20 最后插入的id为34
+2014-12-17 10:13:20 更新 update question set title = 'jquery获取元素标签名称',tag = '34',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   
+```',title = 'jquery获取元素标签名称',tag = '34',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   
+```' where 1=1 and id=6
+2014-12-17 10:13:20 查询 update question set title = 'jquery获取元素标签名称',tag = '34',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   
+```',title = 'jquery获取元素标签名称',tag = '34',content = 'jquery获取元素标签名称，判断某元素释放为p标签',answer = '```
+$(element)[0].tagName
+或：
+$(element).get(0).tagName
+   
+```' where 1=1 and id=6
+2014-12-17 10:13:21 释放结果集
+2014-12-17 10:13:21 完成整个查询任务,所用时间为0.12227392196655
+2014-12-29 06:35:40 查询 SELECT * FROM `question` where id = 9
+2014-12-29 06:35:40 获取一条记录 SELECT * FROM `question` where id = 9
+2014-12-29 06:35:40 释放结果集
+2014-12-29 06:35:40 完成整个查询任务,所用时间为0.26445817947388
+2014-12-31 05:22:39 查询 SELECT * FROM `question` where id = 8
+2014-12-31 05:22:39 获取一条记录 SELECT * FROM `question` where id = 8
+2014-12-31 05:22:39 查询 SELECT * FROM `tag` where id = 4
+2014-12-31 05:22:39 获取一条记录 SELECT * FROM `tag` where id = 4
+2014-12-31 05:22:39 释放结果集
+2014-12-31 05:22:39 完成整个查询任务,所用时间为0.32397103309631
+>>>>>>> e07aa1b3737350f40f266cc4434523e97db9b0a2
+2015-01-12 10:36:00 查询 SELECT * FROM `question` where id = 8
+2015-01-12 10:36:00 获取一条记录 SELECT * FROM `question` where id = 8
+2015-01-12 10:36:00 查询 SELECT * FROM `tag` where id = 38
+2015-01-12 10:36:00 获取一条记录 SELECT * FROM `tag` where id = 38
+2015-01-12 10:36:00 释放结果集
+2015-01-12 10:36:00 完成整个查询任务,所用时间为0.20830202102661
+2015-01-12 10:36:13 查询 SELECT * FROM `question` where id = 7
+2015-01-12 10:36:13 获取一条记录 SELECT * FROM `question` where id = 7
+2015-01-12 10:36:14 释放结果集
+2015-01-12 10:36:14 完成整个查询任务,所用时间为0.17037510871887
+2015-02-04 06:01:07 查询 SELECT * FROM `question` where id = 17
+2015-02-04 06:01:07 获取一条记录 SELECT * FROM `question` where id = 17
+2015-02-04 06:01:07 查询 SELECT * FROM `tag` where id = 49
+2015-02-04 06:01:07 获取一条记录 SELECT * FROM `tag` where id = 49
+2015-02-04 06:01:07 释放结果集
+2015-02-04 06:01:07 完成整个查询任务,所用时间为0.1689989566803
+2015-02-04 06:01:53 插入 insert into tag(id,name) values('','js')
+2015-02-04 06:01:53 查询 insert into tag(id,name) values('','js')
+2015-02-04 06:01:53 最后插入的id为52
+2015-02-04 06:01:53 更新 update question set title = '怎么理解this关键字',tag = '52',content = '怎么理解this关键字',answer = 'this永远指向调用该方法(函数)的那个对象.',title = '怎么理解this关键字',tag = '52',content = '怎么理解this关键字',answer = 'this永远指向调用该方法(函数)的那个对象.' where 1=1 and id=17
+2015-02-04 06:01:53 查询 update question set title = '怎么理解this关键字',tag = '52',content = '怎么理解this关键字',answer = 'this永远指向调用该方法(函数)的那个对象.',title = '怎么理解this关键字',tag = '52',content = '怎么理解this关键字',answer = 'this永远指向调用该方法(函数)的那个对象.' where 1=1 and id=17
+2015-02-04 06:01:53 释放结果集
+2015-02-04 06:01:53 完成整个查询任务,所用时间为0.14341902732849
+2015-02-04 06:05:05 插入 insert into tag(id,name) values('','')
+2015-02-04 06:05:05 查询 insert into tag(id,name) values('','')
+2015-02-04 06:05:05 最后插入的id为53
+2015-02-04 06:05:05 插入 insert into question(id,title,tag,content,answer) values('','JS中静态方法和属性','53','JS中静态方法和属性','* 就是不需要创建实例，直接可以通过类名调用方法.所谓静态:就是属于类的属于类本身的特征. 
+fn=function(){ 
+} 
+fn.name='张三'; 
+fn.getName=function(){ 
+return fn.name; 
+} ')
+2015-02-04 06:05:05 查询 insert into question(id,title,tag,content,answer) values('','JS中静态方法和属性','53','JS中静态方法和属性','* 就是不需要创建实例，直接可以通过类名调用方法.所谓静态:就是属于类的属于类本身的特征. 
+fn=function(){ 
+} 
+fn.name='张三'; 
+fn.getName=function(){ 
+return fn.name; 
+} ')
+2015-02-04 06:05:05 Query Error: insert into question(id,title,tag,content,answer) values('','JS中静态方法和属性','53','JS中静态方法和属性','* 就是不需要创建实例，直接可以通过类名调用方法.所谓静态:就是属于类的属于类本身的特征. 
+fn=function(){ 
+} 
+fn.name='张三'; 
+fn.getName=function(){ 
+return fn.name; 
+} ')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '张三'; 
+fn.getName=function(){ 
+return fn.name; 
+} ')' at line 1
+2015-02-04 06:05:05 释放结果集
+2015-02-04 06:05:05 完成整个查询任务,所用时间为0.2115330696106
+2015-02-15 08:53:04 释放结果集
+2015-02-15 08:53:04 完成整个查询任务,所用时间为0.41426610946655
+2015-02-15 10:00:49 插入 insert into tag(id,name) values('','asdf')
+2015-02-15 10:00:49 查询 insert into tag(id,name) values('','asdf')
+2015-02-15 10:00:49 最后插入的id为54
+2015-02-15 10:00:49 插入 insert into question(id,title,tag,content,answer) values('','asdf','54','','')
+2015-02-15 10:00:49 查询 insert into question(id,title,tag,content,answer) values('','asdf','54','','')
+2015-02-15 10:00:49 释放结果集
+2015-02-15 10:00:49 完成整个查询任务,所用时间为0.30988597869873
+2015-02-15 10:01:57 插入 insert into tag(id,name) values('','asdf')
+2015-02-15 10:01:57 查询 insert into tag(id,name) values('','asdf')
+2015-02-15 10:01:57 最后插入的id为55
+2015-02-15 10:01:57 插入 insert into question(id,title,tag,content,answer) values('','asdf','55','','')
+2015-02-15 10:01:57 查询 insert into question(id,title,tag,content,answer) values('','asdf','55','','')
+2015-02-15 10:01:57 Query Error: insert into question(id,title,tag,content,answer) values('','asdf','55','','')
+Duplicate entry 'asdf' for key 'title'
+2015-02-15 10:01:57 释放结果集
+2015-02-15 10:01:57 完成整个查询任务,所用时间为0.1068000793457
+2015-02-15 10:02:04 插入 insert into tag(id,name) values('','gsd')
+2015-02-15 10:02:04 查询 insert into tag(id,name) values('','gsd')
+2015-02-15 10:02:04 最后插入的id为56
+2015-02-15 10:02:04 插入 insert into question(id,title,tag,content,answer) values('','sgf','56','fgsdf','')
+2015-02-15 10:02:04 查询 insert into question(id,title,tag,content,answer) values('','sgf','56','fgsdf','')
+2015-02-15 10:02:04 释放结果集
+2015-02-15 10:02:04 完成整个查询任务,所用时间为0.11918687820435
+2015-02-15 10:05:15 查询 SELECT * FROM `question`
+2015-02-15 10:05:15 释放结果集
+2015-02-15 10:05:15 完成整个查询任务,所用时间为0.22254705429077
+2015-02-15 10:06:42 查询 SELECT * FROM `question`
+2015-02-15 10:06:42 释放结果集
+2015-02-15 10:06:42 完成整个查询任务,所用时间为0.19323897361755
+2015-02-15 10:06:47 查询 SELECT * FROM `question`
+2015-02-15 10:06:47 释放结果集
+2015-02-15 10:06:47 完成整个查询任务,所用时间为0.16640901565552
+2015-02-15 10:07:20 查询 SELECT * FROM `question`
+2015-02-15 10:07:20 释放结果集
+2015-02-15 10:07:20 完成整个查询任务,所用时间为0.28175401687622
+2015-02-15 10:07:39 查询 SELECT * FROM `question`
+2015-02-15 10:07:39 释放结果集
+2015-02-15 10:07:39 完成整个查询任务,所用时间为0.091089010238647
+2015-02-15 10:08:12 查询 SELECT * FROM `question`
+2015-02-15 10:08:12 释放结果集
+2015-02-15 10:08:12 完成整个查询任务,所用时间为0.32827305793762
+2015-02-15 10:11:21 查询 SELECT * FROM `question`
+2015-02-15 10:11:21 释放结果集
+2015-02-15 10:11:21 完成整个查询任务,所用时间为0.17478919029236
+2015-02-15 10:11:27 查询 SELECT * FROM `question`
+2015-02-15 10:11:27 释放结果集
+2015-02-15 10:11:27 完成整个查询任务,所用时间为0.12358117103577
+2015-02-15 10:11:59 查询 SELECT * FROM `question`
+2015-02-15 10:11:59 释放结果集
+2015-02-15 10:11:59 完成整个查询任务,所用时间为0.33025598526001
+2015-02-15 10:12:01 查询 SELECT * FROM `question` where id = 8
+2015-02-15 10:12:01 获取一条记录 SELECT * FROM `question` where id = 8
+2015-02-15 10:12:01 查询 SELECT * FROM `tag` where id = 50
+2015-02-15 10:12:01 获取一条记录 SELECT * FROM `tag` where id = 50
+2015-02-15 10:12:01 释放结果集
+2015-02-15 10:12:01 完成整个查询任务,所用时间为0.32833099365234
+2015-02-15 10:13:27 查询 SELECT * FROM `question`
+2015-02-15 10:13:28 释放结果集
+2015-02-15 10:13:28 完成整个查询任务,所用时间为0.23979091644287
+2015-02-15 10:13:37 查询 SELECT * FROM `question` where id = 8
+2015-02-15 10:13:37 获取一条记录 SELECT * FROM `question` where id = 8
+2015-02-15 10:13:37 释放结果集
+2015-02-15 10:13:37 完成整个查询任务,所用时间为0.21659994125366
+2015-02-15 10:14:18 查询 SELECT * FROM `question`
+2015-02-15 10:14:18 释放结果集
+2015-02-15 10:14:18 完成整个查询任务,所用时间为0.1622850894928
+2015-02-15 10:14:22 查询 SELECT * FROM `question` where id = 6
+2015-02-15 10:14:22 获取一条记录 SELECT * FROM `question` where id = 6
+2015-02-15 10:14:22 释放结果集
+2015-02-15 10:14:22 完成整个查询任务,所用时间为0.47382092475891
+2015-02-16 02:56:08 查询 SELECT * FROM `interview_question`
+2015-02-16 02:56:08 Query Error: SELECT * FROM `interview_question`
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:56:08 释放结果集
+2015-02-16 02:56:08 完成整个查询任务,所用时间为0.49855613708496
+2015-02-16 02:57:59 查询 SELECT * FROM `interview_question`
+2015-02-16 02:57:59 释放结果集
+2015-02-16 02:57:59 完成整个查询任务,所用时间为0.017429828643799
+2015-02-16 02:58:15 插入 insert into tag(id,name) values('','ww')
+2015-02-16 02:58:15 查询 insert into tag(id,name) values('','ww')
+2015-02-16 02:58:15 最后插入的id为57
+2015-02-16 02:58:15 插入 insert into interview_question(id,title,tag,content,answer) values('','ww','57','www','')
+2015-02-16 02:58:15 查询 insert into interview_question(id,title,tag,content,answer) values('','ww','57','www','')
+2015-02-16 02:58:15 Query Error: insert into interview_question(id,title,tag,content,answer) values('','ww','57','www','')
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:58:15 释放结果集
+2015-02-16 02:58:15 完成整个查询任务,所用时间为0.54918503761292
+2015-02-16 02:58:56 插入 insert into tag(id,name) values('','ww')
+2015-02-16 02:58:56 查询 insert into tag(id,name) values('','ww')
+2015-02-16 02:58:56 最后插入的id为58
+2015-02-16 02:58:56 插入 insert into interview_question(id,title,tag,content,answer) values('','ww','58','www','')
+2015-02-16 02:58:56 查询 insert into interview_question(id,title,tag,content,answer) values('','ww','58','www','')
+2015-02-16 02:58:56 Query Error: insert into interview_question(id,title,tag,content,answer) values('','ww','58','www','')
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:58:56 释放结果集
+2015-02-16 02:58:56 完成整个查询任务,所用时间为0.76888298988342
+2015-02-16 02:59:13 插入 insert into tag(id,name) values('','sss')
+2015-02-16 02:59:13 查询 insert into tag(id,name) values('','sss')
+2015-02-16 02:59:13 最后插入的id为59
+2015-02-16 02:59:13 插入 insert into interview_question(id,title,tag,content,answer) values('','ss','59','sss','sss')
+2015-02-16 02:59:13 查询 insert into interview_question(id,title,tag,content,answer) values('','ss','59','sss','sss')
+2015-02-16 02:59:13 Query Error: insert into interview_question(id,title,tag,content,answer) values('','ss','59','sss','sss')
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:59:13 释放结果集
+2015-02-16 02:59:13 完成整个查询任务,所用时间为0.52349090576172
+2015-02-16 02:59:52 插入 insert into tag(id,name) values('','ww')
+2015-02-16 02:59:52 查询 insert into tag(id,name) values('','ww')
+2015-02-16 02:59:52 最后插入的id为60
+2015-02-16 02:59:52 插入 insert into interview_question(id,title,tag,content,answer) values('','ww','60','www','')
+2015-02-16 02:59:52 查询 insert into interview_question(id,title,tag,content,answer) values('','ww','60','www','')
+2015-02-16 02:59:52 Query Error: insert into interview_question(id,title,tag,content,answer) values('','ww','60','www','')
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:59:52 释放结果集
+2015-02-16 02:59:52 完成整个查询任务,所用时间为0.3762788772583
+2015-02-16 02:59:55 查询 SELECT * FROM `interview_question`
+2015-02-16 02:59:55 释放结果集
+2015-02-16 02:59:55 完成整个查询任务,所用时间为0.0037219524383545
+2015-02-16 02:59:58 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 02:59:58 Query Error: SELECT * FROM `interview_question` where id = 20
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 02:59:58 释放结果集
+2015-02-16 02:59:58 完成整个查询任务,所用时间为0.25959300994873
+2015-02-16 03:00:33 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:00:33 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:00:33 查询 SELECT * FROM `tag` where id = 19
+2015-02-16 03:00:33 Query Error: SELECT * FROM `tag` where id = 19
+Table 'manage.tag' doesn't exist
+2015-02-16 03:00:33 释放结果集
+2015-02-16 03:00:33 完成整个查询任务,所用时间为0.011405944824219
+2015-02-16 03:02:48 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:02:48 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:02:48 查询 SELECT * FROM `interview_tag` where id = 19
+2015-02-16 03:02:48 获取一条记录 SELECT * FROM `interview_tag` where id = 19
+2015-02-16 03:02:48 释放结果集
+2015-02-16 03:02:48 完成整个查询任务,所用时间为0.0040819644927979
+2015-02-16 03:02:54 插入 insert into tag(id,name) values('','dfdf11222')
+2015-02-16 03:02:54 查询 insert into tag(id,name) values('','dfdf11222')
+2015-02-16 03:02:54 Query Error: insert into tag(id,name) values('','dfdf11222')
+Table 'manage.tag' doesn't exist
+2015-02-16 03:02:54 释放结果集
+2015-02-16 03:02:54 完成整个查询任务,所用时间为0.0082330703735352
+2015-02-16 03:03:49 插入 insert into interview_tag(id,name) values('','dfdf11222')
+2015-02-16 03:03:49 查询 insert into interview_tag(id,name) values('','dfdf11222')
+2015-02-16 03:03:49 最后插入的id为20
+2015-02-16 03:03:49 更新 update interview_question set title = 'sdfsf44ddddd',tag = '20',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44ddddd',tag = '20',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2015-02-16 03:03:49 查询 update interview_question set title = 'sdfsf44ddddd',tag = '20',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44ddddd',tag = '20',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2015-02-16 03:03:49 释放结果集
+2015-02-16 03:03:49 完成整个查询任务,所用时间为0.01130485534668
+2015-02-16 03:03:57 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:03:57 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:03:57 查询 SELECT * FROM `interview_tag` where id = 20
+2015-02-16 03:03:57 获取一条记录 SELECT * FROM `interview_tag` where id = 20
+2015-02-16 03:03:57 释放结果集
+2015-02-16 03:03:57 完成整个查询任务,所用时间为0.016960144042969
+2015-02-16 03:03:57 查询 SELECT * FROM `interview_question`
+2015-02-16 03:03:57 释放结果集
+2015-02-16 03:03:57 完成整个查询任务,所用时间为0.006148099899292
+2015-02-16 03:04:01 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:04:01 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:04:01 查询 SELECT * FROM `interview_tag` where id = 20
+2015-02-16 03:04:01 获取一条记录 SELECT * FROM `interview_tag` where id = 20
+2015-02-16 03:04:01 释放结果集
+2015-02-16 03:04:01 完成整个查询任务,所用时间为0.007328987121582
+2015-02-16 03:04:08 插入 insert into interview_tag(id,name) values('','dfdf11222222')
+2015-02-16 03:04:08 查询 insert into interview_tag(id,name) values('','dfdf11222222')
+2015-02-16 03:04:08 最后插入的id为21
+2015-02-16 03:04:08 更新 update interview_question set title = 'sdfsf44ddddd2222',tag = '21',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44ddddd2222',tag = '21',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2015-02-16 03:04:08 查询 update interview_question set title = 'sdfsf44ddddd2222',tag = '21',content = 'dfd11222',answer = 'dfd1122',title = 'sdfsf44ddddd2222',tag = '21',content = 'dfd11222',answer = 'dfd1122' where 1=1 and id=20
+2015-02-16 03:04:08 释放结果集
+2015-02-16 03:04:08 完成整个查询任务,所用时间为0.0032989978790283
+2015-02-16 03:04:12 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:04:12 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:04:12 查询 SELECT * FROM `interview_tag` where id = 21
+2015-02-16 03:04:12 获取一条记录 SELECT * FROM `interview_tag` where id = 21
+2015-02-16 03:04:12 释放结果集
+2015-02-16 03:04:12 完成整个查询任务,所用时间为0.0027561187744141
+2015-02-16 03:04:12 查询 SELECT * FROM `interview_question`
+2015-02-16 03:04:12 释放结果集
+2015-02-16 03:04:12 完成整个查询任务,所用时间为0.0039131641387939
+2015-02-16 03:04:49 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:04:49 Query Error: SELECT * FROM `interview_question` where id = 20
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 03:04:49 释放结果集
+2015-02-16 03:04:49 完成整个查询任务,所用时间为0.74893498420715
+2015-02-16 03:05:36 查询 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:05:36 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-02-16 03:05:36 释放结果集
+2015-02-16 03:05:36 完成整个查询任务,所用时间为0.0095839500427246
+2015-02-16 03:05:41 查询 SELECT * FROM `interview_question`
+2015-02-16 03:05:41 释放结果集
+2015-02-16 03:05:41 完成整个查询任务,所用时间为0.0021538734436035
+2015-02-16 03:05:46 查询 SELECT * FROM `interview_question`
+2015-02-16 03:05:46 释放结果集
+2015-02-16 03:05:46 完成整个查询任务,所用时间为0.0077371597290039
+2015-02-16 03:06:41 插入 insert into tag(id,name) values('','111')
+2015-02-16 03:06:41 查询 insert into tag(id,name) values('','111')
+2015-02-16 03:06:41 最后插入的id为61
+2015-02-16 03:06:41 插入 insert into interview_question(id,title,tag,content,answer) values('','111','61','1111','1111')
+2015-02-16 03:06:41 查询 insert into interview_question(id,title,tag,content,answer) values('','111','61','1111','1111')
+2015-02-16 03:06:41 Query Error: insert into interview_question(id,title,tag,content,answer) values('','111','61','1111','1111')
+Table 'lihuazh2_interview.interview_question' doesn't exist
+2015-02-16 03:06:41 释放结果集
+2015-02-16 03:06:41 完成整个查询任务,所用时间为0.52883887290955
+2015-02-16 03:07:17 插入 insert into interview_tag(id,name) values('','111')
+2015-02-16 03:07:17 查询 insert into interview_tag(id,name) values('','111')
+2015-02-16 03:07:17 Query Error: insert into interview_tag(id,name) values('','111')
+Table 'lihuazh2_interview.interview_tag' doesn't exist
+2015-02-16 03:07:17 释放结果集
+2015-02-16 03:07:17 完成整个查询任务,所用时间为0.31694912910461
+2015-02-16 03:07:23 插入 insert into interview_tag(id,name) values('','23')
+2015-02-16 03:07:23 查询 insert into interview_tag(id,name) values('','23')
+2015-02-16 03:07:23 Query Error: insert into interview_tag(id,name) values('','23')
+Table 'lihuazh2_interview.interview_tag' doesn't exist
+2015-02-16 03:07:23 释放结果集
+2015-02-16 03:07:23 完成整个查询任务,所用时间为0.31792283058167
+2015-02-16 03:08:32 插入 insert into interview_tag(id,name) values('','23')
+2015-02-16 03:08:32 查询 insert into interview_tag(id,name) values('','23')
+2015-02-16 03:08:32 Query Error: insert into interview_tag(id,name) values('','23')
+Table 'lihuazh2_interview.interview_tag' doesn't exist
+2015-02-16 03:08:32 释放结果集
+2015-02-16 03:08:32 完成整个查询任务,所用时间为1.163761138916
+2015-02-16 03:08:41 插入 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:08:41 查询 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:08:41 Query Error: insert into interview_tag(id,name) values('','we')
+Table 'lihuazh2_interview.interview_tag' doesn't exist
+2015-02-16 03:08:41 释放结果集
+2015-02-16 03:08:41 完成整个查询任务,所用时间为0.32457494735718
+2015-02-16 03:10:26 插入 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:10:26 查询 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:10:26 最后插入的id为22
+2015-02-16 03:10:26 插入 insert into interview_question(id,title,tag,content,answer) values('','we','22','we','we')
+2015-02-16 03:10:26 查询 insert into interview_question(id,title,tag,content,answer) values('','we','22','we','we')
+2015-02-16 03:10:26 释放结果集
+2015-02-16 03:10:26 完成整个查询任务,所用时间为0.0091791152954102
+2015-02-16 03:10:33 插入 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:10:33 查询 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:10:33 最后插入的id为23
+2015-02-16 03:10:33 插入 insert into interview_question(id,title,tag,content,answer) values('','1213','23','12312','123123')
+2015-02-16 03:10:33 查询 insert into interview_question(id,title,tag,content,answer) values('','1213','23','12312','123123')
+2015-02-16 03:10:33 释放结果集
+2015-02-16 03:10:33 完成整个查询任务,所用时间为0.0036718845367432
+2015-02-16 03:10:57 插入 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:10:57 查询 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:10:57 最后插入的id为24
+2015-02-16 03:10:57 插入 insert into interview_question(id,title,tag,content,answer) values('','1213','24','12312','123123')
+2015-02-16 03:10:57 查询 insert into interview_question(id,title,tag,content,answer) values('','1213','24','12312','123123')
+2015-02-16 03:10:57 释放结果集
+2015-02-16 03:10:57 完成整个查询任务,所用时间为0.0027289390563965
+2015-02-16 03:10:58 查询 SELECT * FROM `interview_question`
+2015-02-16 03:10:58 释放结果集
+2015-02-16 03:10:58 完成整个查询任务,所用时间为0.0046648979187012
+2015-02-16 03:11:05 插入 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:05 查询 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:05 最后插入的id为25
+2015-02-16 03:11:05 插入 insert into interview_question(id,title,tag,content,answer) values('','wew','25','wewe','')
+2015-02-16 03:11:05 查询 insert into interview_question(id,title,tag,content,answer) values('','wew','25','wewe','')
+2015-02-16 03:11:05 释放结果集
+2015-02-16 03:11:05 完成整个查询任务,所用时间为0.0019431114196777
+2015-02-16 03:11:06 查询 SELECT * FROM `interview_question`
+2015-02-16 03:11:06 释放结果集
+2015-02-16 03:11:06 完成整个查询任务,所用时间为0.0043549537658691
+2015-02-16 03:11:08 查询 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:08 获取一条记录 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:08 释放结果集
+2015-02-16 03:11:08 完成整个查询任务,所用时间为0.0060901641845703
+2015-02-16 03:11:11 查询 SELECT * FROM `interview_question`
+2015-02-16 03:11:11 释放结果集
+2015-02-16 03:11:11 完成整个查询任务,所用时间为0.0034739971160889
+2015-02-16 03:11:12 查询 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:12 获取一条记录 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:12 查询 SELECT * FROM `interview_tag` where id = 25
+2015-02-16 03:11:12 获取一条记录 SELECT * FROM `interview_tag` where id = 25
+2015-02-16 03:11:12 释放结果集
+2015-02-16 03:11:12 完成整个查询任务,所用时间为0.0032601356506348
+2015-02-16 03:11:16 插入 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:16 查询 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:16 最后插入的id为26
+2015-02-16 03:11:16 更新 update interview_question set title = 'weweee',tag = '26',content = 'wewe',answer = '',title = 'weweee',tag = '26',content = 'wewe',answer = '' where 1=1 and id=24
+2015-02-16 03:11:16 查询 update interview_question set title = 'weweee',tag = '26',content = 'wewe',answer = '',title = 'weweee',tag = '26',content = 'wewe',answer = '' where 1=1 and id=24
+2015-02-16 03:11:16 释放结果集
+2015-02-16 03:11:16 完成整个查询任务,所用时间为0.0018680095672607
+2015-02-16 03:11:50 查询 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:50 获取一条记录 SELECT * FROM `interview_question` where id = 24
+2015-02-16 03:11:50 查询 SELECT * FROM `interview_tag` where id = 26
+2015-02-16 03:11:50 获取一条记录 SELECT * FROM `interview_tag` where id = 26
+2015-02-16 03:11:50 释放结果集
+2015-02-16 03:11:50 完成整个查询任务,所用时间为0.012763977050781
+2015-02-16 03:11:53 插入 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:53 查询 insert into interview_tag(id,name) values('','we')
+2015-02-16 03:11:53 最后插入的id为27
+2015-02-16 03:11:53 更新 update interview_question set title = 'weweee',tag = '27',content = 'wewe',answer = '',title = 'weweee',tag = '27',content = 'wewe',answer = '' where 1=1 and id=24
+2015-02-16 03:11:53 查询 update interview_question set title = 'weweee',tag = '27',content = 'wewe',answer = '',title = 'weweee',tag = '27',content = 'wewe',answer = '' where 1=1 and id=24
+2015-02-16 03:11:53 释放结果集
+2015-02-16 03:11:53 完成整个查询任务,所用时间为0.0031900405883789
+2015-02-16 03:11:53 查询 SELECT * FROM `interview_question`
+2015-02-16 03:11:53 释放结果集
+2015-02-16 03:11:53 完成整个查询任务,所用时间为0.0076990127563477
+2015-02-16 03:11:55 查询 SELECT * FROM `interview_question` where id = 23
+2015-02-16 03:11:55 获取一条记录 SELECT * FROM `interview_question` where id = 23
+2015-02-16 03:11:55 查询 SELECT * FROM `interview_tag` where id = 24
+2015-02-16 03:11:55 获取一条记录 SELECT * FROM `interview_tag` where id = 24
+2015-02-16 03:11:55 释放结果集
+2015-02-16 03:11:55 完成整个查询任务,所用时间为0.0053179264068604
+2015-02-16 03:11:58 插入 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:11:58 查询 insert into interview_tag(id,name) values('','123123')
+2015-02-16 03:11:58 最后插入的id为28
+2015-02-16 03:11:58 更新 update interview_question set title = '12134',tag = '28',content = '12312',answer = '123123',title = '12134',tag = '28',content = '12312',answer = '123123' where 1=1 and id=23
+2015-02-16 03:11:58 查询 update interview_question set title = '12134',tag = '28',content = '12312',answer = '123123',title = '12134',tag = '28',content = '12312',answer = '123123' where 1=1 and id=23
+2015-02-16 03:11:58 释放结果集
+2015-02-16 03:11:58 完成整个查询任务,所用时间为0.0014879703521729
+2015-02-16 03:11:58 查询 SELECT * FROM `interview_question`
+2015-02-16 03:11:58 释放结果集
+2015-02-16 03:11:58 完成整个查询任务,所用时间为0.010376930236816
+2015-02-26 02:55:47 查询 SELECT * FROM `interview_question`
+2015-02-26 02:55:48 释放结果集
+2015-02-26 02:55:48 完成整个查询任务,所用时间为11.620321035385
+2015-03-02 03:45:10 查询 SELECT * FROM `interview_question`
+2015-03-02 03:45:11 释放结果集
+2015-03-02 03:45:11 完成整个查询任务,所用时间为12.35477399826
+2015-03-02 03:47:52 查询 SELECT * FROM `interview_question`
+2015-03-02 03:47:52 释放结果集
+2015-03-02 03:47:52 完成整个查询任务,所用时间为6.5936141014099
+2015-03-02 03:48:21 查询 SELECT * FROM `interview_question`
+2015-03-02 03:48:21 释放结果集
+2015-03-02 03:48:21 完成整个查询任务,所用时间为21.383361101151
+2015-03-02 03:48:55 查询 SELECT * FROM `interview_question`
+2015-03-02 03:48:55 释放结果集
+2015-03-02 03:48:55 完成整个查询任务,所用时间为20.872433900833
+2015-03-02 04:00:51 查询 SELECT * FROM `interview_question`
+2015-03-02 04:00:52 释放结果集
+2015-03-02 04:00:52 完成整个查询任务,所用时间为9.9902150630951
+2015-03-02 06:46:09 查询 SELECT * FROM `interview_question`
+2015-03-02 06:46:09 释放结果集
+2015-03-02 06:46:09 完成整个查询任务,所用时间为13.643332004547
+2015-03-02 06:46:44 查询 SELECT * FROM `interview_question`
+2015-03-02 06:46:44 释放结果集
+2015-03-02 06:46:44 完成整个查询任务,所用时间为1.40656208992
+2015-03-04 07:39:12 查询 SELECT * FROM `interview_question`
+2015-03-04 07:39:12 释放结果集
+2015-03-04 07:39:12 完成整个查询任务,所用时间为6.0523149967194
+2015-03-04 08:38:51 查询 SELECT * FROM `interview_question`
+2015-03-04 08:38:51 释放结果集
+2015-03-04 08:38:51 完成整个查询任务,所用时间为1.1187779903412
+2015-03-04 08:55:49 查询 SELECT * FROM `interview_question`
+2015-03-04 08:55:49 释放结果集
+2015-03-04 08:55:49 完成整个查询任务,所用时间为5.7711458206177
+2015-03-04 08:55:49 查询 SELECT * FROM `interview_question`
+2015-03-04 08:55:50 释放结果集
+2015-03-04 08:55:50 完成整个查询任务,所用时间为1.2625231742859
+2015-03-04 09:19:44 查询 SELECT * FROM `interview_question`
+2015-03-04 09:19:44 释放结果集
+2015-03-04 09:19:44 完成整个查询任务,所用时间为6.9795439243317
+2015-03-05 02:15:25 查询 SELECT * FROM `interview_question`
+2015-03-05 02:15:25 释放结果集
+2015-03-05 02:15:25 完成整个查询任务,所用时间为5.8549938201904
+2015-03-05 02:17:47 查询 SELECT * FROM `interview_question`
+2015-03-05 02:17:47 释放结果集
+2015-03-05 02:17:47 完成整个查询任务,所用时间为7.040333032608
+2015-03-05 02:29:44 查询 SELECT * FROM `interview_question`
+2015-03-05 02:29:44 释放结果集
+2015-03-05 02:29:44 完成整个查询任务,所用时间为7.4663240909576
+2015-03-26 07:07:39 查询 SELECT * FROM `interview_question`
+2015-03-26 07:07:39 释放结果集
+2015-03-26 07:07:39 完成整个查询任务,所用时间为8.4720718860626
+2015-05-04 09:28:01 查询 SELECT * FROM `interview_question`
+2015-05-04 09:28:01 释放结果集
+2015-05-04 09:28:01 完成整个查询任务,所用时间为0.16766405105591

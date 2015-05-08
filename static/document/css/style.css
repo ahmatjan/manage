@@ -1,0 +1,69 @@
+body, div, dl, dt, dd, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+	font-family: 微软雅黑;
+	font-size: 16px;
+	line-height: 1.5;
+}
+body {
+	font-size: 14px;
+}
+a{
+	color: #333333;
+	text-decoration: none;	
+}
+ul li{
+	list-style-type: none;
+}
+ul li a{
+	display: inline-block;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	margin: 5px 0px 5px 0px;
+	text-decoration: none;
+	/*background: rgba(0,0,0,0.2);*/
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+fieldset, img {
+	border: 0
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style: normal;
+	font-weight: normal
+}
+caption, th {
+	text-align: left
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+}
+q:before, q:after {
+	content: ''
+}
+input, textarea, select {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	*font-size: 100%
+}
+/* == clearfix == */
+.clearfix:after {
+	content: “.”;
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-block;
+}
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}

@@ -1,0 +1,19 @@
+.wrap{ width: 960px; margin: 0 auto;}
+h1{text-align: center;}
+h1,h2,h3,h4,h5{
+	font-size: 16px;
+	font-weight: normal;
+	margin:0;
+}
+
+.detail-item{
+	color: #1fa67a;
+	font-size: 22px;
+	font-weight: bold;
+	border-bottom: 1px solid #E0E0E0;
+	padding-top: 15px;
+}
+.detail-item-content{
+	color: #707070;
+	line-height: 18px;
+}

@@ -1,0 +1,16 @@
+extends layout
+
+block append head
+  link(rel='stylesheet', href='/stylesheets/codemirror.css')
+  link(rel='stylesheet', href='/stylesheets/markdown.css')
+  link(rel='stylesheet', href='/stylesheets/show.css')
+  script(src='/js/jquery.min.js')
+  script(src='/js/marked.js')
+  script(src='/js/codemirror.js')
+  script(src='/js/show.js')
+
+block content
+  h1 #{doc.title}
+  #content #{doc.content}
+
+block  footer

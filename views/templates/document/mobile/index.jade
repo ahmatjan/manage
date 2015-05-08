@@ -1,0 +1,18 @@
+extends layout
+block append head
+	link(rel='stylesheet', href='/stylesheets/codemirror.css')
+	script(src='/js/jquery.min.js')
+	script(src='/js/marked.js')
+	script(src='/js/codemirror.js')
+	script(src='/js/index.js')
+block content
+	h1= title
+	a(href="/project") 新增频道/分类
+	br
+	a(href="/add") 新增文档
+	div.docs
+		ul
+			each item in docs  
+				li 
+					a(href="/show?id=#{item.id}") #{item.title} 
+					a(href="/update?id=#{item.id}")修改

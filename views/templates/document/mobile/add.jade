@@ -1,0 +1,29 @@
+extends layout
+
+block append head
+  link(rel='stylesheet', href='/stylesheets/codemirror.css')
+  link(rel='stylesheet', href='/stylesheets/add.css')
+  script(src='/js/jquery.min.js')
+  script(src='/js/marked.js')
+  script(src='/js/codemirror.js')
+  script(src='/js/add.js')
+
+block content
+ div.side-left
+  h1= title
+  form(method="post",action="/add")
+    select(id="project_id")
+      option(value="-1") 请选择
+      each item in projects
+        option(value="#{item.id}")  #{item.name}
+    span(id="cate_box")
+    label 标题：
+    input(type="text",value="",name="title")
+    <br/>
+    textarea(name="content",id="code")
+    input(type="submit",value="提交",id="toAdd")
+
+ div.side-right
+    iframe#preview(frameborder="0",height="100%")
+
+block  footer
