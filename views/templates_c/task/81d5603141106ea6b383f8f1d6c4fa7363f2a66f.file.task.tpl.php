@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-21 02:47:56
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-21 03:39:11
          compiled from "D:\wamp\www\manage\views\templates\task\task.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:3769555aa76960e316-41006648%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '81d5603141106ea6b383f8f1d6c4fa7363f2a66f' => 
     array (
       0 => 'D:\\wamp\\www\\manage\\views\\templates\\task\\task.tpl',
-      1 => 1432176439,
+      1 => 1432178704,
       2 => 'file',
     ),
     'ad904dd1c3664a1417fac7a013d4109ecc60d0b3' => 
@@ -45,12 +45,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<link rel="stylesheet" type="text/css" href="../../lhz_table/lhz_table.css" />
 		<?php echo '<script'; ?>
 >
-		$(document).ready(function(){
-			 var tb = $("#table").lhz_table({
-			 	'getDataUrl':'./getData.php?project_id=<?php echo $_GET['project_id'];?>
+		$(document).ready(function() {
+				var tb = $("#table").lhz_table({
+					'getDataUrl': './getData.php?project_id=<?php echo $_GET['project_id'];?>
 ',
-			    'updateDataUrl': './tableUPdate.php',
-				'searchDataUrl': './tableSearch.php'});
+					'updateDataUrl': './tableUPdate.php',
+					'searchDataUrl': './tableSearch.php'
+				});
 		});
 		<?php echo '</script'; ?>
 >
