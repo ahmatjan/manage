@@ -6,10 +6,11 @@
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script> 
 		<script type="text/javascript" src="../../static/js/codemirror.js"></script> 
 		<script type="text/javascript" src="../../static/js/marked.js"></script> 
-		<script type="text/javascript" src=".../../static/js/jquery.DatePicker.js"></script> 
+		<script type="text/javascript" src="../../static/js/jquery.DatePicker.js"></script> 
 		<script type="text/javascript" src="../../static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
+	<div class="w960">
 		<div class="side-right">
 			<form action="add.php" method="post">
 				<label>标题</label>：<input type="text" name="title" />
@@ -18,7 +19,7 @@
 				<input type="text" name="end_time" id="picker_endtime" />
 				<br/>
 				<label>等级</label>：
-				<select name="level">
+				<select name="priority">
 				 <option value="P0">P0</option>
 				 <option value="P1">P1</option>
 				 <option value="P2" selected="selected">P2</option>
@@ -33,4 +34,5 @@
 		<div class="side-right">
 			<iframe src="" id="preview" frameborder="0" height="360"></iframe>
 		</div>
+		<div>
 	<{/block}>

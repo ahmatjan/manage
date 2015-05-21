@@ -8,7 +8,7 @@
 		<script type="text/javascript" src="../../static/js/marked.js"></script> 
 		<{/block}>
 	<{block name="content"}>
-		<div>
+		<div class="w960">
 		<form action="login.php" method="post">
 			<label>名字：</label><input type="text" name="user">
 			<label>密码：</label><input type="text" name="password">

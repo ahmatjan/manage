@@ -1,3 +1,9 @@
+.lhz-filter {
+	font-size: 14px;
+	font-family: "微软雅黑";
+	margin-bottom: 10px;
+	overflow: hidden;
+}
 .lhz-tb {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -54,6 +60,11 @@
 .lhz-filter dl dt,
 .lhz-filter dl dd {
 	float: left;
+	margin-right: 20px;
+}
+.lhz-filter dl dt {
+	width: 4em;
+	text-align: right;
 }
 .showOption {
 	list-style: none;
@@ -62,11 +73,12 @@
 }
 .showOption li {
 	float: left;
-	height: 26px;
-	line-height: 26px;
+	height: 22px;
+	line-height: 22px;
 	margin-right: 20px;
 	list-style: none;
 	text-decoration: none;
+	padding: 2px 6px;
 }
 .showOption li a {
 	text-decoration: none;

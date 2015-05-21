@@ -16,18 +16,19 @@
 			});
 		</script>
 		<{/block}>
-
-			<{block name="content" }>
+	<{block name="content" }>
+			<div class="w960">
 				<ul>
 					<{foreach from=$list key=key item=question}>
 						<li>
-							<a href="./routes/detail.php?id=<{$question.id}>">
+							<a href="./detail.php?id=<{$question.id}>">
 								<{$question.title}>
-							</a> <a href="./routes/update.php?id=<{$question.id}>">编辑</a> <a href="./routes/task.php?id=<{$question.id}>">查看任务</a>
+							</a> <a href="./update.php?id=<{$question.id}>">编辑</a> <a href="./task.php?project_id=<{$question.id}>">查看任务</a>
 						</li>
 						<{/foreach}>
 				</ul>
-				<a href="./add.php">新增</a>
+				<a href="./projectAdd.php">新增项目</a>
 				<div id="table">loading</div>
+			</div>
 
-				<{/block}>
+		<{/block}>

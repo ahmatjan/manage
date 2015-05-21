@@ -16,7 +16,7 @@
 	  		</script>
 		<{/block}>
 	<{block name="content"}>
-		<div class="wrap">
+		<div class="w960">
 			<h1><{$list.title}></h1>
 			<div id="content"><{$list.content}></div>
 		</div>

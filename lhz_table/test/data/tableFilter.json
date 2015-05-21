@@ -19,11 +19,9 @@
 		"defaultOption": "bug",
 		"option": [
 			{
-				"id": "2",
-				"name": "普通任务",
-				"value": "daily"
+				"name": "需求任务",
+				"value": "requirement"
 			}, {
-				"id": "1",
 				"name": "Bug任务",
 				"value": "bug"
 			}
@@ -70,6 +68,9 @@
 		"defaultOption": "p1",
 		"option": [
 			{
+				"name": "P0",
+				"value": "p0"
+			}, {
 				"name": "P1",
 				"value": "p1"
 			}, {

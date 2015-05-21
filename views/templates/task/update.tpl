@@ -9,18 +9,20 @@
 		<script type="text/javascript" src="../../static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
-		<div class="side-right">
-			<form action="update.php/update" method="post">
-				<input type="hidden" name="id" value="<{$list.id}>" />
-				<label>标题</label>：<input type="text" name="title" value="<{$list.title}>" />
-				<br/>
-				<br/>
-				<label>详情</label>：<textarea name="content" id="content"><{$list.content}></textarea>
-				<br/>
-				<input type="submit" value="提交" />
-			</form>
-		</div>
-		<div class="side-right">
-			<iframe src="" id="preview" frameborder="0" height="360"></iframe>
+		<div class="w960">
+			<div class="side-right">
+				<form action="update.php/update" method="post">
+					<input type="hidden" name="id" value="<{$list.id}>" />
+					<label>标题</label>：<input type="text" name="title" value="<{$list.title}>" />
+					<br/>
+					<br/>
+					<label>详情</label>：<textarea name="content" id="content"><{$list.content}></textarea>
+					<br/>
+					<input type="submit" value="提交" />
+				</form>
+			</div>
+			<div class="side-right">
+				<iframe src="" id="preview" frameborder="0" height="360"></iframe>
+			</div>
 		</div>
 	<{/block}>

@@ -27,14 +27,13 @@ require.config({
 			var $this = $(this);
 			require(["tableShow"], function(tableShow) {
 				var tableShow = new tableShow({
-					tableId: "ddd",
+					tbSelector: "lhz-tb",
 					obj: $this,
 					opts: o
 				});
 				if (o.editOpen) {
 					require(["tableEdit"], function(tableEdit) {
 						var tableEdit = new tableEdit({
-							tableId: "ddd",
 							obj: $this,
 							opts: o,
 							tableShow: tableShow
@@ -44,7 +43,7 @@ require.config({
 				if (o.filterOpen) {
 					require(["tableFilter"], function(TableFilter) {
 						var tableEdit = new TableFilter({
-							tableId: "ddd",
+							filterSelector: "lhz-filter",
 							obj: $this,
 							opts: o,
 							tableShow: tableShow
@@ -74,10 +73,24 @@ require.config({
 		}, {
 			"type": "类型"
 		}, {
-			"content": "内容"
+			"priority": "等级"
+		}, {
+			"owner": "负责人"
+		}, {
+			"status": "状态"
+		}, {
+			"add_time": "添加时间"
+		}, {
+			"plan_start_time": "计划开始时间"
+		}, {
+			"plan_end_time": "计划结束时间"
+		}, {
+			"start_time": "开始时间"
+		}, {
+			"end_time": "结束时间"
 		}],
 		"dataOption": {
-			"level": [{
+			"priority": [{
 				"value": "p0",
 				"name": "P0"
 			}, {

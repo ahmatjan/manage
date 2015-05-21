@@ -39,7 +39,8 @@
 	 * @return {String} 返回HTML的字符串
 	 */
 	function TableFilter(configObj) {
-		this.tableId = configObj.tableId;
+		this.filterSelector = configObj.filterSelector;
+		this.tableShow = configObj.tableShow;
 		this.opts = configObj.opts;
 		this.table = configObj.obj;
 		this.getFilterUrl = configObj.opts.getFilterUrl;
@@ -98,6 +99,17 @@
 		init: function() {
 			this.table.find('.lhz-tb').before(this.creatFilterBox());
 			this.table.find('.lhz-filter').html(this.creatFilter());
+			var F_this = this;
+			//处理url带的参数
+			require(["tools"], function(Tools) {
+				var tools = new Tools();
+				var parameters = tools.getRequest();
+				if (parameters) {
+					for (var key in parameters) {
+						F_this.selectedDataSave(key, parameters[key]);
+					}
+				}
+			});
 			this.bind();
 		},
 		/**
@@ -107,7 +119,7 @@
 		 * @return {String} 返回HTML的字符串
 		 */
 		creatFilterBox: function() {
-			var tbDom = $('<div class="lhz-filter"></div>');
+			var tbDom = $('<div class="' + this.filterSelector + '"></div>');
 			tbDom.append('<table><tr><td>载入中</td><td>。。。</td></tr></table>');
 			return tbDom;
 		},
@@ -173,8 +185,8 @@
 			var tdHtml = [];
 			switch (type) {
 				case 'select':
-					tdHtml.push("<ul class='showOption'>");
-					for (var i = 0, l = option.length - 1; i < l; i++) {
+					tdHtml.push("<ul class='showOption'><li id='" + i + "' style='background: red;'><a href='#' data-key='" + id + "' data-value='all'>全部</a></li>");
+					for (var i = 0, l = option.length; i < l; i++) {
 						tdHtml.push("<li id='" + i + "'><a href='#' data-key='" + id + "' data-value='" + option[i].value + "'>" + option[i].name + "</a></li>");
 					}
 					tdHtml.push("</ul>");
@@ -199,47 +211,58 @@
 				var t = $(this);
 				var data_key = t.attr('data-key');
 				var data_value = t.attr('data-value');
-
-				console.log(data_value);
-				t_this.daoSearch();
-
-			});
-		},
-		daoSearch: function(id, field, value) {
-			var t_this = this;
-			var url = this.opts.searchDataUrl;
-			
-			console.log(url);
-			//t_this.tool.hintSHow("等等中！");
-			$.ajax({
-				type: "GET",
-				url: url,
-				data: {
-					"id": id,
-					"field": field,
-					"value": value
-				},
-				dataType: "html",
-				success: function(msg) {
-					if (msg == 0) {
-						t_this.tool.hintSHowTime("保存成功！");
-					} else {
-						t_this.tool.hintSHowTime("保存失败！");
-					}
-					window.setTimeout(function() {
-						//location.reload();
-						t_this.tableShow.refresh();
-					}, 4000);
-				},
-				error: function(XMLHttpRequest, textStatus, errorThrown) {
-					alert("ajax error");
+				t.parent().css("background", "red").siblings().removeAttr("style");
+				var needRequest = t_this.selectedDataSave(data_key, data_value);
+				if (needRequest) {
+					t_this.daoSearch(data_key, data_value);
 				}
 			});
 		},
-		refresh: function() {
-			/*获取最新数据*/
-			this.tbodyDate = this.getData();
-			this.table.find('tbody').html(this.creatTbody());
+		daoSearch: function(field, value) {
+			var t_this = this;
+			var url = this.opts.searchDataUrl;
+			var dataBox = $('.' + this.filterSelector);
+			var selectData = dataBox.data('selectedData');
+			console.log(selectData);
+			$.ajax({
+				type: "GET",
+				url: url,
+				data: selectData,
+				dataType: "json",
+				success: function(result) {
+					t_this.tableShow.tbodyDate = result;
+					t_this.tableShow.refresh(true);
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+					console.log("ajax error");
+				}
+			});
+		},
+		/*存储过滤器已选择的条件*/
+		selectedDataSave: function(data_key, data_value) {
+			var dataBox = $('.' + this.filterSelector);
+			var oldData = dataBox.data('selectedData');
+			if (oldData) {
+				if (oldData.indexOf(data_key) != -1) {
+					var match = new RegExp(data_key + '=([^&]*)');
+					if (data_value != 'all') {
+						var newDataStr = oldData.replace(match, function(m, n1) {
+							return m.replace(n1, data_value);
+						});
+					} else {
+						var newDataStr = oldData.replace(match, '');
+					}
+				} else {
+					var newDataStr = oldData + '&' + data_key + '=' + data_value;
+				}
+			} else {
+				if (data_value == 'all') {
+					return false;
+				}
+				var newDataStr = data_key + '=' + data_value;
+			}
+			dataBox.data('selectedData', newDataStr);
+			return true;
 		},
 		destroy: function() {
 			//TODO

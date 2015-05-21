@@ -10,19 +10,18 @@
 		<script type="text/javascript" src="../../static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
-		<div class="side-right">
-			<form action="projectAdd.php" method="post">
-				<label>标题</label>：<input type="text" name="title" />
-				<br/>
-				<label>完成时间</label>：
-				<input type="text" name="end_time" id="picker_endtime" />
-				<br/>
-				<label>详情</label>：<textarea name="content" id="content"></textarea>
-				<br/>
-				<input type="submit" value="提交" />
-			</form>
-		</div>
-		<div class="side-right">
-			<iframe src="" id="preview" frameborder="0" height="360"></iframe>
+		<div class="w960">
+			<div class="side-right">
+				<form action="projectAdd.php" method="post">
+					<label>标题</label>：<input type="text" name="title" />
+					<br/>
+					<label>详情</label>：<textarea name="content" id="content"></textarea>
+					<br/>
+					<input type="submit" value="提交" />
+				</form>
+			</div>
+			<div class="side-right">
+				<iframe src="" id="preview" frameborder="0" height="360"></iframe>
+			</div>
 		</div>
 	<{/block}>

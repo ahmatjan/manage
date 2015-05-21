@@ -1,13 +1,13 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-19 02:16:12
-         compiled from "D:\wamp\www\manage\views\templates\task\add.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:10371555a9c92b9e971-47814056%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-19 03:37:37
+         compiled from "D:\wamp\www\manage\views\templates\task\projectAdd.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:9765555aaed322d828-19081689%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    '904f81e9c01ae1b4ab1a29ffaf578f471adee3ab' => 
+    '4a80a01a5da37659623598f446d30639a3186a10' => 
     array (
-      0 => 'D:\\wamp\\www\\manage\\views\\templates\\task\\add.tpl',
-      1 => 1432001762,
+      0 => 'D:\\wamp\\www\\manage\\views\\templates\\task\\projectAdd.tpl',
+      1 => 1432006643,
       2 => 'file',
     ),
     'ad904dd1c3664a1417fac7a013d4109ecc60d0b3' => 
@@ -17,15 +17,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '10371555a9c92b9e971-47814056',
+  'nocache_hash' => '9765555aaed322d828-19081689',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.21-dev',
-  'unifunc' => 'content_555a9c92ca2155_44480022',
+  'unifunc' => 'content_555aaed33a11d9_94460468',
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_555a9c92ca2155_44480022')) {function content_555a9c92ca2155_44480022($_smarty_tpl) {?><!DOCTYPE HTML> 
+<?php if ($_valid && !is_callable('content_555aaed33a11d9_94460468')) {function content_555aaed33a11d9_94460468($_smarty_tpl) {?><!DOCTYPE HTML> 
     <head>    
         
       		<meta http-equiv="Content-type" content="text/html; charset=utf-8">  
@@ -44,7 +44,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
  type="text/javascript" src="../../static/js/marked.js"><?php echo '</script'; ?>
 > 
 		<?php echo '<script'; ?>
- type="text/javascript" src=".../../static/js/jquery.DatePicker.js"><?php echo '</script'; ?>
+ type="text/javascript" src="../../static/js/jquery.DatePicker.js"><?php echo '</script'; ?>
 > 
 		<?php echo '<script'; ?>
  type="text/javascript" src="../../static/js/add.js"><?php echo '</script'; ?>
@@ -54,19 +54,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     <body> 
         
 		<div class="side-right">
-			<form action="add.php" method="post">
+			<form action="projectAdd.php" method="post">
 				<label>标题</label>：<input type="text" name="title" />
-				<br/>
-				<label>完成时间</label>：
-				<input type="text" name="end_time" id="picker_endtime" />
-				<br/>
-				<label>等级</label>：
-				<select name="priority">
-				 <option value="P0">P0</option>
-				 <option value="P1">P1</option>
-				 <option value="P2" selected="selected">P2</option>
-				 <option value="P3">P3</option>
-				</select>
 				<br/>
 				<label>详情</label>：<textarea name="content" id="content"></textarea>
 				<br/>

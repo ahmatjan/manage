@@ -8,12 +8,12 @@
 		"add_time": "添加时间",
 		"end_time": "结束时间",
 		"start_time": "开始时间",
-		"level": "等级",
+		"priority": "等级",
 		"percent": "百分比",
 		"depend": "依赖任务"
 	},
 	"option": {
-		"level": [
+		"priority": [
 			{
 				"value": "p0",
 				"name": "P0"
@@ -81,7 +81,7 @@
 				"content": "啊时代发生地方",
 				"add_date": null,
 				"owner": null,
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": null
 				},
@@ -106,7 +106,7 @@
 				"content": "fasdfasdf",
 				"add_date": null,
 				"owner": null,
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": null
 				},
@@ -131,7 +131,7 @@
 				"content": "sdfasdf",
 				"add_date": null,
 				"owner": null,
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": null
 				},
@@ -156,7 +156,7 @@
 				"content": "asdfsdf",
 				"add_date": null,
 				"owner": null,
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": null
 				},
@@ -181,7 +181,7 @@
 				"content": "dddd",
 				"add_date": null,
 				"owner": null,
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": null
 				},
@@ -206,7 +206,7 @@
 				"content": "阿斯顿发送到",
 				"add_date": null,
 				"owner": "杨小旭",
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": "0"
 				},
@@ -231,7 +231,7 @@
 				"content": "#收拾收拾是",
 				"add_date": null,
 				"owner": "杨小旭",
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": "0"
 				},
@@ -256,7 +256,7 @@
 				"content": "#收拾收拾是多大的",
 				"add_date": null,
 				"owner": "杨小旭",
-				"level": {
+				"priority": {
 					"type": "select",
 					"value": "0"
 				},

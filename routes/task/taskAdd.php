@@ -7,7 +7,7 @@ include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
 
 $tpl->assign("title", "任务管理");
 $tpl->assign("description", "任务管理系统");
-$tpl->display("add.tpl");
+$tpl->display("taskAdd.tpl");
 
 
 //检测是否登录，若没登录则转向登录界面
@@ -22,7 +22,7 @@ if(isset($_POST['title'])){
     $data['id'] = "";
 	$data['title'] = $_POST['title'];
 	$data['content'] = $_POST['content'];
-	$data['level'] = $_POST['level'];
+	$data['priority'] = $_POST['priority'];
 	$data['owner'] = $_SESSION['username'];
 	$data['add_time'] = date("Y-m-d H:i:s");
 	$data['end_time'] = $_POST['end_time'];

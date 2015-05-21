@@ -63,7 +63,7 @@
 			});
 		},
 		bind: function() {
-			var that = this;
+			var t_this = this;
 			this.table.on('click', 'tbody td', function() {
 				var t = $(this);
 				var id = t.parents('tr').attr('data-rowid');
@@ -79,27 +79,29 @@
 						//百发比现实，取值需要特殊处理
 						oldValue = t.attr("data-value");
 					case 'select':
-						t.html(that.selectDom(oldValue, field)).find('select').blur(function() {
+						t.html(t_this.selectDom(oldValue, field)).find('select').blur(function() {
 							var value = $(this).val();
 							if (oldValue != value) {
-								that.daoUpdate(id, field, value);
+								t_this.daoUpdate(id, field, value);
 							}
 						});
 						break;
 					case 'data':
 						//todo
-						t.html(that.dateDom(oldValue, field)).find('select').blur(function() {
+						t.html(t_this.dateDom(oldValue, field)).find('select').blur(function() {
 							var value = $(this).val();
 							if (oldValue != value) {
-								that.daoUpdate(id, field, value);
+								t_this.daoUpdate(id, field, value);
 							}
 						});
 						break;
 					default:
-						t.html(that.textDom(oldValue)).find('input').blur(function() {
+						t.html(t_this.textDom(oldValue)).find('input').blur(function() {
 							var value = $(this).val();
 							if (oldValue != value) {
-								that.daoUpdate(id, field, value);
+								t_this.daoUpdate(id, field, value);
+							}else{
+								t_this.tableShow.refresh();
 							}
 						});
 				}
@@ -142,7 +144,6 @@
 			var t_this = this;
 			var url = this.opts.updateDataUrl;
 			//实例工具类
-
 			t_this.tool.hintSHow("等等中！");
 			$.ajax({
 				type: "POST",

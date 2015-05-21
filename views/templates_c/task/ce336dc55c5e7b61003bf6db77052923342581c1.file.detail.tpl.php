@@ -1,34 +1,36 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-04 05:40:39
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-21 02:47:58
          compiled from "D:\wamp\www\manage\views\templates\task\detail.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:270255547065791ebe8-71803521%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:27380555aa7857043a4-02255767%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ce336dc55c5e7b61003bf6db77052923342581c1' => 
     array (
       0 => 'D:\\wamp\\www\\manage\\views\\templates\\task\\detail.tpl',
-      1 => 1425535549,
+      1 => 1432176475,
       2 => 'file',
     ),
     'ad904dd1c3664a1417fac7a013d4109ecc60d0b3' => 
     array (
       0 => 'D:\\wamp\\www\\manage\\views\\templates\\task\\layout.tpl',
-      1 => 1425535549,
+      1 => 1432176261,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '270255547065791ebe8-71803521',
+  'nocache_hash' => '27380555aa7857043a4-02255767',
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21-dev',
-  'unifunc' => 'content_55470657a53802_76816932',
+  'unifunc' => 'content_555aa785859b17_69151319',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55470657a53802_76816932')) {function content_55470657a53802_76816932($_smarty_tpl) {?><!DOCTYPE HTML> 
+<?php if ($_valid && !is_callable('content_555aa785859b17_69151319')) {function content_555aa785859b17_69151319($_smarty_tpl) {?><!DOCTYPE HTML> 
     <head>    
         
       		<meta http-equiv="Content-type" content="text/html; charset=utf-8">  
+      		<link rel="stylesheet" href="../../static/css/reset.css" />
+      		<link rel="stylesheet" href="../../static/css/common.css" />
         
 		<title><?php echo $_smarty_tpl->tpl_vars['title']->value;?>
 </title>
@@ -57,7 +59,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     </head> 
     <body> 
         
-		<div class="wrap">
+		<div class="w960">
 			<h1><?php echo $_smarty_tpl->tpl_vars['list']->value['title'];?>
 </h1>
 			<div id="content"><?php echo $_smarty_tpl->tpl_vars['list']->value['content'];?>
