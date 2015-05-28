@@ -10,7 +10,8 @@
 				var tb = $("#table").lhz_table({
 					'getDataUrl': './getData.php?project_id=<{$smarty.get.project_id}>',
 					'updateDataUrl': './tableUPdate.php',
-					'searchDataUrl': './tableSearch.php'
+					"getFilterUrl": '../../static/js/data/taskFilter.json',
+					'searchDataUrl': './taskSearch.php'
 				});
 		});
 		</script>

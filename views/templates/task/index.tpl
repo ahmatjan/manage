@@ -10,13 +10,22 @@
 				var tb = $("#table").lhz_table({
 					"getDataUrl": './getProjectData.php',
 					"updateDataUrl": './tableUPdate.php',
-					"searchDataUrl": './tableSearch.php',
+					"getFilterUrl": '../../static/js/data/projectFilter.json',
+					"searchDataUrl": './projectSearch.php',
 					"getTheadDate": [{
 						"id": "id"
 					}, {
 						"title": "标题"
 					}, {
 						"content": "内容"
+					}, {
+						"owner": "负责人"
+					}, {
+						"priorty": "优先级"
+					}, {
+						"status": "状态"
+					}, {
+						"progress": "进度"
 					}]
 				});
 			});
