@@ -16,7 +16,6 @@
 		});
 		</script>
 	<{/block}>
-
 	<{block name="content"}>
 		<div class="w960">
 			<{if $smarty.session|@count neq 0 && $smarty.session.username neq '' }>
@@ -27,7 +26,7 @@
 					<p><a href="./login.php">登陆</a>&nbsp;<a href="./user.php">注册</a>
 					</p>
 			<{/if}>
-			<a href="./add.php">新增</a>
+			<a href="./taskAdd.php?project_id=<{$smarty.get.project_id}>">新增</a>
 			<div id="table">loading</div>
 		</div>
 	<{/block}>

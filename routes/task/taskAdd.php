@@ -23,9 +23,11 @@ if(isset($_POST['title'])){
 	$data['title'] = $_POST['title'];
 	$data['content'] = $_POST['content'];
 	$data['priority'] = $_POST['priority'];
+	$data['hour'] = $_POST['hour'];
 	$data['owner'] = $_SESSION['username'];
 	$data['add_time'] = date("Y-m-d H:i:s");
 	$data['end_time'] = $_POST['end_time'];
+	$data['project_id'] = $_POST['project_id'];
   $db->insert('task_task',$data);
 
   $url = "http://".$_SERVER['HTTP_HOST'].$folder_name."/routes/task/"; 

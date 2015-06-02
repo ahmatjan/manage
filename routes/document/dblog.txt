@@ -3914,3 +3914,6 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 2015-05-28 02:57:55 查询 SELECT * FROM `document_doc`
 2015-05-28 02:57:55 释放结果集
 2015-05-28 02:57:55 完成整个查询任务,所用时间为0.027502059936523
+2015-06-01 02:40:49 查询 SELECT * FROM `document_doc`
+2015-06-01 02:40:49 释放结果集
+2015-06-01 02:40:49 完成整个查询任务,所用时间为0.2715220451355
