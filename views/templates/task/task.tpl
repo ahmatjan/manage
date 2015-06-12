@@ -10,8 +10,37 @@
 				var tb = $("#table").lhz_table({
 					'getDataUrl': './getData.php?project_id=<{$smarty.get.project_id}>',
 					'updateDataUrl': './tableUPdate.php',
-					"getFilterUrl": '../../static/js/data/taskFilter.json',
-					'searchDataUrl': './taskSearch.php'
+					"getFilterUrl": './data/taskFilter.json',
+					'searchDataUrl': './taskSearch.php',
+					"getTheadDate": [{
+						"id": "id"
+					}, {
+						"title": "标题"
+					}, {
+						"type": "类型"
+					}, {
+						"priority": "等级"
+					}, {
+						"owner": "负责人"
+					}, {
+						"hour": "人时"
+					}, {
+						"used_hour": "已用人时"
+					}, {
+						"progress": "进度"
+					}, {
+						"status": "状态"
+					}, {
+						"add_time": "添加时间"
+					}, {
+						"plan_start_time": "计划开始时间"
+					}, {
+						"plan_end_time": "计划结束时间"
+					}, {
+						"start_time": "开始时间"
+					}, {
+						"end_time": "结束时间"
+					}]
 				});
 		});
 		</script>

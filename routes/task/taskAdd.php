@@ -30,6 +30,11 @@ if(isset($_POST['title'])){
 	$data['project_id'] = $_POST['project_id'];
   $db->insert('task_task',$data);
 
+  //跟新项目人时
+  if($_POST['hour'] > 0){
+	$db -> query('update `task_project` set `hour` = `hour`+'.$_POST['hour'].' WHERE `id` = '.$_POST['project_id']);
+  }
+
   $url = "http://".$_SERVER['HTTP_HOST'].$folder_name."/routes/task/"; 
 
   //header("Location: ".$url); 

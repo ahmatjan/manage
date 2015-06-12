@@ -1,0 +1,122 @@
+{
+	"id": {
+		"id": "id",
+		"name": "ID",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "include", "none"],
+		"type": "text",
+		"defaultOption": "",
+		"option": []
+	},
+	"type": {
+		"id": "type",
+		"name": "类型",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal", "none"],
+		"type": "select",
+		"defaultOption": "bug",
+		"option": [
+			{
+				"name": "需求任务",
+				"value": "requirement"
+			}, {
+				"name": "Bug任务",
+				"value": "bug"
+			}
+		]
+	},
+	"status": {
+		"id": "status",
+		"name": "状态",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "新提交",
+		"option": [
+			{
+				"name": "新提交",
+				"value": "new"
+			}, {
+
+				"name": "进行中",
+				"value": "ing"
+			}, {
+				"name": "已解决",
+				"value": "fixed"
+			}, {
+				"name": "已关闭",
+				"value": "closed"
+			}, {
+				"name": "暂停中",
+				"value": "suspend"
+			}, {
+				"name": "已拒绝",
+				"value": "refuse"
+			}
+		]
+	},
+	"priority": {
+		"id": "priority",
+		"name": "优先级",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "p1",
+		"option": [
+			{
+				"name": "P0",
+				"value": "p0"
+			}, {
+				"name": "P1",
+				"value": "p1"
+			}, {
+				"name": "P2",
+				"value": "p2"
+			}, {
+				"name": "P3",
+				"value": "p3"
+			}, {
+				"name": "P4",
+				"value": "p4"
+			}
+		]
+	},
+	"title": {
+		"id": "title",
+		"name": "主题",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "include", "none"],
+		"type": "text",
+		"defaultOption": "",
+		"option": []
+	},
+	"owner": {
+		"id": "owner",
+		"name": "负责人",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal", "mine", "notmine", "none"],
+		"type": "select",
+		"defaultOption": "魏忠健",
+		"option": [
+			{
+				"name": "杨小旭",
+				"value": "杨小旭"
+			}, {
+				"name": "魏忠健",
+				"value": "魏忠健"
+			}, {
+				"name": "卢俊豪",
+				"value": "卢俊豪"
+			}, {
+				"name": "周胜",
+				"value": "周胜"
+			}
+		]
+	}
+}

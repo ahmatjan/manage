@@ -10,7 +10,7 @@
 				var tb = $("#table").lhz_table({
 					"getDataUrl": './getProjectData.php',
 					"updateDataUrl": './tableUPdate.php',
-					"getFilterUrl": '../../static/js/data/projectFilter.json',
+					"getFilterUrl": './data/projectFilter.json',
 					"searchDataUrl": './projectSearch.php',
 					"getTheadDate": [{
 						"id": "id"
@@ -24,6 +24,8 @@
 						"priorty": "优先级"
 					}, {
 						"status": "状态"
+					}, {
+						"hour": "人时"
 					}, {
 						"progress": "进度"
 					}]

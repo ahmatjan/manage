@@ -1,0 +1,153 @@
+{
+	"id": {
+		"id": "id",
+		"name": "ID",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "include", "none"],
+		"type": "text",
+		"defaultOption": "",
+		"option": []
+	},
+	"type": {
+		"id": "type",
+		"name": "类型",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal", "none"],
+		"type": "select",
+		"defaultOption": "bug",
+		"option": [
+			{
+				"name": "需求任务",
+				"value": "requirement"
+			}, {
+				"name": "Bug任务",
+				"value": "bug"
+			}
+		]
+	},
+	"status": {
+		"id": "status",
+		"name": "状态",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "新提交",
+		"option": [
+			{
+				"name": "新提交",
+				"value": "new"
+			}, {
+
+				"name": "进行中",
+				"value": "ing"
+			}, {
+				"name": "已解决",
+				"value": "fixed"
+			}, {
+				"name": "已关闭",
+				"value": "closed"
+			}, {
+				"name": "暂停中",
+				"value": "suspend"
+			}, {
+				"name": "已拒绝",
+				"value": "refuse"
+			}
+		]
+	},
+	"priority": {
+		"id": "priority",
+		"name": "优先级",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "p1",
+		"option": [
+			{
+				"name": "P0",
+				"value": "p0"
+			}, {
+				"name": "P1",
+				"value": "p1"
+			}, {
+				"name": "P2",
+				"value": "p2"
+			}, {
+				"name": "P3",
+				"value": "p3"
+			}, {
+				"name": "P4",
+				"value": "p4"
+			}
+		]
+	},
+	"title": {
+		"id": "title",
+		"name": "主题",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "include", "none"],
+		"type": "text",
+		"defaultOption": "",
+		"option": []
+	},
+	"assignee": {
+		"id": "assignee",
+		"name": "指派给",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal", "mine", "notmine", "none"],
+		"type": "select",
+		"defaultOption": "孟天",
+		"option": [
+			{
+				"id": "-4",
+				"name": "孟天",
+				"value": "-4"
+			}, {
+				"id": "-3",
+				"name": "柳堂",
+				"value": "-3"
+			}, {
+				"id": "28578",
+				"name": "传鹰",
+				"value": "28578"
+			}
+		]
+	},
+	"manHours": {
+		"id": "manHours",
+		"name": "人时",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"dataType": "float",
+		"condition": ["all", "equal", "include", "none"],
+		"type": "text",
+		"defaultOption": "",
+		"option": []
+	},
+	"startDate": {
+		"id": "startDate",
+		"name": "开始日期",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal", "lessthan", "morethan", "lessthan_equal", "morethan_equal", "none"],
+		"type": "date",
+		"defaultOption": "",
+		"option": []
+	},
+	"endDate": {
+		"id": "endDate",
+		"name": "完成日期",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal", "lessthan", "morethan", "lessthan_equal", "morethan_equal", "none"],
+		"type": "date",
+		"defaultOption": "",
+		"option": []
+	}
+}

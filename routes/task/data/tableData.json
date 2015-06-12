@@ -1,0 +1,274 @@
+{
+	"thead": {
+		"id": "ID",
+		"title": "名称",
+		"status": "状态",
+		"content": "内容",
+		"owner": "负责人",
+		"add_time": "添加时间",
+		"end_time": "结束时间",
+		"start_time": "开始时间",
+		"priority": "等级",
+		"percent": "百分比",
+		"depend": "依赖任务"
+	},
+	"option": {
+		"priority": [
+			{
+				"value": "p0",
+				"name": "P0"
+			}, {
+				"value": "p1",
+				"name": "P1"
+			}, {
+				"value": "p2",
+				"name": "P2"
+			}, {
+				"value": "p3",
+				"name": "P3"
+			}, {
+				"value": "p4",
+				"name": "P4"
+			}
+		],
+		"percent": [
+			{
+				"value": "0",
+				"name": "0%"
+			}, {
+				"value": "10",
+				"name": "10%"
+			}, {
+				"value": "20",
+				"name": "20%"
+			}, {
+				"value": "30",
+				"name": "30%"
+			}, {
+				"value": "40",
+				"name": "40%"
+			}, {
+				"value": "50",
+				"name": "50%"
+			}, {
+				"value": "60",
+				"name": "60%"
+			}, {
+				"value": "70",
+				"name": "70%"
+			}, {
+				"value": "80",
+				"name": "80%"
+			}, {
+				"value": "90",
+				"name": "90%"
+			}, {
+				"value": "100",
+				"name": "100%"
+			}
+		]
+	},
+	"tbody": [
+		{
+			"data": {
+				"id": "1",
+				"title": {
+					"type": "link",
+					"value": "些盘文章",
+					"url": "./routes/detail.php?id=1"
+				},
+				"project_id": null,
+				"content": "啊时代发生地方",
+				"add_date": null,
+				"owner": null,
+				"priority": {
+					"type": "select",
+					"value": null
+				},
+				"end_time": null,
+				"start_time": null,
+				"add_time": null
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "2",
+				"title": {
+					"type": "link",
+					"value": "sdfasd",
+					"url": "./routes/detail.php?id=2"
+				},
+				"project_id": null,
+				"content": "fasdfasdf",
+				"add_date": null,
+				"owner": null,
+				"priority": {
+					"type": "select",
+					"value": null
+				},
+				"end_time": null,
+				"start_time": null,
+				"add_time": null
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "3",
+				"title": {
+					"type": "link",
+					"value": "dddd",
+					"url": "./routes/detail.php?id=3"
+				},
+				"project_id": null,
+				"content": "sdfasdf",
+				"add_date": null,
+				"owner": null,
+				"priority": {
+					"type": "select",
+					"value": null
+				},
+				"end_time": null,
+				"start_time": null,
+				"add_time": null
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "4",
+				"title": {
+					"type": "link",
+					"value": "asdf",
+					"url": "./routes/detail.php?id=4"
+				},
+				"project_id": null,
+				"content": "asdfsdf",
+				"add_date": null,
+				"owner": null,
+				"priority": {
+					"type": "select",
+					"value": null
+				},
+				"end_time": null,
+				"start_time": null,
+				"add_time": null
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "5",
+				"title": {
+					"type": "link",
+					"value": "dddd",
+					"url": "./routes/detail.php?id=5"
+				},
+				"project_id": null,
+				"content": "dddd",
+				"add_date": null,
+				"owner": null,
+				"priority": {
+					"type": "select",
+					"value": null
+				},
+				"end_time": null,
+				"start_time": null,
+				"add_time": null
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "6",
+				"title": {
+					"type": "link",
+					"value": "死点发送到",
+					"url": "./routes/detail.php?id=6"
+				},
+				"project_id": null,
+				"content": "阿斯顿发送到",
+				"add_date": null,
+				"owner": "杨小旭",
+				"priority": {
+					"type": "select",
+					"value": "0"
+				},
+				"end_time": "00:00:00",
+				"start_time": null,
+				"add_time": "2015-02-15"
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "7",
+				"title": {
+					"type": "link",
+					"value": "sdfa",
+					"url": "./routes/detail.php?id=7"
+				},
+				"project_id": null,
+				"content": "#收拾收拾是",
+				"add_date": null,
+				"owner": "杨小旭",
+				"priority": {
+					"type": "select",
+					"value": "0"
+				},
+				"end_time": "00:00:00",
+				"start_time": null,
+				"add_time": "2015-02-15"
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}, {
+			"data": {
+				"id": "8",
+				"title": {
+					"type": "link",
+					"value": "sdfa",
+					"url": "./routes/detail.php?id=8"
+				},
+				"project_id": null,
+				"content": "#收拾收拾是多大的",
+				"add_date": null,
+				"owner": "杨小旭",
+				"priority": {
+					"type": "select",
+					"value": "0"
+				},
+				"end_time": "00:00:00",
+				"start_time": null,
+				"add_time": "2015-02-15"
+			},
+			"attribute": {
+				"links": {
+					"title": "task/19"
+				}
+			}
+		}
+	]
+}

@@ -34,7 +34,7 @@ if(isset($_POST['title'])){
 	}
 
 	$data['content'] = $_POST['content'];
-    $db->update('task_task',$data,'id='.$_POST['id']);
+    $db->update('task_task',$data,c);
 
     $url = "http://".$_SERVER['HTTP_HOST']."/task"; 
   //header("Location: ".$url); 
