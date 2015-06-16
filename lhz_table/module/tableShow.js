@@ -43,7 +43,7 @@
 		 * @return {String} 返回HTML的字符串
 		 */
 		creatTb: function() {
-			var tbDom = $('<table class="'+this.tbSelector+'"></table>');
+			var tbDom = $('<table class="' + this.tbSelector + '"></table>');
 			tbDom.append('<thead><tr><td>载入中</td><td>。。。</td></tr></thead>');
 			tbDom.append('<tbody><tr><td>载入中</td><td>。。。</td></tr></tbody>');
 			return tbDom;
@@ -85,9 +85,7 @@
 			if (data.length > 0) {
 				thead.push("<tr>");
 				$.each(data, function(index, item) {
-					$.each(item, function(key, val) {
-						thead.push("<td id='" + key + "'>" + val + "</td>");
-					});
+					thead.push("<td id='" + item.field + "' ifCanEdit='" + item.ifCanEdit + "'>" + item.name + "</td>");
 				});
 				thead.push("</tr>");
 			} else {
@@ -113,18 +111,18 @@
 					tbody.push('<tr data-rowId="' + item.data.id + '">');
 					var tbodyData = item.data;
 					$.each(theadData, function(index, item) {
-						$.each(item, function(key, name) {
-							var tdObj = tbodyData[key];
-							if (tdObj != null) {
-								if (typeof tdObj == 'string') {
-									tbody.push('<td data-field="' + key + '" data-type="text">' + tdObj + '</td>');
-								} else {
-									tbody.push(t_this.showtd(key, tdObj));
-								}﻿
+						var key = item.field;
+						var ifCanEdit = item.ifCanEdit;
+						var tdObj = tbodyData[key];
+						if (tdObj != null) {
+							if (typeof tdObj == 'string') {
+								tbody.push('<td data-field="' + key + '" data-type="text"  ifCanEdit="' + ifCanEdit + '">' + tdObj + '</td>');
 							} else {
-								tbody.push('<td data-field="' + key + '" data-type="text">null</td>');
-							}
-						});
+								tbody.push(t_this.showtd(key, tdObj, ifCanEdit));
+							}﻿
+						} else {
+							tbody.push('<td data-field="' + key + '" data-type="text" ifCanEdit="' + ifCanEdit + '">null</td>');
+						}
 					});
 					tbody.push("</tr>");
 				});
@@ -141,28 +139,28 @@
 		 * @param {json} ajax成功的返回数据
 		 * @return {String} 返回HTML的字符串
 		 */
-		showtd: function(key, obj) {
+		showtd: function(key, obj,ifCanEdit) {
 			var type = obj.type;
 			var value = obj.value;
 			var tdHtml = '';
 			switch (type) {
 				case 'link':
-					tdHtml = '<td data-field="' + key + '" data-type="link"><a href="' + obj.url + '">' + value + '</a></td>';
+					tdHtml = '<td data-field="' + key + '" data-type="link" ifCanEdit="' + ifCanEdit + '"><a href="' + obj.url + '">' + value + '</a></td>';
 					break;
 				case 'select':
-					tdHtml = '<td data-field="' + key + '" data-type="select">' + obj.name + '</td>';
+					tdHtml = '<td data-field="' + key + '" data-type="select" ifCanEdit="' + ifCanEdit + '">' + obj.name + '</td>';
 					break;
 				case 'percent':
-					tdHtml = '<td data-field="' + key + '" data-type="percent" data-value="' + value + '%"><div class="percent-box"><div class="percent-inner" style="width:' + value + '%;"></div></div></td>';
+					tdHtml = '<td data-field="' + key + '" data-type="percent" ifCanEdit="' + ifCanEdit + '" data-value="' + value + '%"><div class="percent-box"><div class="percent-inner" style="width:' + value + '%;"></div></div></td>';
 					break;
 				default:
-					tdHtml = '<td data-field="' + key + '">' + obj.name + '</td>';
+					tdHtml = '<td data-field="' + key + '" ifCanEdit="' + ifCanEdit + '">' + obj.name + '</td>';
 			}
 			return tdHtml;
 		},
 		refresh: function(ifSearch) {
 			var ifSearch = arguments[0] ? arguments[0] : false;
-			if(!ifSearch){
+			if (!ifSearch) {
 				/*获取最新数据*/
 				this.tbodyDate = this.getData();
 			}

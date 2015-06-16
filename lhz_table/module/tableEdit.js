@@ -66,6 +66,9 @@
 			var t_this = this;
 			this.table.on('click', 'tbody td', function() {
 				var t = $(this);
+				if(t.attr("ifCanEdit") != "true"){
+					return true;
+				}
 				var id = t.parents('tr').attr('data-rowid');
 				var type = t.attr("data-type");
 				var field = t.attr("data-field");

@@ -13,21 +13,37 @@
 					"getFilterUrl": './data/projectFilter.json',
 					"searchDataUrl": './projectSearch.php',
 					"getTheadDate": [{
-						"id": "id"
+						"field": "id",
+						'name':'id',
+						'ifCanEdit':false
 					}, {
-						"title": "标题"
+						"field": "title",
+						'name':'标题',
+						'ifCanEdit':true
 					}, {
-						"content": "内容"
+						"field": "content",
+						'name':'内容',
+						'ifCanEdit':true
 					}, {
-						"owner": "负责人"
+						"field": "owner",
+						'name':'负责人',
+						'ifCanEdit':true
 					}, {
-						"priorty": "优先级"
+						"field": "priorty",
+						'name':'优先级',
+						'ifCanEdit':false
 					}, {
-						"status": "状态"
+						"field": "status",
+						'name':'状态',
+						'ifCanEdit':false
 					}, {
-						"hour": "人时"
+						"field": "hour",
+						'name':'人时',
+						'ifCanEdit':false
 					}, {
-						"progress": "进度"
+						"field": "progress",
+						'name':'进度',
+						'ifCanEdit':false
 					}]
 				});
 			});

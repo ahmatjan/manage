@@ -13,33 +13,61 @@
 					"getFilterUrl": './data/taskFilter.json',
 					'searchDataUrl': './taskSearch.php',
 					"getTheadDate": [{
-						"id": "id"
+						"field": "id",
+						'name':'id',
+						'ifCanEdit':false
 					}, {
-						"title": "标题"
+						"field": "title",
+						'name':'标题',
+						'ifCanEdit':true
 					}, {
-						"type": "类型"
+						"field": "type",
+						'name':'类型',
+						'ifCanEdit':true
 					}, {
-						"priority": "等级"
+						"field": "priority",
+						'name':'等级',
+						'ifCanEdit':true
 					}, {
-						"owner": "负责人"
+						"field": "owner",
+						'name':'负责人',
+						'ifCanEdit':true
 					}, {
-						"hour": "人时"
+						"field": "hour",
+						'name':'人时',
+						'ifCanEdit':true
 					}, {
-						"used_hour": "已用人时"
+						"field": "used_hour",
+						'name':'已用人时',
+						'ifCanEdit':true
+					},{
+						"field": "progress",
+						'name':'进度',
+						'ifCanEdit':true
 					}, {
-						"progress": "进度"
+						"field": "status",
+						'name':'状态',
+						'ifCanEdit':false
 					}, {
-						"status": "状态"
+						"field": "add_time",
+						'name':'添加时间',
+						'ifCanEdit':true
 					}, {
-						"add_time": "添加时间"
+						"field": "plan_start_time",
+						'name':'计划开始时间',
+						'ifCanEdit':true
 					}, {
-						"plan_start_time": "计划开始时间"
+						"field": "plan_end_time",
+						'name':'计划结束时间',
+						'ifCanEdit':true
 					}, {
-						"plan_end_time": "计划结束时间"
+						"field": "start_time",
+						'name':'开始时间',
+						'ifCanEdit':true
 					}, {
-						"start_time": "开始时间"
-					}, {
-						"end_time": "结束时间"
+						"field": "end_time",
+						'name':'结束时间',
+						'ifCanEdit':true
 					}]
 				});
 		});
