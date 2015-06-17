@@ -23,6 +23,7 @@
 	 */
 	function TableShow(configObj) {
 		this.tbSelector = configObj.tbSelector;
+		this.opts = configObj.opts;
 		this.table = configObj.obj;
 		this.getDataUrl = configObj.opts.getDataUrl;
 		this.theadDate = configObj.opts.getTheadDate;
@@ -87,6 +88,11 @@
 				$.each(data, function(index, item) {
 					thead.push("<td id='" + item.field + "' ifCanEdit='" + item.ifCanEdit + "'>" + item.name + "</td>");
 				});
+
+				//回调加操作列表头
+				if(typeof this.opts.callbackOperation == 'function'){
+					thead.push(this.opts.callbackOperation('thead'));
+				}
 				thead.push("</tr>");
 			} else {
 				thead.push('<tr>', '<td>暂无数据</td>', '</tr>');
@@ -108,6 +114,7 @@
 			var tbody = [];
 			if (tbodyObj.length > 0) {
 				$.each(tbodyObj, function(index, item) {
+					var id = item.data.id;
 					tbody.push('<tr data-rowId="' + item.data.id + '">');
 					var tbodyData = item.data;
 					$.each(theadData, function(index, item) {
@@ -124,6 +131,11 @@
 							tbody.push('<td data-field="' + key + '" data-type="text" ifCanEdit="' + ifCanEdit + '">null</td>');
 						}
 					});
+
+					//回调加操作列	
+					if(typeof t_this.opts.callbackOperation == 'function'){
+						tbody.push(t_this.opts.callbackOperation('tbody',id));
+					}
 					tbody.push("</tr>");
 				});
 			} else {

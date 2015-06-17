@@ -55,7 +55,8 @@ require.config({
 			//var markup = $this.html();      
 			//markup = $.fn.lhz_table.skin(markup);      
 		});
-		return table ? table : this;
+		//return table ? table : this;?
+		return this;
 	};
 
 	$.fn.lhz_table.defaults = {

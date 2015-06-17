@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="../../lhz_table/lhz_table.css" />
 		<script>
 		$(document).ready(function() {
-				var tb = $("#table").lhz_table({
+				var tb = $("#myTask").lhz_table({
 					'getDataUrl': './getData.php?project_id=<{$smarty.get.project_id}>',
 					'updateDataUrl': './tableUPdate.php',
 					"getFilterUrl": './data/taskFilter.json',
@@ -84,6 +84,6 @@
 					</p>
 			<{/if}>
 			<a href="./taskAdd.php?project_id=<{$smarty.get.project_id}>">新增</a>
-			<div id="table">loading</div>
+			<div id="myTask">loading</div>
 		</div>
 	<{/block}>

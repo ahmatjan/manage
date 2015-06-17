@@ -12,6 +12,6 @@ while ($row = mysql_fetch_array($list)) {
 	$result[] = $row;
 }
 //var_dump($result);
-$tpl -> assign("list", $result);
+//$tpl -> assign("list", $result);
 $tpl -> display("index.tpl");
 ?>

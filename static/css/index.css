@@ -1,6 +1,16 @@
-:root { } 
-::first-line
-::first-letter
-:not(x) 
+:root {
+}
+::first-line::first-letter:not(x) 
 span + span 
-figure ~ p {}
+figure ~ p {
+}
+.switch {
+	overflow: hidden;
+	_zoom: 1;
+	font-weight: bold;
+	font-size:18px; 
+}
+.switch li {
+	float: left;
+	margin-right: 10px;
+}

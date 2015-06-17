@@ -5,9 +5,10 @@
 		<script type="text/javascript" src="../../lhz_table/require.js"></script>
 		<script type="text/javascript" src="../../lhz_table/lhz_table.js"></script>
 		<link rel="stylesheet" type="text/css" href="../../lhz_table/lhz_table.css" />
+		<link rel="stylesheet" type="text/css" href="../../static/css/index.css" />
 		<script>
 			$(document).ready(function() {
-				var tb = $("#table").lhz_table({
+				var project = $("#projectTable").lhz_table({
 					"getDataUrl": './getProjectData.php',
 					"updateDataUrl": './tableUPdate.php',
 					"getFilterUrl": './data/projectFilter.json',
@@ -44,24 +45,101 @@
 						"field": "progress",
 						'name':'进度',
 						'ifCanEdit':false
+					}],
+					"callbackOperation": function(type,id){
+						if(type == 'tbody'){
+							return '<td><a href="./update.php?id='+id+'">编辑</a> <a href="./task.php?project_id='+id+'">查看任务</a></td>';
+						}else{
+							return '<td>操作</td>';
+						}
+					}
+				});
+
+				var task = $("#taskTable").lhz_table({
+					"getDataUrl": './getData.php',
+					'updateDataUrl': './tableUPdate.php',
+					"getFilterUrl": './data/taskFilter.json',
+					'searchDataUrl': './taskSearch.php',
+					"getTheadDate": [{
+						"field": "id",
+						'name':'id',
+						'ifCanEdit':false
+					}, {
+						"field": "title",
+						'name':'标题',
+						'ifCanEdit':true
+					}, {
+						"field": "type",
+						'name':'类型',
+						'ifCanEdit':true
+					}, {
+						"field": "priority",
+						'name':'等级',
+						'ifCanEdit':true
+					}, {
+						"field": "owner",
+						'name':'负责人',
+						'ifCanEdit':true
+					}, {
+						"field": "hour",
+						'name':'人时',
+						'ifCanEdit':true
+					}, {
+						"field": "used_hour",
+						'name':'已用人时',
+						'ifCanEdit':true
+					},{
+						"field": "progress",
+						'name':'进度',
+						'ifCanEdit':true
+					}, {
+						"field": "status",
+						'name':'状态',
+						'ifCanEdit':false
+					}, {
+						"field": "add_time",
+						'name':'添加时间',
+						'ifCanEdit':true
+					}, {
+						"field": "plan_start_time",
+						'name':'计划开始时间',
+						'ifCanEdit':true
+					}, {
+						"field": "plan_end_time",
+						'name':'计划结束时间',
+						'ifCanEdit':true
+					}, {
+						"field": "start_time",
+						'name':'开始时间',
+						'ifCanEdit':true
+					}, {
+						"field": "end_time",
+						'name':'结束时间',
+						'ifCanEdit':true
 					}]
 				});
+
+                //切换项目、任务表格显示
+	            $('.switch a').click(function(){
+	            	var t = $(this);
+	            	var key = t.attr('data-type');
+	            	$("#"+key).show().siblings().hide();
+	            });
+
 			});
 		</script>
 		<{/block}>
-			<{block name="content" }>
-				<div class="w960">
-					<ul>
-						<{foreach from=$list key=key item=question}>
-							<li>
-								<a href="./detail.php?id=<{$question.id}>">
-									<{$question.title}>
-								</a> <a href="./update.php?id=<{$question.id}>">编辑</a> <a href="./task.php?project_id=<{$question.id}>">查看任务</a>
-							</li>
-							<{/foreach}>
-					</ul>
-					<a href="./projectAdd.php">新增项目</a>
-					<div id="table">loading</div>
-				</div>
+		<{block name="content" }>
+			<div class="w960">
+				<a href="./projectAdd.php">新增项目</a>
 
-				<{/block}>
+				<ul class="switch">
+					<li><a href="#" data-type="projectTable">项目列表</a></li>
+					<li><a href="#" data-type="taskTable">任务列表</a></li>
+				</ul>
+				<div>
+					<div id="projectTable">loading</div>
+					<div id="taskTable" style="display:none;">loading</div>
+				</div>		
+			</div>
+		<{/block}>

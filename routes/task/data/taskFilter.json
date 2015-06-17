@@ -9,82 +9,6 @@
 		"defaultOption": "",
 		"option": []
 	},
-	"type": {
-		"id": "type",
-		"name": "类型",
-		"defaultName": "",
-		"defaultCondition": "equal",
-		"condition": ["all", "equal", "notequal", "none"],
-		"type": "select",
-		"defaultOption": "bug",
-		"option": [
-			{
-				"name": "需求任务",
-				"value": "requirement"
-			}, {
-				"name": "Bug任务",
-				"value": "bug"
-			}
-		]
-	},
-	"status": {
-		"id": "status",
-		"name": "状态",
-		"defaultName": "",
-		"defaultCondition": "equal",
-		"condition": ["all", "equal", "notequal"],
-		"type": "select",
-		"defaultOption": "新提交",
-		"option": [
-			{
-				"name": "新提交",
-				"value": "new"
-			}, {
-
-				"name": "进行中",
-				"value": "ing"
-			}, {
-				"name": "已解决",
-				"value": "fixed"
-			}, {
-				"name": "已关闭",
-				"value": "closed"
-			}, {
-				"name": "暂停中",
-				"value": "suspend"
-			}, {
-				"name": "已拒绝",
-				"value": "refuse"
-			}
-		]
-	},
-	"priority": {
-		"id": "priority",
-		"name": "优先级",
-		"defaultName": "",
-		"defaultCondition": "all",
-		"condition": ["all", "equal", "notequal"],
-		"type": "select",
-		"defaultOption": "p1",
-		"option": [
-			{
-				"name": "P0",
-				"value": "p0"
-			}, {
-				"name": "P1",
-				"value": "p1"
-			}, {
-				"name": "P2",
-				"value": "p2"
-			}, {
-				"name": "P3",
-				"value": "p3"
-			}, {
-				"name": "P4",
-				"value": "p4"
-			}
-		]
-	},
 	"title": {
 		"id": "title",
 		"name": "主题",
@@ -95,29 +19,105 @@
 		"defaultOption": "",
 		"option": []
 	},
-	"assignee": {
-		"id": "assignee",
-		"name": "指派给",
+	"type": {
+		"id": "type",
+		"name": "类型",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal", "none"],
+		"type": "select",
+		"defaultOption": "bug",
+		"option": [{
+			"name": "需求任务",
+			"value": "requirement"
+		}, {
+			"name": "Bug任务",
+			"value": "bug"
+		}]
+	},
+	"status": {
+		"id": "status",
+		"name": "状态",
+		"defaultName": "",
+		"defaultCondition": "equal",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "新提交",
+		"option": [{
+			"name": "未开始",
+			"value": "未开始"
+		}, {
+			"name": "开发中",
+			"value": "开发中"
+		}, {
+			"name": "已完成",
+			"value": "已完成"
+		}, {
+			"name": "已结束",
+			"value": "已结束"
+		}, {
+			"name": "暂停中",
+			"value": "暂停中"
+		}]
+	},
+	"priority": {
+		"id": "priority",
+		"name": "优先级",
+		"defaultName": "",
+		"defaultCondition": "all",
+		"condition": ["all", "equal", "notequal"],
+		"type": "select",
+		"defaultOption": "p1",
+		"option": [{
+			"name": "P0",
+			"value": "p0"
+		}, {
+			"name": "P1",
+			"value": "p1"
+		}, {
+			"name": "P2",
+			"value": "p2"
+		}, {
+			"name": "P3",
+			"value": "p3"
+		}, {
+			"name": "P4",
+			"value": "p4"
+		}]
+	},
+	"owner": {
+		"id": "owner",
+		"name": "负责人",
 		"defaultName": "",
 		"defaultCondition": "all",
 		"condition": ["all", "equal", "notequal", "mine", "notmine", "none"],
 		"type": "select",
-		"defaultOption": "孟天",
-		"option": [
-			{
-				"id": "-4",
-				"name": "孟天",
-				"value": "-4"
-			}, {
-				"id": "-3",
-				"name": "柳堂",
-				"value": "-3"
-			}, {
-				"id": "28578",
-				"name": "传鹰",
-				"value": "28578"
-			}
-		]
+		"defaultOption": "杨小旭",
+		"option": [{
+			"id": "-4",
+			"name": "杨小旭",
+			"value": "杨小旭"
+		}, {
+			"id": "-3",
+			"name": "魏忠健",
+			"value": "-魏忠健"
+		}, {
+			"id": "28578",
+			"name": "卢俊豪",
+			"value": "卢俊豪"
+		}, {
+			"id": "28578",
+			"name": "周胜",
+			"value": "周胜"
+		}, {
+			"id": "28578",
+			"name": "周晓漪",
+			"value": "周晓漪"
+		}, {
+			"id": "28578",
+			"name": "丁扬",
+			"value": "丁扬"
+		}]
 	},
 	"manHours": {
 		"id": "manHours",
