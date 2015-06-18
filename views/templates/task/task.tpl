@@ -46,13 +46,9 @@
 						'ifCanEdit':true
 					}, {
 						"field": "status",
-						'name':'状态',
+						'name':'任务状态',
 						'ifCanEdit':false
-					}, {
-						"field": "add_time",
-						'name':'添加时间',
-						'ifCanEdit':true
-					}, {
+					},  {
 						"field": "plan_start_time",
 						'name':'计划开始时间',
 						'ifCanEdit':true
@@ -68,7 +64,14 @@
 						"field": "end_time",
 						'name':'结束时间',
 						'ifCanEdit':true
-					}]
+					}],
+					"callbackOperation": function(type,id){
+						if(type == 'tbody'){
+							return '<td><a href="./taskEdit.php?id='+id+'">编辑</a> </td>';
+						}else{
+							return '<td>操作</td>';
+						}
+					}
 				});
 		});
 		</script>

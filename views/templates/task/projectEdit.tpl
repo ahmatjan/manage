@@ -11,7 +11,7 @@
 	<{block name="content"}>
 		<div class="w960">
 			<div class="side-right">
-				<form action="update.php/update" method="post">
+				<form action="projectEdit.php" method="post">
 					<input type="hidden" name="id" value="<{$list.id}>" />
 					<label>标题</label>：<input type="text" name="title" value="<{$list.title}>" />
 					<br/>

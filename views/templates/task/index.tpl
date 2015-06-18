@@ -10,7 +10,7 @@
 			$(document).ready(function() {
 				var project = $("#projectTable").lhz_table({
 					"getDataUrl": './getProjectData.php',
-					"updateDataUrl": './tableUPdate.php',
+					"updateDataUrl": './projectUpdate.php',
 					"getFilterUrl": './data/projectFilter.json',
 					"searchDataUrl": './projectSearch.php',
 					"getTheadDate": [{
@@ -30,9 +30,9 @@
 						'name':'负责人',
 						'ifCanEdit':true
 					}, {
-						"field": "priorty",
+						"field": "priority",
 						'name':'优先级',
-						'ifCanEdit':false
+						'ifCanEdit':true
 					}, {
 						"field": "status",
 						'name':'状态',
@@ -48,7 +48,7 @@
 					}],
 					"callbackOperation": function(type,id){
 						if(type == 'tbody'){
-							return '<td><a href="./update.php?id='+id+'">编辑</a> <a href="./task.php?project_id='+id+'">查看任务</a></td>';
+							return '<td><a href="./projectEdit.php?id='+id+'">编辑</a> <a href="./task.php?project_id='+id+'">查看任务</a></td>';
 						}else{
 							return '<td>操作</td>';
 						}
@@ -94,12 +94,8 @@
 						'ifCanEdit':true
 					}, {
 						"field": "status",
-						'name':'状态',
+						'name':'任务状态',
 						'ifCanEdit':false
-					}, {
-						"field": "add_time",
-						'name':'添加时间',
-						'ifCanEdit':true
 					}, {
 						"field": "plan_start_time",
 						'name':'计划开始时间',
@@ -112,11 +108,14 @@
 						"field": "start_time",
 						'name':'开始时间',
 						'ifCanEdit':true
-					}, {
-						"field": "end_time",
-						'name':'结束时间',
-						'ifCanEdit':true
-					}]
+					}],
+					"callbackOperation": function(type,id){
+						if(type == 'tbody'){
+							return '<td><a href="./taskEdit.php?id='+id+'">编辑</a> </td>';
+						}else{
+							return '<td>操作</td>';
+						}
+					}
 				});
 
                 //切换项目、任务表格显示
