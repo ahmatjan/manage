@@ -45,9 +45,9 @@ include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
     $db = new DB();
 
     if(isset($_GET['project_id'])){  	
-    	$list = $db->query('SELECT * FROM `task_task` where `project_id` = '.$_GET['project_id']);
+    	$list = $db->query('SELECT * FROM `task_task` where `project_id` = '.$_GET['project_id'].' ORDER BY id DESC');
 	}else{  	
-		$list = $db->query('SELECT * FROM `task_task`');
+		$list = $db->query('SELECT * FROM `task_task` ORDER BY id DESC');
 	}
   
 	$tbody = array();

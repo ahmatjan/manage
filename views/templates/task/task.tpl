@@ -1,4 +1,4 @@
-<{extends file="layout.tpl"}>
+<{extends file="../layout.tpl"}>
 	<{block name="head" append}>
 		<title></title>
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script>
@@ -9,7 +9,7 @@
 		$(document).ready(function() {
 				var tb = $("#myTask").lhz_table({
 					'getDataUrl': './getData.php?project_id=<{$smarty.get.project_id}>',
-					'updateDataUrl': './tableUPdate.php',
+					'updateDataUrl': './tableUpdate.php',
 					"getFilterUrl": './data/taskFilter.json',
 					'searchDataUrl': './taskSearch.php',
 					"getTheadDate": [{
@@ -39,7 +39,7 @@
 					}, {
 						"field": "used_hour",
 						'name':'已用人时',
-						'ifCanEdit':true
+						'ifCanEdit':false
 					},{
 						"field": "progress",
 						'name':'进度',
@@ -78,15 +78,7 @@
 	<{/block}>
 	<{block name="content"}>
 		<div class="w960">
-			<{if $smarty.session|@count neq 0 && $smarty.session.username neq '' }>
-				<p>欢迎：
-					<{$smarty.session.username}> <a href="./login.php?action=logout">退出</a>
-				</p>
-				<{else}>
-					<p><a href="./login.php">登陆</a>&nbsp;<a href="./user.php">注册</a>
-					</p>
-			<{/if}>
-			<a href="./taskAdd.php?project_id=<{$smarty.get.project_id}>">新增</a>
+			<a href="./taskAdd.php?project_id=<{$smarty.get.project_id}>">新增任务</a>
 			<div id="myTask">loading</div>
 		</div>
 	<{/block}>

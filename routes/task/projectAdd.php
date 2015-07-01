@@ -4,6 +4,7 @@ $folder_name = '/manage';//网站目录名称
 
 include  './config.inc.php';
 include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
+date_default_timezone_set('Asia/Shanghai'); 
 
 $tpl->assign("title", "任务管理");
 $tpl->assign("description", "任务管理系统");
@@ -18,9 +19,11 @@ if(!isset($_SESSION['username'])){
 if(isset($_POST['title'])){
     $db = new DB();
     $data['id'] = "";
-	$data['title'] = $_POST['title'];
-	$data['content'] = $_POST['content'];
-  $db->insert('task_project',$data);
+  	$data['title'] = $_POST['title'];
+    $data['owner'] = $_SESSION['username'];
+    $data['priority'] = $_POST['priority'];
+  	$data['content'] = $_POST['content'];
+    $db->insert('task_project',$data);
 
   $url = "http://".$_SERVER['HTTP_HOST']."/manage/routes/task/"; 
 

@@ -4,6 +4,7 @@ $folder_name = '/manage';//网站目录名称
 
 include  './config.inc.php';
 include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
+date_default_timezone_set('Asia/Shanghai'); 
 
 $tpl->assign("title", "任务管理");
 $tpl->assign("description", "任务管理系统");
@@ -16,12 +17,13 @@ if(!isset($_SESSION['username'])){
     exit();
 }
 
-
 if(isset($_POST['title'])){
     $db = new DB();
     $data['id'] = "";
 	$data['title'] = $_POST['title'];
+	$data['type'] = $_POST['type'];
 	$data['content'] = $_POST['content'];
+    $data['owner'] = $_SESSION['username'];
 	$data['priority'] = $_POST['priority'];
 	$data['hour'] = $_POST['hour'];
 	$data['owner'] = $_SESSION['username'];

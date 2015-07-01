@@ -1,4 +1,4 @@
-<{extends file="layout.tpl"}>
+<{extends file="../layout.tpl"}>
 	<{block name="head" append}>
 		<title><{$title}></title>
 		<link rel="stylesheet" type="text/css" href="../../static/css/codemirror.css">

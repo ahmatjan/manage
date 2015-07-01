@@ -6331,3 +6331,1683 @@ Table 'lihuazh3_manage.task' doesn't exist
 2015-06-18 06:21:06 查询 SELECT * FROM `task_project`
 2015-06-18 06:21:06 释放结果集
 2015-06-18 06:21:06 完成整个查询任务,所用时间为0.0044581890106201
+2015-06-25 08:43:06 查询 SELECT * FROM `task_project`
+2015-06-25 08:43:06 释放结果集
+2015-06-25 08:43:06 完成整个查询任务,所用时间为0.1707968711853
+2015-06-25 08:43:07 查询 SELECT * FROM `task_project`
+2015-06-25 08:43:07 释放结果集
+2015-06-25 08:43:07 完成整个查询任务,所用时间为0.0077250003814697
+2015-06-25 08:43:07 查询 SELECT * FROM `task_task`
+2015-06-25 08:43:07 释放结果集
+2015-06-25 08:43:07 完成整个查询任务,所用时间为0.0040369033813477
+2015-06-25 09:47:12 查询 SELECT * FROM `task_project`
+2015-06-25 09:47:12 释放结果集
+2015-06-25 09:47:12 完成整个查询任务,所用时间为0.068196058273315
+2015-06-25 09:47:13 查询 SELECT * FROM `task_project`
+2015-06-25 09:47:13 释放结果集
+2015-06-25 09:47:13 完成整个查询任务,所用时间为0.0071628093719482
+2015-06-25 09:47:13 查询 SELECT * FROM `task_task`
+2015-06-25 09:47:13 释放结果集
+2015-06-25 09:47:13 完成整个查询任务,所用时间为0.0079851150512695
+2015-06-25 09:50:42 查询 SELECT * FROM `task_project`
+2015-06-25 09:50:42 释放结果集
+2015-06-25 09:50:42 完成整个查询任务,所用时间为0.013616800308228
+2015-06-25 09:50:42 查询 SELECT * FROM `task_project`
+2015-06-25 09:50:42 释放结果集
+2015-06-25 09:50:42 完成整个查询任务,所用时间为0.0033330917358398
+2015-06-25 09:50:42 查询 SELECT * FROM `task_task`
+2015-06-25 09:50:42 释放结果集
+2015-06-25 09:50:42 完成整个查询任务,所用时间为0.0044407844543457
+2015-06-25 09:51:05 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-25 09:51:05 释放结果集
+2015-06-25 09:51:05 完成整个查询任务,所用时间为0.0081279277801514
+2015-06-25 09:51:08 查询 SELECT * FROM `task_project`
+2015-06-25 09:51:08 释放结果集
+2015-06-25 09:51:08 完成整个查询任务,所用时间为0.006666898727417
+2015-06-25 09:51:08 查询 SELECT * FROM `task_project`
+2015-06-25 09:51:08 释放结果集
+2015-06-25 09:51:08 完成整个查询任务,所用时间为0.0038468837738037
+2015-06-25 09:51:08 查询 SELECT * FROM `task_task`
+2015-06-25 09:51:08 释放结果集
+2015-06-25 09:51:08 完成整个查询任务,所用时间为0.0050489902496338
+2015-06-25 10:00:08 查询 SELECT * FROM `task_project`
+2015-06-25 10:00:08 释放结果集
+2015-06-25 10:00:08 完成整个查询任务,所用时间为0.010097026824951
+2015-06-25 10:00:09 查询 SELECT * FROM `task_project`
+2015-06-25 10:00:09 释放结果集
+2015-06-25 10:00:09 完成整个查询任务,所用时间为0.0041007995605469
+2015-06-25 10:00:09 查询 SELECT * FROM `task_task`
+2015-06-25 10:00:09 释放结果集
+2015-06-25 10:00:09 完成整个查询任务,所用时间为0.0075979232788086
+2015-06-29 06:36:46 查询 SELECT * FROM `task_project`
+2015-06-29 06:36:46 释放结果集
+2015-06-29 06:36:46 完成整个查询任务,所用时间为0.047958135604858
+2015-06-29 06:36:47 查询 SELECT * FROM `task_project`
+2015-06-29 06:36:47 释放结果集
+2015-06-29 06:36:47 完成整个查询任务,所用时间为0.026953935623169
+2015-06-29 06:36:47 查询 SELECT * FROM `task_task`
+2015-06-29 06:36:47 释放结果集
+2015-06-29 06:36:47 完成整个查询任务,所用时间为0.020979166030884
+2015-06-29 06:46:30 查询 SELECT * FROM `task_project`
+2015-06-29 06:46:30 释放结果集
+2015-06-29 06:46:30 完成整个查询任务,所用时间为0.046653032302856
+2015-06-29 06:46:31 查询 SELECT * FROM `task_project`
+2015-06-29 06:46:31 释放结果集
+2015-06-29 06:46:31 完成整个查询任务,所用时间为0.0041420459747314
+2015-06-29 06:46:31 查询 SELECT * FROM `task_task`
+2015-06-29 06:46:31 释放结果集
+2015-06-29 06:46:31 完成整个查询任务,所用时间为0.0067229270935059
+2015-06-29 06:46:35 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:46:35 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:46:36 释放结果集
+2015-06-29 06:46:36 完成整个查询任务,所用时间为0.24144506454468
+2015-06-29 06:47:13 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:47:13 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:47:13 释放结果集
+2015-06-29 06:47:13 完成整个查询任务,所用时间为0.25403690338135
+2015-06-29 06:50:09 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:50:09 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:50:09 释放结果集
+2015-06-29 06:50:09 完成整个查询任务,所用时间为0.24666810035706
+2015-06-29 06:50:11 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:50:11 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:50:11 释放结果集
+2015-06-29 06:50:11 完成整个查询任务,所用时间为0.019858121871948
+2015-06-29 06:54:19 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:54:19 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:54:19 释放结果集
+2015-06-29 06:54:19 完成整个查询任务,所用时间为0.22610998153687
+2015-06-29 06:55:11 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:55:11 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:55:11 释放结果集
+2015-06-29 06:55:11 完成整个查询任务,所用时间为0.021039009094238
+2015-06-29 06:55:14 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:55:14 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:55:14 释放结果集
+2015-06-29 06:55:14 完成整个查询任务,所用时间为0.0093071460723877
+2015-06-29 06:55:58 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:55:58 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:55:58 释放结果集
+2015-06-29 06:55:58 完成整个查询任务,所用时间为0.013154983520508
+2015-06-29 06:56:01 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:02 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:02 释放结果集
+2015-06-29 06:56:02 完成整个查询任务,所用时间为0.30319595336914
+2015-06-29 06:56:04 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:56:04 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:56:04 释放结果集
+2015-06-29 06:56:04 完成整个查询任务,所用时间为0.008173942565918
+2015-06-29 06:56:26 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:26 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:26 释放结果集
+2015-06-29 06:56:26 完成整个查询任务,所用时间为0.019401788711548
+2015-06-29 06:56:28 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:56:28 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:56:28 释放结果集
+2015-06-29 06:56:28 完成整个查询任务,所用时间为0.0088322162628174
+2015-06-29 06:56:38 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:38 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:56:38 释放结果集
+2015-06-29 06:56:38 完成整个查询任务,所用时间为0.017902135848999
+2015-06-29 06:56:40 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:56:40 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:56:40 释放结果集
+2015-06-29 06:56:40 完成整个查询任务,所用时间为0.014286041259766
+2015-06-29 06:58:11 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:58:11 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:58:11 释放结果集
+2015-06-29 06:58:11 完成整个查询任务,所用时间为0.0050430297851562
+2015-06-29 06:58:15 查询 SELECT * FROM `task_project`
+2015-06-29 06:58:15 释放结果集
+2015-06-29 06:58:15 完成整个查询任务,所用时间为0.030689001083374
+2015-06-29 06:58:16 查询 SELECT * FROM `task_project`
+2015-06-29 06:58:16 释放结果集
+2015-06-29 06:58:16 完成整个查询任务,所用时间为0.010631084442139
+2015-06-29 06:58:16 查询 SELECT * FROM `task_task`
+2015-06-29 06:58:16 释放结果集
+2015-06-29 06:58:16 完成整个查询任务,所用时间为0.0074548721313477
+2015-06-29 06:58:19 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:58:19 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 06:58:19 释放结果集
+2015-06-29 06:58:19 完成整个查询任务,所用时间为0.0092599391937256
+2015-06-29 06:58:22 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 06:58:22 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 06:58:22 释放结果集
+2015-06-29 06:58:22 完成整个查询任务,所用时间为0.0054972171783447
+2015-06-29 07:03:57 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 07:03:57 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 07:03:57 释放结果集
+2015-06-29 07:03:57 完成整个查询任务,所用时间为0.0057220458984375
+2015-06-29 07:04:05 查询 SELECT * FROM `task_project`
+2015-06-29 07:04:05 释放结果集
+2015-06-29 07:04:05 完成整个查询任务,所用时间为0.022090911865234
+2015-06-29 07:04:06 查询 SELECT * FROM `task_project`
+2015-06-29 07:04:06 释放结果集
+2015-06-29 07:04:06 完成整个查询任务,所用时间为0.010484933853149
+2015-06-29 07:04:06 查询 SELECT * FROM `task_task`
+2015-06-29 07:04:06 释放结果集
+2015-06-29 07:04:06 完成整个查询任务,所用时间为0.016291856765747
+2015-06-29 07:04:09 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:04:09 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:04:09 释放结果集
+2015-06-29 07:04:09 完成整个查询任务,所用时间为0.2181441783905
+2015-06-29 07:04:12 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 07:04:12 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 07:04:12 释放结果集
+2015-06-29 07:04:12 完成整个查询任务,所用时间为0.008774995803833
+2015-06-29 07:05:38 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:05:38 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:05:38 释放结果集
+2015-06-29 07:05:38 完成整个查询任务,所用时间为0.017108917236328
+2015-06-29 07:05:41 插入 insert into task_commont(id,taskComment) values('',' wwww')
+2015-06-29 07:05:41 查询 insert into task_commont(id,taskComment) values('',' wwww')
+2015-06-29 07:05:41 Query Error: insert into task_commont(id,taskComment) values('',' wwww')
+Table 'lihuazh3_manage.task_commont' doesn't exist
+2015-06-29 07:05:41 释放结果集
+2015-06-29 07:05:41 完成整个查询任务,所用时间为0.027573108673096
+2015-06-29 07:07:16 查询 SELECT * FROM `task_project`
+2015-06-29 07:07:16 释放结果集
+2015-06-29 07:07:16 完成整个查询任务,所用时间为0.016134977340698
+2015-06-29 07:07:17 查询 SELECT * FROM `task_project`
+2015-06-29 07:07:17 释放结果集
+2015-06-29 07:07:17 完成整个查询任务,所用时间为0.0038630962371826
+2015-06-29 07:07:17 查询 SELECT * FROM `task_task`
+2015-06-29 07:07:17 释放结果集
+2015-06-29 07:07:17 完成整个查询任务,所用时间为0.0049519538879395
+2015-06-29 07:07:19 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:07:19 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:07:19 释放结果集
+2015-06-29 07:07:19 完成整个查询任务,所用时间为0.012604951858521
+2015-06-29 07:07:23 插入 insert into task_comment(id,taskComment) values('',' sdfsdf')
+2015-06-29 07:07:23 查询 insert into task_comment(id,taskComment) values('',' sdfsdf')
+2015-06-29 07:07:23 Query Error: insert into task_comment(id,taskComment) values('',' sdfsdf')
+Unknown column 'taskComment' in 'field list'
+2015-06-29 07:07:23 释放结果集
+2015-06-29 07:07:23 完成整个查询任务,所用时间为0.010233163833618
+2015-06-29 07:09:35 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:09:35 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:09:35 释放结果集
+2015-06-29 07:09:35 完成整个查询任务,所用时间为0.016423940658569
+2015-06-29 07:09:38 插入 insert into task_comment(id,taskComment) values('',' dddd')
+2015-06-29 07:09:38 查询 insert into task_comment(id,taskComment) values('',' dddd')
+2015-06-29 07:09:38 Query Error: insert into task_comment(id,taskComment) values('',' dddd')
+Unknown column 'taskComment' in 'field list'
+2015-06-29 07:09:38 释放结果集
+2015-06-29 07:09:38 完成整个查询任务,所用时间为0.017886877059937
+2015-06-29 07:11:07 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:11:07 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:11:07 释放结果集
+2015-06-29 07:11:07 完成整个查询任务,所用时间为0.021467924118042
+2015-06-29 07:11:09 插入 insert into task_comment(id,taskComment) values('',' ddd')
+2015-06-29 07:11:09 查询 insert into task_comment(id,taskComment) values('',' ddd')
+2015-06-29 07:11:09 释放结果集
+2015-06-29 07:11:09 完成整个查询任务,所用时间为0.018117189407349
+2015-06-29 07:11:09 查询 SELECT * FROM `task_project`
+2015-06-29 07:11:09 释放结果集
+2015-06-29 07:11:09 完成整个查询任务,所用时间为0.01326584815979
+2015-06-29 07:11:10 查询 SELECT * FROM `task_project`
+2015-06-29 07:11:10 释放结果集
+2015-06-29 07:11:10 完成整个查询任务,所用时间为0.011217832565308
+2015-06-29 07:11:10 查询 SELECT * FROM `task_task`
+2015-06-29 07:11:10 释放结果集
+2015-06-29 07:11:10 完成整个查询任务,所用时间为0.0075950622558594
+2015-06-29 07:14:15 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:15 释放结果集
+2015-06-29 07:14:15 完成整个查询任务,所用时间为0.024075031280518
+2015-06-29 07:14:15 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:15 释放结果集
+2015-06-29 07:14:15 完成整个查询任务,所用时间为0.010396003723145
+2015-06-29 07:14:15 查询 SELECT * FROM `task_task`
+2015-06-29 07:14:15 释放结果集
+2015-06-29 07:14:15 完成整个查询任务,所用时间为0.0065329074859619
+2015-06-29 07:14:19 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:14:19 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:14:20 释放结果集
+2015-06-29 07:14:20 完成整个查询任务,所用时间为0.36472415924072
+2015-06-29 07:14:22 插入 insert into task_comment(id,task_id,task_comment) values('','cms首页、投资页迁移',' dddd')
+2015-06-29 07:14:22 查询 insert into task_comment(id,task_id,task_comment) values('','cms首页、投资页迁移',' dddd')
+2015-06-29 07:14:22 释放结果集
+2015-06-29 07:14:22 完成整个查询任务,所用时间为0.059025049209595
+2015-06-29 07:14:22 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:22 释放结果集
+2015-06-29 07:14:22 完成整个查询任务,所用时间为0.011582136154175
+2015-06-29 07:14:22 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:22 释放结果集
+2015-06-29 07:14:22 完成整个查询任务,所用时间为0.0092499256134033
+2015-06-29 07:14:23 查询 SELECT * FROM `task_task`
+2015-06-29 07:14:23 释放结果集
+2015-06-29 07:14:23 完成整个查询任务,所用时间为0.017974853515625
+2015-06-29 07:14:29 查询 SELECT * FROM `task_project` where id = 1
+2015-06-29 07:14:29 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-29 07:14:29 释放结果集
+2015-06-29 07:14:29 完成整个查询任务,所用时间为0.015888929367065
+2015-06-29 07:14:32 插入 insert into task_comment(id,task_id,task_comment) values('','任务管理系统',' ddsdfasdf')
+2015-06-29 07:14:32 查询 insert into task_comment(id,task_id,task_comment) values('','任务管理系统',' ddsdfasdf')
+2015-06-29 07:14:32 释放结果集
+2015-06-29 07:14:32 完成整个查询任务,所用时间为0.042738914489746
+2015-06-29 07:14:32 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:32 释放结果集
+2015-06-29 07:14:32 完成整个查询任务,所用时间为0.010654926300049
+2015-06-29 07:14:32 查询 SELECT * FROM `task_project`
+2015-06-29 07:14:32 释放结果集
+2015-06-29 07:14:32 完成整个查询任务,所用时间为0.023011922836304
+2015-06-29 07:14:32 查询 SELECT * FROM `task_task`
+2015-06-29 07:14:32 释放结果集
+2015-06-29 07:14:32 完成整个查询任务,所用时间为0.0098011493682861
+2015-06-29 07:17:03 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:17:03 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:17:03 释放结果集
+2015-06-29 07:17:03 完成整个查询任务,所用时间为0.016357898712158
+2015-06-29 07:17:25 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:17:25 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:17:25 释放结果集
+2015-06-29 07:17:25 完成整个查询任务,所用时间为0.32677102088928
+2015-06-29 07:17:35 插入 insert into task_comment(id,task_id,task_comment) values('','1',' sdfgsdfg')
+2015-06-29 07:17:35 查询 insert into task_comment(id,task_id,task_comment) values('','1',' sdfgsdfg')
+2015-06-29 07:17:35 释放结果集
+2015-06-29 07:17:35 完成整个查询任务,所用时间为0.027572154998779
+2015-06-29 07:17:36 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:36 释放结果集
+2015-06-29 07:17:36 完成整个查询任务,所用时间为0.011662006378174
+2015-06-29 07:17:36 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:36 释放结果集
+2015-06-29 07:17:36 完成整个查询任务,所用时间为0.019278049468994
+2015-06-29 07:17:36 查询 SELECT * FROM `task_task`
+2015-06-29 07:17:36 释放结果集
+2015-06-29 07:17:36 完成整个查询任务,所用时间为0.007796049118042
+2015-06-29 07:17:40 查询 SELECT * FROM `task_task` where id = 2
+2015-06-29 07:17:40 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-29 07:17:41 释放结果集
+2015-06-29 07:17:41 完成整个查询任务,所用时间为0.30113697052002
+2015-06-29 07:17:44 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:44 释放结果集
+2015-06-29 07:17:44 完成整个查询任务,所用时间为0.028301000595093
+2015-06-29 07:17:44 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:44 释放结果集
+2015-06-29 07:17:44 完成整个查询任务,所用时间为0.01543402671814
+2015-06-29 07:17:44 查询 SELECT * FROM `task_task`
+2015-06-29 07:17:44 释放结果集
+2015-06-29 07:17:44 完成整个查询任务,所用时间为0.024443864822388
+2015-06-29 07:17:49 查询 SELECT * FROM `task_task` where id = 2
+2015-06-29 07:17:49 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-29 07:17:49 释放结果集
+2015-06-29 07:17:49 完成整个查询任务,所用时间为0.015994071960449
+2015-06-29 07:17:54 插入 insert into task_comment(id,task_id,task_comment) values('','2',' dddd')
+2015-06-29 07:17:54 查询 insert into task_comment(id,task_id,task_comment) values('','2',' dddd')
+2015-06-29 07:17:54 释放结果集
+2015-06-29 07:17:54 完成整个查询任务,所用时间为0.033199071884155
+2015-06-29 07:17:54 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:54 释放结果集
+2015-06-29 07:17:54 完成整个查询任务,所用时间为0.0087900161743164
+2015-06-29 07:17:55 查询 SELECT * FROM `task_project`
+2015-06-29 07:17:55 释放结果集
+2015-06-29 07:17:55 完成整个查询任务,所用时间为0.0087289810180664
+2015-06-29 07:17:55 查询 SELECT * FROM `task_task`
+2015-06-29 07:17:55 释放结果集
+2015-06-29 07:17:55 完成整个查询任务,所用时间为0.011307001113892
+2015-06-29 07:18:31 查询 SELECT * FROM `task_project` where id = 1
+2015-06-29 07:18:31 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-29 07:18:31 释放结果集
+2015-06-29 07:18:31 完成整个查询任务,所用时间为0.018898010253906
+2015-06-29 07:38:14 查询 SELECT * FROM `task_project`
+2015-06-29 07:38:14 释放结果集
+2015-06-29 07:38:14 完成整个查询任务,所用时间为0.05245304107666
+2015-06-29 07:38:15 查询 SELECT * FROM `task_project`
+2015-06-29 07:38:15 释放结果集
+2015-06-29 07:38:15 完成整个查询任务,所用时间为0.01549220085144
+2015-06-29 07:38:15 查询 SELECT * FROM `task_task`
+2015-06-29 07:38:15 释放结果集
+2015-06-29 07:38:15 完成整个查询任务,所用时间为0.0098779201507568
+2015-06-29 07:38:33 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:38:33 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:38:33 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 07:38:33 释放结果集
+2015-06-29 07:38:33 完成整个查询任务,所用时间为0.023663997650146
+2015-06-29 07:40:02 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:02 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:02 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 07:40:02 释放结果集
+2015-06-29 07:40:02 完成整个查询任务,所用时间为0.01099705696106
+2015-06-29 07:40:17 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:17 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:17 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 07:40:17 释放结果集
+2015-06-29 07:40:17 完成整个查询任务,所用时间为0.029025077819824
+2015-06-29 07:40:55 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:55 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:40:55 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 07:41:09 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:41:09 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:41:09 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 07:41:09 释放结果集
+2015-06-29 07:41:09 完成整个查询任务,所用时间为0.040679931640625
+2015-06-29 07:44:32 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:32 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:32 返回结果集
+2015-06-29 07:44:32 释放结果集
+2015-06-29 07:44:32 完成整个查询任务,所用时间为0.015197992324829
+2015-06-29 07:44:45 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:45 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:45 返回结果集
+2015-06-29 07:44:45 释放结果集
+2015-06-29 07:44:45 完成整个查询任务,所用时间为0.012756109237671
+2015-06-29 07:44:51 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:51 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 07:44:51 返回结果集
+2015-06-29 07:44:51 释放结果集
+2015-06-29 07:44:51 完成整个查询任务,所用时间为0.0071370601654053
+2015-06-29 08:17:15 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:17:15 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:17:15 返回结果集
+2015-06-29 08:17:15 释放结果集
+2015-06-29 08:17:15 完成整个查询任务,所用时间为0.03551983833313
+2015-06-29 08:20:01 查询 SELECT * FROM `task_project`
+2015-06-29 08:20:01 释放结果集
+2015-06-29 08:20:01 完成整个查询任务,所用时间为0.022946119308472
+2015-06-29 08:20:01 查询 SELECT * FROM `task_project`
+2015-06-29 08:20:01 释放结果集
+2015-06-29 08:20:01 完成整个查询任务,所用时间为0.011227130889893
+2015-06-29 08:20:02 查询 SELECT * FROM `task_task`
+2015-06-29 08:20:02 释放结果集
+2015-06-29 08:20:02 完成整个查询任务,所用时间为0.044253826141357
+2015-06-29 08:20:06 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:20:06 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:20:06 返回结果集
+2015-06-29 08:20:06 释放结果集
+2015-06-29 08:20:06 完成整个查询任务,所用时间为0.01086688041687
+2015-06-29 08:21:18 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:21:18 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:21:18 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 08:21:18 释放结果集
+2015-06-29 08:21:18 完成整个查询任务,所用时间为0.015793085098267
+2015-06-29 08:28:36 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:28:36 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 08:28:36 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 08:28:36 释放结果集
+2015-06-29 08:28:36 完成整个查询任务,所用时间为0.006831169128418
+2015-06-29 09:03:03 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:03:03 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:03:03 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:03:03 释放结果集
+2015-06-29 09:03:03 完成整个查询任务,所用时间为0.020689010620117
+2015-06-29 09:03:57 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:03:57 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:03:57 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:03:57 释放结果集
+2015-06-29 09:03:57 完成整个查询任务,所用时间为0.025074005126953
+2015-06-29 09:04:17 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:17 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:17 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:04:17 释放结果集
+2015-06-29 09:04:17 完成整个查询任务,所用时间为0.023288011550903
+2015-06-29 09:04:34 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:34 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:34 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:04:34 释放结果集
+2015-06-29 09:04:34 完成整个查询任务,所用时间为0.017633199691772
+2015-06-29 09:04:38 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:38 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:04:38 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:04:38 释放结果集
+2015-06-29 09:04:38 完成整个查询任务,所用时间为0.015675783157349
+2015-06-29 09:37:14 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:14 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:14 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:37:14 释放结果集
+2015-06-29 09:37:14 完成整个查询任务,所用时间为0.026139974594116
+2015-06-29 09:37:45 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:45 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:45 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:37:45 释放结果集
+2015-06-29 09:37:45 完成整个查询任务,所用时间为0.024749994277954
+2015-06-29 09:37:48 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:48 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:37:48 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:37:48 释放结果集
+2015-06-29 09:37:48 完成整个查询任务,所用时间为0.0239098072052
+2015-06-29 09:43:19 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:43:19 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:43:19 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:43:19 释放结果集
+2015-06-29 09:43:19 完成整个查询任务,所用时间为0.38581204414368
+2015-06-29 09:43:51 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:43:51 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:43:51 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:43:51 释放结果集
+2015-06-29 09:43:51 完成整个查询任务,所用时间为0.32302308082581
+2015-06-29 09:44:14 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:44:14 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:44:14 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:44:14 释放结果集
+2015-06-29 09:44:14 完成整个查询任务,所用时间为0.2684919834137
+2015-06-29 09:44:25 查询 SELECT * FROM `task_task` where id = 2
+2015-06-29 09:44:25 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-29 09:44:25 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-29 09:44:25 释放结果集
+2015-06-29 09:44:25 完成整个查询任务,所用时间为0.01754903793335
+2015-06-29 09:44:36 插入 insert into task_comment(id,task_id,task_comment) values('','2',' dsfasdfa')
+2015-06-29 09:44:36 查询 insert into task_comment(id,task_id,task_comment) values('','2',' dsfasdfa')
+2015-06-29 09:44:36 释放结果集
+2015-06-29 09:44:36 完成整个查询任务,所用时间为0.038289070129395
+2015-06-29 09:44:36 查询 SELECT * FROM `task_project`
+2015-06-29 09:44:36 释放结果集
+2015-06-29 09:44:36 完成整个查询任务,所用时间为0.019394874572754
+2015-06-29 09:44:36 查询 SELECT * FROM `task_project`
+2015-06-29 09:44:36 释放结果集
+2015-06-29 09:44:36 完成整个查询任务,所用时间为0.01265811920166
+2015-06-29 09:44:36 查询 SELECT * FROM `task_task`
+2015-06-29 09:44:36 释放结果集
+2015-06-29 09:44:36 完成整个查询任务,所用时间为0.011909008026123
+2015-06-29 09:44:54 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:44:54 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:44:54 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:44:54 释放结果集
+2015-06-29 09:44:54 完成整个查询任务,所用时间为0.018744945526123
+2015-06-29 09:45:44 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:45:44 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:45:44 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:45:44 释放结果集
+2015-06-29 09:45:44 完成整个查询任务,所用时间为0.012116193771362
+2015-06-29 09:45:49 插入 insert into task_comment(id,task_id,task_comment) values('','1',' dddd')
+2015-06-29 09:45:49 查询 insert into task_comment(id,task_id,task_comment) values('','1',' dddd')
+2015-06-29 09:45:49 释放结果集
+2015-06-29 09:45:49 完成整个查询任务,所用时间为0.021918058395386
+2015-06-29 09:45:49 查询 SELECT * FROM `task_task` where id = 
+2015-06-29 09:45:49 Query Error: SELECT * FROM `task_task` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-29 09:45:49 释放结果集
+2015-06-29 09:45:49 完成整个查询任务,所用时间为0.0084939002990723
+2015-06-29 09:46:26 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:46:26 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:46:26 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:46:26 释放结果集
+2015-06-29 09:46:26 完成整个查询任务,所用时间为0.015926837921143
+2015-06-29 09:46:50 插入 insert into task_comment(id,task_id,task_comment) values('','1',' dfgsdfg')
+2015-06-29 09:46:50 查询 insert into task_comment(id,task_id,task_comment) values('','1',' dfgsdfg')
+2015-06-29 09:46:50 释放结果集
+2015-06-29 09:46:50 完成整个查询任务,所用时间为0.025593996047974
+2015-06-29 09:46:50 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:46:50 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:46:50 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:46:50 释放结果集
+2015-06-29 09:46:50 完成整个查询任务,所用时间为0.0098609924316406
+2015-06-29 09:47:20 查询 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:47:20 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-29 09:47:20 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-29 09:47:20 释放结果集
+2015-06-29 09:47:20 完成整个查询任务,所用时间为0.32203984260559
+2015-06-30 02:08:15 查询 SELECT * FROM `task_project`
+2015-06-30 02:08:15 释放结果集
+2015-06-30 02:08:15 完成整个查询任务,所用时间为0.13369107246399
+2015-06-30 02:08:15 查询 SELECT * FROM `task_project`
+2015-06-30 02:08:15 释放结果集
+2015-06-30 02:08:15 完成整个查询任务,所用时间为0.0069661140441895
+2015-06-30 02:08:15 查询 SELECT * FROM `task_task`
+2015-06-30 02:08:15 释放结果集
+2015-06-30 02:08:15 完成整个查询任务,所用时间为0.0086979866027832
+2015-06-30 02:17:45 查询 SELECT * FROM `task_task` where id = 1
+2015-06-30 02:17:45 获取一条记录 SELECT * FROM `task_task` where id = 1
+2015-06-30 02:17:45 查询 SELECT * FROM `task_comment` where `task_id` = 1
+2015-06-30 02:17:46 释放结果集
+2015-06-30 02:17:46 完成整个查询任务,所用时间为0.063793182373047
+2015-06-30 02:18:12 查询 SELECT * FROM `task_project`
+2015-06-30 02:18:12 释放结果集
+2015-06-30 02:18:12 完成整个查询任务,所用时间为0.016499042510986
+2015-06-30 02:18:12 查询 SELECT * FROM `task_project`
+2015-06-30 02:18:12 释放结果集
+2015-06-30 02:18:12 完成整个查询任务,所用时间为0.010117053985596
+2015-06-30 02:18:12 查询 SELECT * FROM `task_task`
+2015-06-30 02:18:12 释放结果集
+2015-06-30 02:18:12 完成整个查询任务,所用时间为0.0058088302612305
+2015-06-30 02:28:14 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:14 释放结果集
+2015-06-30 02:28:14 完成整个查询任务,所用时间为0.022394180297852
+2015-06-30 02:28:15 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:15 释放结果集
+2015-06-30 02:28:15 完成整个查询任务,所用时间为0.0059258937835693
+2015-06-30 02:28:15 查询 SELECT * FROM `task_task`
+2015-06-30 02:28:15 释放结果集
+2015-06-30 02:28:15 完成整个查询任务,所用时间为0.010455846786499
+2015-06-30 02:28:33 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:33 释放结果集
+2015-06-30 02:28:33 完成整个查询任务,所用时间为0.49875688552856
+2015-06-30 02:28:34 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:34 释放结果集
+2015-06-30 02:28:34 完成整个查询任务,所用时间为0.0044980049133301
+2015-06-30 02:28:34 查询 SELECT * FROM `task_task`
+2015-06-30 02:28:34 释放结果集
+2015-06-30 02:28:34 完成整个查询任务,所用时间为0.012012958526611
+2015-06-30 02:28:42 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:42 释放结果集
+2015-06-30 02:28:42 完成整个查询任务,所用时间为0.012140035629272
+2015-06-30 02:28:43 查询 SELECT * FROM `task_project`
+2015-06-30 02:28:43 释放结果集
+2015-06-30 02:28:43 完成整个查询任务,所用时间为0.089495897293091
+2015-06-30 02:28:43 查询 SELECT * FROM `task_task`
+2015-06-30 02:28:43 释放结果集
+2015-06-30 02:28:43 完成整个查询任务,所用时间为0.013330936431885
+2015-06-30 02:33:53 查询 SELECT * FROM `task_project`
+2015-06-30 02:33:53 释放结果集
+2015-06-30 02:33:53 完成整个查询任务,所用时间为0.2993950843811
+2015-06-30 02:33:54 查询 SELECT * FROM `task_project`
+2015-06-30 02:33:54 释放结果集
+2015-06-30 02:33:54 完成整个查询任务,所用时间为0.010647058486938
+2015-06-30 02:33:54 查询 SELECT * FROM `task_task`
+2015-06-30 02:33:54 释放结果集
+2015-06-30 02:33:54 完成整个查询任务,所用时间为0.0056309700012207
+2015-06-30 02:35:00 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 02:35:00 释放结果集
+2015-06-30 02:35:00 完成整个查询任务,所用时间为0.011677026748657
+2015-06-30 02:35:12 查询 SELECT * FROM `user` where user = '杨小旭' and  password = 123456
+2015-06-30 02:35:12 释放结果集
+2015-06-30 02:35:12 完成整个查询任务,所用时间为0.016628980636597
+2015-06-30 02:35:30 查询 SELECT * FROM `task_project`
+2015-06-30 02:35:30 释放结果集
+2015-06-30 02:35:30 完成整个查询任务,所用时间为0.008903980255127
+2015-06-30 02:35:31 查询 SELECT * FROM `task_project`
+2015-06-30 02:35:31 释放结果集
+2015-06-30 02:35:31 完成整个查询任务,所用时间为0.0044398307800293
+2015-06-30 02:35:31 查询 SELECT * FROM `task_task`
+2015-06-30 02:35:31 释放结果集
+2015-06-30 02:35:31 完成整个查询任务,所用时间为0.0053830146789551
+2015-06-30 02:35:33 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 02:35:33 释放结果集
+2015-06-30 02:35:33 完成整个查询任务,所用时间为0.0046610832214355
+2015-06-30 02:35:41 插入 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','多大的','东东','P2','','杨小旭','2015-06-30 02:35:41','','1')
+2015-06-30 02:35:41 查询 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','多大的','东东','P2','','杨小旭','2015-06-30 02:35:41','','1')
+2015-06-30 02:35:41 释放结果集
+2015-06-30 02:35:41 完成整个查询任务,所用时间为0.011478900909424
+2015-06-30 02:35:41 查询 SELECT * FROM `task_project`
+2015-06-30 02:35:41 释放结果集
+2015-06-30 02:35:41 完成整个查询任务,所用时间为0.010046005249023
+2015-06-30 02:35:41 查询 SELECT * FROM `task_project`
+2015-06-30 02:35:41 释放结果集
+2015-06-30 02:35:41 完成整个查询任务,所用时间为0.0047860145568848
+2015-06-30 02:35:41 查询 SELECT * FROM `task_task`
+2015-06-30 02:35:41 释放结果集
+2015-06-30 02:35:41 完成整个查询任务,所用时间为0.0067689418792725
+2015-06-30 04:26:01 查询 SELECT * FROM `task_project`
+2015-06-30 04:26:01 释放结果集
+2015-06-30 04:26:01 完成整个查询任务,所用时间为0.022423982620239
+2015-06-30 04:26:02 查询 SELECT * FROM `task_project`
+2015-06-30 04:26:02 释放结果集
+2015-06-30 04:26:02 完成整个查询任务,所用时间为0.021865844726562
+2015-06-30 04:26:03 查询 SELECT * FROM `task_task`
+2015-06-30 04:26:03 释放结果集
+2015-06-30 04:26:03 完成整个查询任务,所用时间为0.014330148696899
+2015-06-30 04:29:35 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 04:29:35 释放结果集
+2015-06-30 04:29:35 完成整个查询任务,所用时间为0.0067880153656006
+2015-06-30 12:30:05 插入 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','dd','dd','P2','','杨小旭','2015-06-30 12:30:05','','1')
+2015-06-30 12:30:05 查询 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','dd','dd','P2','','杨小旭','2015-06-30 12:30:05','','1')
+2015-06-30 12:30:05 释放结果集
+2015-06-30 12:30:05 完成整个查询任务,所用时间为0.007436990737915
+2015-06-30 04:30:05 查询 SELECT * FROM `task_project`
+2015-06-30 04:30:05 释放结果集
+2015-06-30 04:30:05 完成整个查询任务,所用时间为0.012654066085815
+2015-06-30 04:30:06 查询 SELECT * FROM `task_project`
+2015-06-30 04:30:06 释放结果集
+2015-06-30 04:30:06 完成整个查询任务,所用时间为0.019155025482178
+2015-06-30 04:30:06 查询 SELECT * FROM `task_task`
+2015-06-30 04:30:06 释放结果集
+2015-06-30 04:30:06 完成整个查询任务,所用时间为0.007667064666748
+2015-06-30 06:30:19 查询 SELECT * FROM `task_task`
+2015-06-30 06:30:19 释放结果集
+2015-06-30 06:30:19 完成整个查询任务,所用时间为0.021935939788818
+2015-06-30 06:30:23 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:23 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:23 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:23 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:23 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=2
+2015-06-30 06:30:23 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=2
+2015-06-30 06:30:23 释放结果集
+2015-06-30 06:30:23 完成整个查询任务,所用时间为0.026283025741577
+2015-06-30 06:30:27 查询 SELECT * FROM `task_task`
+2015-06-30 06:30:27 释放结果集
+2015-06-30 06:30:27 完成整个查询任务,所用时间为0.0048909187316895
+2015-06-30 06:30:39 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:39 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:39 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:39 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:39 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=2
+2015-06-30 06:30:39 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=2
+2015-06-30 06:30:39 释放结果集
+2015-06-30 06:30:39 完成整个查询任务,所用时间为0.011421918869019
+2015-06-30 06:30:43 查询 SELECT * FROM `task_task`
+2015-06-30 06:30:43 释放结果集
+2015-06-30 06:30:43 完成整个查询任务,所用时间为0.0071678161621094
+2015-06-30 06:30:51 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:51 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 06:30:51 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:51 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:51 查询 update `task_task` set `status` = "已结束" WHERE `id` = 2
+2015-06-30 06:30:51 查询 update `task_task` set `progress` = 1 WHERE `id` = 2
+2015-06-30 06:30:51 查询 update `task_project` set `used_hour` = `used_hour`+10 WHERE `id` = 1
+2015-06-30 06:30:51 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:51 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:30:51 查询 update `task_project` set `progress` = 0 WHERE `id` = 1
+2015-06-30 06:30:51 更新 update task_task set used_hour = '10',used_hour = '10' where 1=1 and id=2
+2015-06-30 06:30:51 查询 update task_task set used_hour = '10',used_hour = '10' where 1=1 and id=2
+2015-06-30 06:30:51 释放结果集
+2015-06-30 06:30:51 完成整个查询任务,所用时间为0.026832818984985
+2015-06-30 06:30:55 查询 SELECT * FROM `task_task`
+2015-06-30 06:30:55 释放结果集
+2015-06-30 06:30:55 完成整个查询任务,所用时间为0.0085079669952393
+2015-06-30 06:42:01 查询 SELECT * FROM `task_project`
+2015-06-30 06:42:01 释放结果集
+2015-06-30 06:42:01 完成整个查询任务,所用时间为0.019689798355103
+2015-06-30 06:42:01 查询 SELECT * FROM `task_project`
+2015-06-30 06:42:01 释放结果集
+2015-06-30 06:42:01 完成整个查询任务,所用时间为0.0045368671417236
+2015-06-30 06:42:01 查询 SELECT * FROM `task_task`
+2015-06-30 06:42:01 释放结果集
+2015-06-30 06:42:01 完成整个查询任务,所用时间为0.0052258968353271
+2015-06-30 06:42:09 查询 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:42:09 获取一条记录 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:42:09 查询 SELECT * FROM `task_project` where id = 
+2015-06-30 06:42:09 Query Error: SELECT * FROM `task_project` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-30 06:42:09 释放结果集
+2015-06-30 06:42:09 完成整个查询任务,所用时间为0.015050172805786
+2015-06-30 06:42:13 查询 SELECT * FROM `task_task`
+2015-06-30 06:42:13 释放结果集
+2015-06-30 06:42:13 完成整个查询任务,所用时间为0.0053248405456543
+2015-06-30 06:42:20 查询 SELECT * FROM `task_task` where id = 5
+2015-06-30 06:42:20 获取一条记录 SELECT * FROM `task_task` where id = 5
+2015-06-30 06:42:20 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:42:20 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:42:20 查询 update `task_task` set `status` = "开发中" WHERE `id` = 5
+2015-06-30 06:42:20 更新 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=5
+2015-06-30 06:42:20 查询 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=5
+2015-06-30 06:42:20 释放结果集
+2015-06-30 06:42:20 完成整个查询任务,所用时间为0.0070450305938721
+2015-06-30 06:42:24 查询 SELECT * FROM `task_task`
+2015-06-30 06:42:24 释放结果集
+2015-06-30 06:42:24 完成整个查询任务,所用时间为0.0070638656616211
+2015-06-30 06:42:29 查询 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:42:29 获取一条记录 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:42:29 查询 SELECT * FROM `task_project` where id = 
+2015-06-30 06:42:29 Query Error: SELECT * FROM `task_project` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-30 06:42:29 释放结果集
+2015-06-30 06:42:29 完成整个查询任务,所用时间为0.0075919628143311
+2015-06-30 06:42:33 查询 SELECT * FROM `task_task`
+2015-06-30 06:42:33 释放结果集
+2015-06-30 06:42:33 完成整个查询任务,所用时间为0.0045361518859863
+2015-06-30 06:42:38 查询 SELECT * FROM `task_task` where id = 10
+2015-06-30 06:42:38 获取一条记录 SELECT * FROM `task_task` where id = 10
+2015-06-30 06:42:38 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:42:38 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 06:42:38 查询 update `task_task` set `status` = "已结束" WHERE `id` = 10
+2015-06-30 06:42:38 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=10
+2015-06-30 06:42:38 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=10
+2015-06-30 06:42:38 释放结果集
+2015-06-30 06:42:38 完成整个查询任务,所用时间为0.011538982391357
+2015-06-30 06:42:42 查询 SELECT * FROM `task_task`
+2015-06-30 06:42:42 释放结果集
+2015-06-30 06:42:42 完成整个查询任务,所用时间为0.0043139457702637
+2015-06-30 06:43:01 查询 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:43:01 获取一条记录 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:43:01 查询 SELECT * FROM `task_project` where id = 
+2015-06-30 06:43:01 Query Error: SELECT * FROM `task_project` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-30 06:43:01 释放结果集
+2015-06-30 06:43:01 完成整个查询任务,所用时间为0.0056040287017822
+2015-06-30 06:43:05 查询 SELECT * FROM `task_task`
+2015-06-30 06:43:05 释放结果集
+2015-06-30 06:43:05 完成整个查询任务,所用时间为0.0045480728149414
+2015-06-30 06:43:42 查询 SELECT * FROM `task_task` where id = 5
+2015-06-30 06:43:42 获取一条记录 SELECT * FROM `task_task` where id = 5
+2015-06-30 06:43:42 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:43:42 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:43:42 查询 update `task_task` set `status` = "开发中" WHERE `id` = 5
+2015-06-30 06:43:42 更新 update task_task set progress = '0.5',progress = '0.5' where 1=1 and id=5
+2015-06-30 06:43:42 查询 update task_task set progress = '0.5',progress = '0.5' where 1=1 and id=5
+2015-06-30 06:43:42 释放结果集
+2015-06-30 06:43:42 完成整个查询任务,所用时间为0.021599054336548
+2015-06-30 06:43:46 查询 SELECT * FROM `task_task`
+2015-06-30 06:43:46 释放结果集
+2015-06-30 06:43:46 完成整个查询任务,所用时间为0.0078229904174805
+2015-06-30 06:45:41 查询 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:45:41 获取一条记录 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:45:41 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:45:41 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:45:41 查询 update `task_task` set `status` = "开发中" WHERE `id` = 6
+2015-06-30 06:45:41 更新 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=6
+2015-06-30 06:45:41 查询 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=6
+2015-06-30 06:45:41 释放结果集
+2015-06-30 06:45:41 完成整个查询任务,所用时间为0.0092289447784424
+2015-06-30 06:45:45 查询 SELECT * FROM `task_task`
+2015-06-30 06:45:45 释放结果集
+2015-06-30 06:45:45 完成整个查询任务,所用时间为0.0083730220794678
+2015-06-30 06:45:52 查询 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:45:52 获取一条记录 SELECT * FROM `task_task` where id = 6
+2015-06-30 06:45:52 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:45:52 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 06:45:52 查询 update `task_task` set `status` = "未开始" WHERE `id` = 6
+2015-06-30 06:45:52 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=6
+2015-06-30 06:45:52 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=6
+2015-06-30 06:45:52 释放结果集
+2015-06-30 06:45:52 完成整个查询任务,所用时间为0.0081260204315186
+2015-06-30 06:45:56 查询 SELECT * FROM `task_task`
+2015-06-30 06:45:56 释放结果集
+2015-06-30 06:45:56 完成整个查询任务,所用时间为0.0079209804534912
+2015-06-30 06:46:09 查询 SELECT * FROM `task_project`
+2015-06-30 06:46:09 释放结果集
+2015-06-30 06:46:09 完成整个查询任务,所用时间为0.007835865020752
+2015-06-30 06:46:10 查询 SELECT * FROM `task_project`
+2015-06-30 06:46:10 释放结果集
+2015-06-30 06:46:10 完成整个查询任务,所用时间为0.012030124664307
+2015-06-30 06:46:10 查询 SELECT * FROM `task_task`
+2015-06-30 06:46:10 释放结果集
+2015-06-30 06:46:10 完成整个查询任务,所用时间为0.010258913040161
+2015-06-30 07:36:20 查询 SELECT * FROM `task_project`
+2015-06-30 07:36:20 释放结果集
+2015-06-30 07:36:20 完成整个查询任务,所用时间为0.022871017456055
+2015-06-30 07:36:20 查询 SELECT * FROM `task_project`
+2015-06-30 07:36:20 释放结果集
+2015-06-30 07:36:20 完成整个查询任务,所用时间为0.010889053344727
+2015-06-30 07:36:20 查询 SELECT * FROM `task_task`
+2015-06-30 07:36:20 释放结果集
+2015-06-30 07:36:20 完成整个查询任务,所用时间为0.0069141387939453
+2015-06-30 07:36:35 查询 SELECT * FROM `task_task` where id = 7
+2015-06-30 07:36:35 获取一条记录 SELECT * FROM `task_task` where id = 7
+2015-06-30 07:36:35 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:36:35 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:36:35 查询 update `task_task` set `status` = "已结束" WHERE `id` = 7
+2015-06-30 07:36:35 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=7
+2015-06-30 07:36:35 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=7
+2015-06-30 07:36:35 释放结果集
+2015-06-30 07:36:35 完成整个查询任务,所用时间为0.024626970291138
+2015-06-30 07:36:39 查询 SELECT * FROM `task_task`
+2015-06-30 07:36:39 释放结果集
+2015-06-30 07:36:39 完成整个查询任务,所用时间为0.0065510272979736
+2015-06-30 07:36:49 查询 SELECT * FROM `task_task` where id = 8
+2015-06-30 07:36:49 获取一条记录 SELECT * FROM `task_task` where id = 8
+2015-06-30 07:36:49 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:36:49 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:36:49 查询 update `task_task` set `status` = "已结束" WHERE `id` = 8
+2015-06-30 07:36:49 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=8
+2015-06-30 07:36:49 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=8
+2015-06-30 07:36:49 释放结果集
+2015-06-30 07:36:49 完成整个查询任务,所用时间为0.0067179203033447
+2015-06-30 07:36:53 查询 SELECT * FROM `task_task`
+2015-06-30 07:36:53 释放结果集
+2015-06-30 07:36:53 完成整个查询任务,所用时间为0.0055890083312988
+2015-06-30 07:37:07 查询 SELECT * FROM `task_task` where id = 15
+2015-06-30 07:37:07 获取一条记录 SELECT * FROM `task_task` where id = 15
+2015-06-30 07:37:07 查询 SELECT * FROM `task_project` where id = 0
+2015-06-30 07:37:07 获取一条记录 SELECT * FROM `task_project` where id = 0
+2015-06-30 07:37:07 查询 update `task_task` set `status` = "开发中" WHERE `id` = 15
+2015-06-30 07:37:07 更新 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=15
+2015-06-30 07:37:07 查询 update task_task set progress = '0.2',progress = '0.2' where 1=1 and id=15
+2015-06-30 07:37:07 释放结果集
+2015-06-30 07:37:07 完成整个查询任务,所用时间为0.011967897415161
+2015-06-30 07:37:11 查询 SELECT * FROM `task_task`
+2015-06-30 07:37:11 释放结果集
+2015-06-30 07:37:11 完成整个查询任务,所用时间为0.0058858394622803
+2015-06-30 07:37:19 查询 SELECT * FROM `task_task` where id = 9
+2015-06-30 07:37:19 获取一条记录 SELECT * FROM `task_task` where id = 9
+2015-06-30 07:37:19 查询 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:37:19 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-06-30 07:37:19 查询 update `task_task` set `status` = "未开始" WHERE `id` = 9
+2015-06-30 07:37:19 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=9
+2015-06-30 07:37:19 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=9
+2015-06-30 07:37:19 释放结果集
+2015-06-30 07:37:19 完成整个查询任务,所用时间为0.010260820388794
+2015-06-30 07:37:23 查询 SELECT * FROM `task_task`
+2015-06-30 07:37:23 释放结果集
+2015-06-30 07:37:23 完成整个查询任务,所用时间为0.0084309577941895
+2015-06-30 07:38:31 查询 SELECT * FROM `task_project`
+2015-06-30 07:38:31 释放结果集
+2015-06-30 07:38:31 完成整个查询任务,所用时间为0.36825895309448
+2015-06-30 07:38:31 查询 SELECT * FROM `task_project`
+2015-06-30 07:38:31 释放结果集
+2015-06-30 07:38:31 完成整个查询任务,所用时间为0.0070619583129883
+2015-06-30 07:38:31 查询 SELECT * FROM `task_task`
+2015-06-30 07:38:31 释放结果集
+2015-06-30 07:38:31 完成整个查询任务,所用时间为0.0097382068634033
+2015-06-30 07:38:51 查询 SELECT * FROM `task_project`
+2015-06-30 07:38:51 释放结果集
+2015-06-30 07:38:51 完成整个查询任务,所用时间为0.0051290988922119
+2015-06-30 07:38:51 查询 SELECT * FROM `task_project`
+2015-06-30 07:38:51 释放结果集
+2015-06-30 07:38:51 完成整个查询任务,所用时间为0.0084447860717773
+2015-06-30 07:38:51 查询 SELECT * FROM `task_task`
+2015-06-30 07:38:51 释放结果集
+2015-06-30 07:38:51 完成整个查询任务,所用时间为0.0047001838684082
+2015-06-30 07:38:54 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 07:38:54 释放结果集
+2015-06-30 07:38:54 完成整个查询任务,所用时间为0.0081009864807129
+2015-06-30 07:39:52 查询 SELECT * FROM `task_task` where id = 12
+2015-06-30 07:39:52 获取一条记录 SELECT * FROM `task_task` where id = 12
+2015-06-30 07:39:52 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 07:39:52 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 07:39:52 查询 update `task_task` set `status` = "未开始" WHERE `id` = 12
+2015-06-30 07:39:52 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-06-30 07:39:52 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-06-30 07:39:52 释放结果集
+2015-06-30 07:39:52 完成整个查询任务,所用时间为0.020800828933716
+2015-06-30 07:39:56 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 07:39:56 释放结果集
+2015-06-30 07:39:56 完成整个查询任务,所用时间为0.0090150833129883
+2015-06-30 15:40:12 插入 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','d','dd','P2','','杨小旭','2015-06-30 15:40:12','','1')
+2015-06-30 15:40:12 查询 insert into task_task(id,title,content,priority,hour,owner,add_time,end_time,project_id) values('','d','dd','P2','','杨小旭','2015-06-30 15:40:12','','1')
+2015-06-30 15:40:12 释放结果集
+2015-06-30 15:40:12 完成整个查询任务,所用时间为0.006464958190918
+2015-06-30 07:40:13 查询 SELECT * FROM `task_project`
+2015-06-30 07:40:13 释放结果集
+2015-06-30 07:40:13 完成整个查询任务,所用时间为0.020859956741333
+2015-06-30 07:40:13 查询 SELECT * FROM `task_project`
+2015-06-30 07:40:13 释放结果集
+2015-06-30 07:40:13 完成整个查询任务,所用时间为0.007314920425415
+2015-06-30 07:40:13 查询 SELECT * FROM `task_task`
+2015-06-30 07:40:13 释放结果集
+2015-06-30 07:40:13 完成整个查询任务,所用时间为0.0050060749053955
+2015-06-30 07:40:31 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:31 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:31 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 07:40:31 释放结果集
+2015-06-30 07:40:31 完成整个查询任务,所用时间为0.023838043212891
+2015-06-30 07:40:37 插入 insert into task_comment(id,task_id,task_comment) values('','24',' dfg')
+2015-06-30 07:40:37 查询 insert into task_comment(id,task_id,task_comment) values('','24',' dfg')
+2015-06-30 07:40:37 释放结果集
+2015-06-30 07:40:37 完成整个查询任务,所用时间为0.025692939758301
+2015-06-30 07:40:37 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:37 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:37 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 07:40:37 释放结果集
+2015-06-30 07:40:37 完成整个查询任务,所用时间为0.027676820755005
+2015-06-30 07:40:40 插入 insert into task_comment(id,task_id,task_comment) values('','24',' fdgh')
+2015-06-30 07:40:40 查询 insert into task_comment(id,task_id,task_comment) values('','24',' fdgh')
+2015-06-30 07:40:40 释放结果集
+2015-06-30 07:40:40 完成整个查询任务,所用时间为0.026854991912842
+2015-06-30 07:40:40 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:40 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 07:40:40 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 07:40:40 释放结果集
+2015-06-30 07:40:40 完成整个查询任务,所用时间为0.018260955810547
+2015-06-30 07:54:36 查询 SELECT * FROM `task_project`
+2015-06-30 07:54:36 释放结果集
+2015-06-30 07:54:36 完成整个查询任务,所用时间为0.02036190032959
+2015-06-30 07:54:37 查询 SELECT * FROM `task_project`
+2015-06-30 07:54:37 释放结果集
+2015-06-30 07:54:37 完成整个查询任务,所用时间为0.0040018558502197
+2015-06-30 07:54:37 查询 SELECT * FROM `task_task`
+2015-06-30 07:54:37 释放结果集
+2015-06-30 07:54:37 完成整个查询任务,所用时间为0.0054280757904053
+2015-06-30 07:56:03 查询 SELECT * FROM `task_project`
+2015-06-30 07:56:03 释放结果集
+2015-06-30 07:56:03 完成整个查询任务,所用时间为0.087678909301758
+2015-06-30 07:56:04 查询 SELECT * FROM `task_project`
+2015-06-30 07:56:04 释放结果集
+2015-06-30 07:56:04 完成整个查询任务,所用时间为0.0081079006195068
+2015-06-30 07:56:04 查询 SELECT * FROM `task_task`
+2015-06-30 07:56:04 释放结果集
+2015-06-30 07:56:04 完成整个查询任务,所用时间为0.0062539577484131
+2015-06-30 07:56:14 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 07:56:14 释放结果集
+2015-06-30 07:56:14 完成整个查询任务,所用时间为0.0034961700439453
+2015-06-30 07:59:36 查询 SELECT * FROM `task_project`
+2015-06-30 07:59:36 释放结果集
+2015-06-30 07:59:36 完成整个查询任务,所用时间为0.022631883621216
+2015-06-30 07:59:36 查询 SELECT * FROM `task_project`
+2015-06-30 07:59:36 释放结果集
+2015-06-30 07:59:36 完成整个查询任务,所用时间为0.0072650909423828
+2015-06-30 07:59:36 查询 SELECT * FROM `task_task`
+2015-06-30 07:59:36 释放结果集
+2015-06-30 07:59:36 完成整个查询任务,所用时间为0.0048940181732178
+2015-06-30 07:59:52 查询 SELECT * FROM `task_project`
+2015-06-30 07:59:52 释放结果集
+2015-06-30 07:59:52 完成整个查询任务,所用时间为0.011378049850464
+2015-06-30 07:59:52 查询 SELECT * FROM `task_project`
+2015-06-30 07:59:52 释放结果集
+2015-06-30 07:59:52 完成整个查询任务,所用时间为0.0071051120758057
+2015-06-30 07:59:52 查询 SELECT * FROM `task_task`
+2015-06-30 07:59:52 释放结果集
+2015-06-30 07:59:52 完成整个查询任务,所用时间为0.0044701099395752
+2015-06-30 08:00:38 查询 SELECT * FROM `task_project`
+2015-06-30 08:00:39 释放结果集
+2015-06-30 08:00:39 完成整个查询任务,所用时间为0.18894505500793
+2015-06-30 08:00:39 查询 SELECT * FROM `task_project`
+2015-06-30 08:00:39 释放结果集
+2015-06-30 08:00:39 完成整个查询任务,所用时间为0.013030052185059
+2015-06-30 08:00:39 查询 SELECT * FROM `task_task`
+2015-06-30 08:00:39 释放结果集
+2015-06-30 08:00:39 完成整个查询任务,所用时间为0.0092909336090088
+2015-06-30 08:04:05 查询 SELECT * FROM `task_project`
+2015-06-30 08:04:05 释放结果集
+2015-06-30 08:04:05 完成整个查询任务,所用时间为0.02801513671875
+2015-06-30 08:04:05 查询 SELECT * FROM `task_project`
+2015-06-30 08:04:05 释放结果集
+2015-06-30 08:04:05 完成整个查询任务,所用时间为0.0036070346832275
+2015-06-30 08:04:05 查询 SELECT * FROM `task_task`
+2015-06-30 08:04:05 释放结果集
+2015-06-30 08:04:05 完成整个查询任务,所用时间为0.0056400299072266
+2015-06-30 08:04:19 查询 SELECT * FROM `task_project`
+2015-06-30 08:04:19 释放结果集
+2015-06-30 08:04:19 完成整个查询任务,所用时间为0.010779857635498
+2015-06-30 08:04:19 查询 SELECT * FROM `task_project`
+2015-06-30 08:04:19 释放结果集
+2015-06-30 08:04:19 完成整个查询任务,所用时间为0.013951063156128
+2015-06-30 08:04:19 查询 SELECT * FROM `task_task`
+2015-06-30 08:04:19 释放结果集
+2015-06-30 08:04:19 完成整个查询任务,所用时间为0.0061221122741699
+2015-06-30 08:06:15 查询 SELECT * FROM `task_project`
+2015-06-30 08:06:16 释放结果集
+2015-06-30 08:06:16 完成整个查询任务,所用时间为0.37136197090149
+2015-06-30 08:06:16 查询 SELECT * FROM `task_project`
+2015-06-30 08:06:16 释放结果集
+2015-06-30 08:06:16 完成整个查询任务,所用时间为0.0098581314086914
+2015-06-30 08:06:16 查询 SELECT * FROM `task_task`
+2015-06-30 08:06:16 释放结果集
+2015-06-30 08:06:16 完成整个查询任务,所用时间为0.0056459903717041
+2015-06-30 08:06:47 查询 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:06:47 获取一条记录 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:06:47 查询 SELECT * FROM `task_project` where id = 
+2015-06-30 08:06:47 Query Error: SELECT * FROM `task_project` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-30 08:06:47 释放结果集
+2015-06-30 08:06:47 完成整个查询任务,所用时间为0.0054919719696045
+2015-06-30 08:06:51 查询 SELECT * FROM `task_task`
+2015-06-30 08:06:51 释放结果集
+2015-06-30 08:06:51 完成整个查询任务,所用时间为0.0095200538635254
+2015-06-30 08:07:00 查询 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:07:00 获取一条记录 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:07:00 查询 SELECT * FROM `task_project` where id = 
+2015-06-30 08:07:00 Query Error: SELECT * FROM `task_project` where id = 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-06-30 08:07:00 释放结果集
+2015-06-30 08:07:00 完成整个查询任务,所用时间为0.0077719688415527
+2015-06-30 08:07:04 查询 SELECT * FROM `task_task`
+2015-06-30 08:07:04 释放结果集
+2015-06-30 08:07:04 完成整个查询任务,所用时间为0.0068480968475342
+2015-06-30 08:07:08 查询 SELECT * FROM `task_project`
+2015-06-30 08:07:08 释放结果集
+2015-06-30 08:07:08 完成整个查询任务,所用时间为0.010694980621338
+2015-06-30 08:07:08 查询 SELECT * FROM `task_project`
+2015-06-30 08:07:08 释放结果集
+2015-06-30 08:07:08 完成整个查询任务,所用时间为0.0082330703735352
+2015-06-30 08:07:08 查询 SELECT * FROM `task_task`
+2015-06-30 08:07:08 释放结果集
+2015-06-30 08:07:08 完成整个查询任务,所用时间为0.0058619976043701
+2015-06-30 08:07:55 查询 SELECT * FROM `task_project`
+2015-06-30 08:07:55 释放结果集
+2015-06-30 08:07:55 完成整个查询任务,所用时间为0.0066919326782227
+2015-06-30 08:07:55 查询 SELECT * FROM `task_project`
+2015-06-30 08:07:55 释放结果集
+2015-06-30 08:07:55 完成整个查询任务,所用时间为0.0049400329589844
+2015-06-30 08:07:55 查询 SELECT * FROM `task_task`
+2015-06-30 08:07:55 释放结果集
+2015-06-30 08:07:55 完成整个查询任务,所用时间为0.00565505027771
+2015-06-30 08:08:04 查询 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:08:04 获取一条记录 SELECT * FROM `task_task` where id = 12
+2015-06-30 08:08:04 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 08:08:04 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 08:08:04 查询 update `task_task` set `status` = "未开始" WHERE `id` = 12
+2015-06-30 08:08:04 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-06-30 08:08:04 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-06-30 08:08:04 释放结果集
+2015-06-30 08:08:04 完成整个查询任务,所用时间为0.0080530643463135
+2015-06-30 08:08:08 查询 SELECT * FROM `task_task`
+2015-06-30 08:08:08 释放结果集
+2015-06-30 08:08:08 完成整个查询任务,所用时间为0.006087064743042
+2015-06-30 08:08:21 查询 SELECT * FROM `task_task` where id = 13
+2015-06-30 08:08:21 获取一条记录 SELECT * FROM `task_task` where id = 13
+2015-06-30 08:08:21 查询 SELECT * FROM `task_project` where id = 0
+2015-06-30 08:08:21 获取一条记录 SELECT * FROM `task_project` where id = 0
+2015-06-30 08:08:21 查询 update `task_task` set `status` = "未开始" WHERE `id` = 13
+2015-06-30 08:08:21 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=13
+2015-06-30 08:08:21 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=13
+2015-06-30 08:08:21 释放结果集
+2015-06-30 08:08:21 完成整个查询任务,所用时间为0.0084259510040283
+2015-06-30 08:08:25 查询 SELECT * FROM `task_task`
+2015-06-30 08:08:25 释放结果集
+2015-06-30 08:08:25 完成整个查询任务,所用时间为0.0043652057647705
+2015-06-30 08:08:38 查询 SELECT * FROM `task_task` where id = 14
+2015-06-30 08:08:38 获取一条记录 SELECT * FROM `task_task` where id = 14
+2015-06-30 08:08:38 查询 SELECT * FROM `task_project` where id = 0
+2015-06-30 08:08:38 获取一条记录 SELECT * FROM `task_project` where id = 0
+2015-06-30 08:08:38 查询 update `task_task` set `status` = "未开始" WHERE `id` = 14
+2015-06-30 08:08:38 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=14
+2015-06-30 08:08:38 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=14
+2015-06-30 08:08:38 释放结果集
+2015-06-30 08:08:38 完成整个查询任务,所用时间为0.0074059963226318
+2015-06-30 08:08:42 查询 SELECT * FROM `task_task`
+2015-06-30 08:08:42 释放结果集
+2015-06-30 08:08:42 完成整个查询任务,所用时间为0.006356954574585
+2015-06-30 08:09:50 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '丁扬'
+2015-06-30 08:09:50 释放结果集
+2015-06-30 08:09:50 完成整个查询任务,所用时间为0.004080057144165
+2015-06-30 08:09:51 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '周晓漪'
+2015-06-30 08:09:51 释放结果集
+2015-06-30 08:09:51 完成整个查询任务,所用时间为0.0047299861907959
+2015-06-30 08:09:52 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '周胜'
+2015-06-30 08:09:53 释放结果集
+2015-06-30 08:09:53 完成整个查询任务,所用时间为0.0049171447753906
+2015-06-30 08:09:56 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '卢俊豪'
+2015-06-30 08:09:56 释放结果集
+2015-06-30 08:09:56 完成整个查询任务,所用时间为0.003864049911499
+2015-06-30 08:09:57 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '-魏忠健'
+2015-06-30 08:09:57 释放结果集
+2015-06-30 08:09:57 完成整个查询任务,所用时间为0.014786005020142
+2015-06-30 08:09:59 查询 SELECT * FROM `task_task` WHERE 1 = 1 and owner = '杨小旭'
+2015-06-30 08:09:59 释放结果集
+2015-06-30 08:09:59 完成整个查询任务,所用时间为0.0077071189880371
+2015-06-30 08:10:08 查询 SELECT * FROM `task_task` WHERE 1 = 1 
+2015-06-30 08:10:08 释放结果集
+2015-06-30 08:10:08 完成整个查询任务,所用时间为0.0069279670715332
+2015-06-30 08:10:10 查询 SELECT * FROM `task_project`
+2015-06-30 08:10:10 释放结果集
+2015-06-30 08:10:10 完成整个查询任务,所用时间为0.012145042419434
+2015-06-30 08:10:10 查询 SELECT * FROM `task_project`
+2015-06-30 08:10:10 释放结果集
+2015-06-30 08:10:10 完成整个查询任务,所用时间为0.0033140182495117
+2015-06-30 08:10:10 查询 SELECT * FROM `task_task`
+2015-06-30 08:10:10 释放结果集
+2015-06-30 08:10:10 完成整个查询任务,所用时间为0.0043871402740479
+2015-06-30 08:10:23 查询 SELECT * FROM `task_task` where id = 5
+2015-06-30 08:10:23 获取一条记录 SELECT * FROM `task_task` where id = 5
+2015-06-30 08:10:23 释放结果集
+2015-06-30 08:10:23 完成整个查询任务,所用时间为0.024413108825684
+2015-06-30 08:10:41 查询 SELECT * FROM `task_project`
+2015-06-30 08:10:41 释放结果集
+2015-06-30 08:10:41 完成整个查询任务,所用时间为0.0077140331268311
+2015-06-30 08:10:41 查询 SELECT * FROM `task_project`
+2015-06-30 08:10:41 释放结果集
+2015-06-30 08:10:41 完成整个查询任务,所用时间为0.005756139755249
+2015-06-30 08:10:41 查询 SELECT * FROM `task_task`
+2015-06-30 08:10:41 释放结果集
+2015-06-30 08:10:41 完成整个查询任务,所用时间为0.0046341419219971
+2015-06-30 09:38:33 查询 SELECT * FROM `task_project`
+2015-06-30 09:38:33 释放结果集
+2015-06-30 09:38:33 完成整个查询任务,所用时间为0.013001203536987
+2015-06-30 09:38:35 查询 SELECT * FROM `task_project`
+2015-06-30 09:38:35 释放结果集
+2015-06-30 09:38:35 完成整个查询任务,所用时间为0.031750917434692
+2015-06-30 09:38:35 查询 SELECT * FROM `task_task`
+2015-06-30 09:38:35 释放结果集
+2015-06-30 09:38:35 完成整个查询任务,所用时间为0.013631105422974
+2015-06-30 09:42:38 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:42:38 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:42:38 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 09:42:38 释放结果集
+2015-06-30 09:42:38 完成整个查询任务,所用时间为0.016409873962402
+2015-06-30 09:43:52 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:43:52 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:43:52 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 09:43:52 释放结果集
+2015-06-30 09:43:52 完成整个查询任务,所用时间为0.021780967712402
+2015-06-30 09:44:04 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:44:04 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:44:04 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 09:44:04 释放结果集
+2015-06-30 09:44:04 完成整个查询任务,所用时间为0.0048699378967285
+2015-06-30 09:44:44 查询 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:44:44 获取一条记录 SELECT * FROM `task_task` where id = 24
+2015-06-30 09:44:44 查询 SELECT * FROM `task_comment` where `task_id` = 24
+2015-06-30 09:44:44 释放结果集
+2015-06-30 09:44:44 完成整个查询任务,所用时间为0.26637101173401
+2015-06-30 09:44:50 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:44:50 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:44:50 释放结果集
+2015-06-30 09:44:50 完成整个查询任务,所用时间为0.025681018829346
+2015-06-30 09:44:59 查询 SELECT * FROM `task_project`
+2015-06-30 09:44:59 释放结果集
+2015-06-30 09:44:59 完成整个查询任务,所用时间为0.014371871948242
+2015-06-30 09:44:59 查询 SELECT * FROM `task_project`
+2015-06-30 09:44:59 释放结果集
+2015-06-30 09:44:59 完成整个查询任务,所用时间为0.0044119358062744
+2015-06-30 09:44:59 查询 SELECT * FROM `task_task`
+2015-06-30 09:44:59 释放结果集
+2015-06-30 09:44:59 完成整个查询任务,所用时间为0.0062491893768311
+2015-06-30 09:45:02 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-06-30 09:45:02 释放结果集
+2015-06-30 09:45:02 完成整个查询任务,所用时间为0.0052809715270996
+2015-06-30 09:45:05 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:45:05 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:45:05 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:45:05 释放结果集
+2015-06-30 09:45:05 完成整个查询任务,所用时间为0.0084171295166016
+2015-06-30 09:45:44 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:45:44 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:45:44 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:45:45 释放结果集
+2015-06-30 09:45:45 完成整个查询任务,所用时间为0.27877616882324
+2015-06-30 09:46:05 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:46:05 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:46:05 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:46:43 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:46:43 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:46:43 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:46:43 释放结果集
+2015-06-30 09:46:43 完成整个查询任务,所用时间为0.17438507080078
+2015-06-30 09:47:46 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:47:46 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:47:46 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:47:47 释放结果集
+2015-06-30 09:47:47 完成整个查询任务,所用时间为0.16253995895386
+2015-06-30 09:48:27 查询 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:48:27 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-06-30 09:48:27 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-06-30 09:48:27 释放结果集
+2015-06-30 09:48:27 完成整个查询任务,所用时间为0.13854908943176
+2015-06-30 09:48:46 查询 SELECT * FROM `task_project`
+2015-06-30 09:48:46 释放结果集
+2015-06-30 09:48:46 完成整个查询任务,所用时间为0.015506029129028
+2015-06-30 09:48:46 查询 SELECT * FROM `task_project`
+2015-06-30 09:48:46 释放结果集
+2015-06-30 09:48:46 完成整个查询任务,所用时间为0.003911018371582
+2015-06-30 09:48:46 查询 SELECT * FROM `task_task`
+2015-06-30 09:48:46 释放结果集
+2015-06-30 09:48:46 完成整个查询任务,所用时间为0.0046370029449463
+2015-06-30 09:48:49 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:48:49 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:48:49 释放结果集
+2015-06-30 09:48:49 完成整个查询任务,所用时间为0.0083959102630615
+2015-06-30 09:51:40 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:51:40 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:51:41 释放结果集
+2015-06-30 09:51:41 完成整个查询任务,所用时间为0.23008298873901
+2015-06-30 09:52:19 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:52:19 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:52:19 释放结果集
+2015-06-30 09:52:19 完成整个查询任务,所用时间为0.11775994300842
+2015-06-30 09:52:36 查询 SELECT * FROM `task_project`
+2015-06-30 09:52:42 查询 SELECT * FROM `task_project`
+2015-06-30 09:52:55 查询 SELECT * FROM `task_project`
+2015-06-30 09:52:55 释放结果集
+2015-06-30 09:52:55 完成整个查询任务,所用时间为0.13033080101013
+2015-06-30 09:52:55 查询 SELECT * FROM `task_project`
+2015-06-30 09:52:55 释放结果集
+2015-06-30 09:52:55 完成整个查询任务,所用时间为0.0054519176483154
+2015-06-30 09:52:55 查询 SELECT * FROM `task_task`
+2015-06-30 09:52:55 释放结果集
+2015-06-30 09:52:55 完成整个查询任务,所用时间为0.013319969177246
+2015-06-30 09:53:52 查询 SELECT * FROM `task_project`
+2015-06-30 09:53:52 释放结果集
+2015-06-30 09:53:52 完成整个查询任务,所用时间为0.0063858032226562
+2015-06-30 09:53:52 查询 SELECT * FROM `task_project`
+2015-06-30 09:53:52 释放结果集
+2015-06-30 09:53:52 完成整个查询任务,所用时间为0.0038261413574219
+2015-06-30 09:53:52 查询 SELECT * FROM `task_task`
+2015-06-30 09:53:52 释放结果集
+2015-06-30 09:53:52 完成整个查询任务,所用时间为0.0042409896850586
+2015-06-30 09:53:54 查询 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:53:54 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-06-30 09:53:54 释放结果集
+2015-06-30 09:53:54 完成整个查询任务,所用时间为0.12531995773315
+2015-06-30 09:53:56 查询 SELECT * FROM `task_project`
+2015-06-30 09:53:56 释放结果集
+2015-06-30 09:53:56 完成整个查询任务,所用时间为0.010848045349121
+2015-06-30 09:53:56 查询 SELECT * FROM `task_project`
+2015-06-30 09:53:56 释放结果集
+2015-06-30 09:53:56 完成整个查询任务,所用时间为0.0026979446411133
+2015-06-30 09:53:56 查询 SELECT * FROM `task_task`
+2015-06-30 09:53:56 释放结果集
+2015-06-30 09:53:56 完成整个查询任务,所用时间为0.0059998035430908
+2015-06-30 09:53:58 查询 SELECT * FROM `task_project` WHERE 1 = 1 and status = '未开始'
+2015-06-30 09:53:58 释放结果集
+2015-06-30 09:53:58 完成整个查询任务,所用时间为0.0044050216674805
+2015-06-30 09:54:46 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:46 释放结果集
+2015-06-30 09:54:46 完成整个查询任务,所用时间为0.014571905136108
+2015-06-30 09:54:46 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:46 释放结果集
+2015-06-30 09:54:46 完成整个查询任务,所用时间为0.0038039684295654
+2015-06-30 09:54:46 查询 SELECT * FROM `task_task`
+2015-06-30 09:54:46 释放结果集
+2015-06-30 09:54:46 完成整个查询任务,所用时间为0.0042591094970703
+2015-06-30 09:54:50 查询 SELECT * FROM `task_project` where id = 3
+2015-06-30 09:54:50 获取一条记录 SELECT * FROM `task_project` where id = 3
+2015-06-30 09:54:50 释放结果集
+2015-06-30 09:54:50 完成整个查询任务,所用时间为0.010027170181274
+2015-06-30 09:54:52 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:52 释放结果集
+2015-06-30 09:54:52 完成整个查询任务,所用时间为0.01076602935791
+2015-06-30 09:54:53 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:53 释放结果集
+2015-06-30 09:54:53 完成整个查询任务,所用时间为0.0037360191345215
+2015-06-30 09:54:53 查询 SELECT * FROM `task_task`
+2015-06-30 09:54:53 释放结果集
+2015-06-30 09:54:53 完成整个查询任务,所用时间为0.0053269863128662
+2015-06-30 09:54:54 查询 SELECT * FROM `task_project` where id = 7
+2015-06-30 09:54:54 获取一条记录 SELECT * FROM `task_project` where id = 7
+2015-06-30 09:54:54 释放结果集
+2015-06-30 09:54:54 完成整个查询任务,所用时间为0.0075089931488037
+2015-06-30 09:54:56 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:56 释放结果集
+2015-06-30 09:54:56 完成整个查询任务,所用时间为0.0079140663146973
+2015-06-30 09:54:57 查询 SELECT * FROM `task_project`
+2015-06-30 09:54:57 释放结果集
+2015-06-30 09:54:57 完成整个查询任务,所用时间为0.0040349960327148
+2015-06-30 09:54:57 查询 SELECT * FROM `task_task`
+2015-06-30 09:54:57 释放结果集
+2015-06-30 09:54:57 完成整个查询任务,所用时间为0.004533052444458
+2015-07-01 05:28:18 查询 SELECT * FROM `task_project`
+2015-07-01 05:28:18 释放结果集
+2015-07-01 05:28:18 完成整个查询任务,所用时间为0.45888113975525
+2015-07-01 05:28:19 查询 SELECT * FROM `task_project`
+2015-07-01 05:28:19 释放结果集
+2015-07-01 05:28:19 完成整个查询任务,所用时间为0.0095560550689697
+2015-07-01 05:28:19 查询 SELECT * FROM `task_task`
+2015-07-01 05:28:19 释放结果集
+2015-07-01 05:28:19 完成整个查询任务,所用时间为0.0094380378723145
+2015-07-01 06:07:19 查询 SELECT * FROM `task_project` WHERE 1 = 1 and status = '未开始'
+2015-07-01 06:07:19 释放结果集
+2015-07-01 06:07:19 完成整个查询任务,所用时间为0.028795003890991
+2015-07-01 06:07:21 查询 SELECT * FROM `task_project` WHERE 1 = 1 
+2015-07-01 06:07:21 释放结果集
+2015-07-01 06:07:21 完成整个查询任务,所用时间为0.0079600811004639
+2015-07-01 06:07:38 查询 SELECT * FROM `user` where user = '杨小旭' and  password = 123456
+2015-07-01 06:07:38 释放结果集
+2015-07-01 06:07:38 完成整个查询任务,所用时间为0.019752025604248
+2015-07-01 06:07:53 查询 SELECT * FROM `task_project`
+2015-07-01 06:07:53 释放结果集
+2015-07-01 06:07:53 完成整个查询任务,所用时间为0.010436058044434
+2015-07-01 06:07:53 查询 SELECT * FROM `task_project`
+2015-07-01 06:07:53 释放结果集
+2015-07-01 06:07:53 完成整个查询任务,所用时间为0.0057680606842041
+2015-07-01 06:07:53 查询 SELECT * FROM `task_task`
+2015-07-01 06:07:53 释放结果集
+2015-07-01 06:07:53 完成整个查询任务,所用时间为0.02723503112793
+2015-07-01 14:07:59 插入 insert into task_project(id,title,priority,content) values('','dsd','P2','东东')
+2015-07-01 14:07:59 查询 insert into task_project(id,title,priority,content) values('','dsd','P2','东东')
+2015-07-01 14:07:59 释放结果集
+2015-07-01 14:07:59 完成整个查询任务,所用时间为0.059837102890015
+2015-07-01 06:07:59 查询 SELECT * FROM `task_project`
+2015-07-01 06:07:59 释放结果集
+2015-07-01 06:07:59 完成整个查询任务,所用时间为0.050732851028442
+2015-07-01 06:07:59 查询 SELECT * FROM `task_project`
+2015-07-01 06:07:59 释放结果集
+2015-07-01 06:07:59 完成整个查询任务,所用时间为0.0049738883972168
+2015-07-01 06:07:59 查询 SELECT * FROM `task_task`
+2015-07-01 06:07:59 释放结果集
+2015-07-01 06:07:59 完成整个查询任务,所用时间为0.0060200691223145
+2015-07-01 06:08:19 查询 SELECT * FROM `task_task` where `project_id` = 9
+2015-07-01 06:08:19 释放结果集
+2015-07-01 06:08:19 完成整个查询任务,所用时间为0.0094950199127197
+2015-07-01 06:08:22 查询 SELECT * FROM `task_project`
+2015-07-01 06:08:22 释放结果集
+2015-07-01 06:08:22 完成整个查询任务,所用时间为0.01465892791748
+2015-07-01 06:08:22 查询 SELECT * FROM `task_project`
+2015-07-01 06:08:22 释放结果集
+2015-07-01 06:08:22 完成整个查询任务,所用时间为0.0072648525238037
+2015-07-01 06:08:22 查询 SELECT * FROM `task_task`
+2015-07-01 06:08:22 释放结果集
+2015-07-01 06:08:22 完成整个查询任务,所用时间为0.0055131912231445
+2015-07-01 14:17:16 插入 insert into task_project(id,title,owner,priority,content) values('','多大的','杨小旭','P2','多大的')
+2015-07-01 14:17:16 查询 insert into task_project(id,title,owner,priority,content) values('','多大的','杨小旭','P2','多大的')
+2015-07-01 14:17:16 释放结果集
+2015-07-01 14:17:16 完成整个查询任务,所用时间为0.020431041717529
+2015-07-01 06:17:16 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:16 释放结果集
+2015-07-01 06:17:16 完成整个查询任务,所用时间为0.018348217010498
+2015-07-01 06:17:16 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:16 释放结果集
+2015-07-01 06:17:16 完成整个查询任务,所用时间为0.0050201416015625
+2015-07-01 06:17:17 查询 SELECT * FROM `task_task`
+2015-07-01 06:17:17 释放结果集
+2015-07-01 06:17:17 完成整个查询任务,所用时间为0.0076758861541748
+2015-07-01 06:17:44 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:44 释放结果集
+2015-07-01 06:17:44 完成整个查询任务,所用时间为0.014072895050049
+2015-07-01 06:17:44 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:44 释放结果集
+2015-07-01 06:17:44 完成整个查询任务,所用时间为0.026680946350098
+2015-07-01 06:17:44 查询 SELECT * FROM `task_task`
+2015-07-01 06:17:44 释放结果集
+2015-07-01 06:17:44 完成整个查询任务,所用时间为0.016043901443481
+2015-07-01 14:17:57 插入 insert into task_project(id,title,owner,priority,content) values('','日日日','杨小旭','P2','日日日')
+2015-07-01 14:17:57 查询 insert into task_project(id,title,owner,priority,content) values('','日日日','杨小旭','P2','日日日')
+2015-07-01 14:17:57 释放结果集
+2015-07-01 14:17:57 完成整个查询任务,所用时间为0.012866973876953
+2015-07-01 06:17:58 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:58 释放结果集
+2015-07-01 06:17:58 完成整个查询任务,所用时间为0.016328096389771
+2015-07-01 06:17:58 查询 SELECT * FROM `task_project`
+2015-07-01 06:17:58 释放结果集
+2015-07-01 06:17:58 完成整个查询任务,所用时间为0.006648063659668
+2015-07-01 06:17:58 查询 SELECT * FROM `task_task`
+2015-07-01 06:17:58 释放结果集
+2015-07-01 06:17:58 完成整个查询任务,所用时间为0.0060470104217529
+2015-07-01 06:18:12 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 06:18:12 释放结果集
+2015-07-01 06:18:12 完成整个查询任务,所用时间为0.023798942565918
+2015-07-01 14:19:23 插入 insert into task_task(id,title,content,owner,priority,hour,add_time,end_time,project_id) values('','多大的','多大的','杨小旭','P2','20','2015-07-01 14:19:23','','1')
+2015-07-01 14:19:23 查询 insert into task_task(id,title,content,owner,priority,hour,add_time,end_time,project_id) values('','多大的','多大的','杨小旭','P2','20','2015-07-01 14:19:23','','1')
+2015-07-01 14:19:23 查询 update `task_project` set `hour` = `hour`+20 WHERE `id` = 1
+2015-07-01 14:19:23 释放结果集
+2015-07-01 14:19:23 完成整个查询任务,所用时间为0.020451068878174
+2015-07-01 06:19:23 查询 SELECT * FROM `task_project`
+2015-07-01 06:19:23 释放结果集
+2015-07-01 06:19:23 完成整个查询任务,所用时间为0.016836881637573
+2015-07-01 06:19:24 查询 SELECT * FROM `task_project`
+2015-07-01 06:19:24 释放结果集
+2015-07-01 06:19:24 完成整个查询任务,所用时间为0.0047571659088135
+2015-07-01 06:19:24 查询 SELECT * FROM `task_task`
+2015-07-01 06:19:24 释放结果集
+2015-07-01 06:19:24 完成整个查询任务,所用时间为0.0049471855163574
+2015-07-01 07:57:48 查询 SELECT * FROM `task_project`
+2015-07-01 07:57:48 释放结果集
+2015-07-01 07:57:48 完成整个查询任务,所用时间为0.30833578109741
+2015-07-01 07:57:48 查询 SELECT * FROM `task_project`
+2015-07-01 07:57:48 释放结果集
+2015-07-01 07:57:48 完成整个查询任务,所用时间为0.0050039291381836
+2015-07-01 07:57:48 查询 SELECT * FROM `task_task`
+2015-07-01 07:57:48 释放结果集
+2015-07-01 07:57:48 完成整个查询任务,所用时间为0.0062410831451416
+2015-07-01 07:57:59 查询 SELECT * FROM `user` where user = '杨小旭' and  password = 123456
+2015-07-01 07:57:59 释放结果集
+2015-07-01 07:57:59 完成整个查询任务,所用时间为0.0076029300689697
+2015-07-01 07:58:04 查询 SELECT * FROM `task_project`
+2015-07-01 07:58:04 释放结果集
+2015-07-01 07:58:04 完成整个查询任务,所用时间为0.0073089599609375
+2015-07-01 07:58:04 查询 SELECT * FROM `task_project`
+2015-07-01 07:58:04 释放结果集
+2015-07-01 07:58:04 完成整个查询任务,所用时间为0.0042181015014648
+2015-07-01 07:58:04 查询 SELECT * FROM `task_task`
+2015-07-01 07:58:04 释放结果集
+2015-07-01 07:58:04 完成整个查询任务,所用时间为0.0044221878051758
+2015-07-01 07:58:20 查询 SELECT * FROM `user` where user = '杨小旭' and  password = 123456
+2015-07-01 07:58:20 释放结果集
+2015-07-01 07:58:20 完成整个查询任务,所用时间为0.0039818286895752
+2015-07-01 07:58:29 查询 SELECT * FROM `task_project`
+2015-07-01 07:58:29 释放结果集
+2015-07-01 07:58:29 完成整个查询任务,所用时间为0.0074729919433594
+2015-07-01 07:58:30 查询 SELECT * FROM `task_project`
+2015-07-01 07:58:30 释放结果集
+2015-07-01 07:58:30 完成整个查询任务,所用时间为0.0051710605621338
+2015-07-01 07:58:30 查询 SELECT * FROM `task_task`
+2015-07-01 07:58:30 释放结果集
+2015-07-01 07:58:30 完成整个查询任务,所用时间为0.0040788650512695
+2015-07-01 07:58:36 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 07:58:36 释放结果集
+2015-07-01 07:58:36 完成整个查询任务,所用时间为0.0045771598815918
+2015-07-01 07:58:40 查询 SELECT * FROM `task_task` where id = 2
+2015-07-01 07:58:40 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-07-01 07:58:40 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-07-01 07:58:40 释放结果集
+2015-07-01 07:58:40 完成整个查询任务,所用时间为0.039861917495728
+2015-07-01 07:59:09 查询 SELECT * FROM `task_task` where id = 2
+2015-07-01 07:59:09 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-07-01 07:59:09 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-07-01 07:59:09 释放结果集
+2015-07-01 07:59:09 完成整个查询任务,所用时间为0.31605195999146
+2015-07-01 08:00:12 查询 SELECT * FROM `task_task` where id = 2
+2015-07-01 08:00:12 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-07-01 08:00:12 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-07-01 08:00:12 释放结果集
+2015-07-01 08:00:12 完成整个查询任务,所用时间为0.022149085998535
+2015-07-01 08:00:48 查询 SELECT * FROM `task_task` where id = 2
+2015-07-01 08:00:48 获取一条记录 SELECT * FROM `task_task` where id = 2
+2015-07-01 08:00:48 查询 SELECT * FROM `task_comment` where `task_id` = 2
+2015-07-01 08:00:48 释放结果集
+2015-07-01 08:00:48 完成整个查询任务,所用时间为0.016240119934082
+2015-07-01 08:01:15 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:15 释放结果集
+2015-07-01 08:01:15 完成整个查询任务,所用时间为0.42982006072998
+2015-07-01 08:01:15 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:15 释放结果集
+2015-07-01 08:01:15 完成整个查询任务,所用时间为0.0086719989776611
+2015-07-01 08:01:15 查询 SELECT * FROM `task_task`
+2015-07-01 08:01:15 释放结果集
+2015-07-01 08:01:15 完成整个查询任务,所用时间为0.0056359767913818
+2015-07-01 08:01:51 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:51 释放结果集
+2015-07-01 08:01:51 完成整个查询任务,所用时间为0.21462488174438
+2015-07-01 08:01:52 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:52 释放结果集
+2015-07-01 08:01:52 完成整个查询任务,所用时间为0.0038299560546875
+2015-07-01 08:01:52 查询 SELECT * FROM `task_task`
+2015-07-01 08:01:52 释放结果集
+2015-07-01 08:01:52 完成整个查询任务,所用时间为0.0043120384216309
+2015-07-01 08:01:56 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:56 释放结果集
+2015-07-01 08:01:56 完成整个查询任务,所用时间为0.010900020599365
+2015-07-01 08:01:56 查询 SELECT * FROM `task_project`
+2015-07-01 08:01:56 释放结果集
+2015-07-01 08:01:56 完成整个查询任务,所用时间为0.010538101196289
+2015-07-01 08:01:56 查询 SELECT * FROM `task_task`
+2015-07-01 08:01:56 释放结果集
+2015-07-01 08:01:56 完成整个查询任务,所用时间为0.0062921047210693
+2015-07-01 08:02:02 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 08:02:02 释放结果集
+2015-07-01 08:02:02 完成整个查询任务,所用时间为0.004080057144165
+2015-07-01 08:03:01 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 08:03:01 释放结果集
+2015-07-01 08:03:01 完成整个查询任务,所用时间为0.0061731338500977
+2015-07-01 08:03:24 查询 SELECT * FROM `user` where user = '杨小旭' and  password = 123456
+2015-07-01 08:03:24 释放结果集
+2015-07-01 08:03:24 完成整个查询任务,所用时间为0.011731863021851
+2015-07-01 08:03:30 查询 SELECT * FROM `task_project`
+2015-07-01 08:03:30 释放结果集
+2015-07-01 08:03:30 完成整个查询任务,所用时间为0.33034610748291
+2015-07-01 08:03:31 查询 SELECT * FROM `task_project`
+2015-07-01 08:03:31 释放结果集
+2015-07-01 08:03:31 完成整个查询任务,所用时间为0.0049588680267334
+2015-07-01 08:03:31 查询 SELECT * FROM `task_task`
+2015-07-01 08:03:31 释放结果集
+2015-07-01 08:03:31 完成整个查询任务,所用时间为0.0051131248474121
+2015-07-01 08:13:30 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '丁扬'
+2015-07-01 08:13:30 释放结果集
+2015-07-01 08:13:30 完成整个查询任务,所用时间为0.0086128711700439
+2015-07-01 08:13:31 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '周晓漪'
+2015-07-01 08:13:31 释放结果集
+2015-07-01 08:13:31 完成整个查询任务,所用时间为0.0053889751434326
+2015-07-01 08:13:32 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '周胜'
+2015-07-01 08:13:32 释放结果集
+2015-07-01 08:13:32 完成整个查询任务,所用时间为0.0059149265289307
+2015-07-01 08:13:35 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '卢俊豪'
+2015-07-01 08:13:35 释放结果集
+2015-07-01 08:13:35 完成整个查询任务,所用时间为0.0044889450073242
+2015-07-01 08:13:36 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '魏忠健'
+2015-07-01 08:13:36 释放结果集
+2015-07-01 08:13:36 完成整个查询任务,所用时间为0.009037971496582
+2015-07-01 08:13:38 查询 SELECT * FROM `task_project` WHERE 1 = 1 and owner = '杨小旭'
+2015-07-01 08:13:38 释放结果集
+2015-07-01 08:13:38 完成整个查询任务,所用时间为0.013958930969238
+2015-07-01 08:13:39 查询 SELECT * FROM `task_project` WHERE 1 = 1 
+2015-07-01 08:13:39 释放结果集
+2015-07-01 08:13:39 完成整个查询任务,所用时间为0.003464937210083
+2015-07-01 08:16:20 查询 SELECT * FROM `task_project`
+2015-07-01 08:16:20 释放结果集
+2015-07-01 08:16:20 完成整个查询任务,所用时间为0.012057065963745
+2015-07-01 08:16:20 查询 SELECT * FROM `task_project`
+2015-07-01 08:16:20 释放结果集
+2015-07-01 08:16:20 完成整个查询任务,所用时间为0.0055019855499268
+2015-07-01 08:16:20 查询 SELECT * FROM `task_task`
+2015-07-01 08:16:20 释放结果集
+2015-07-01 08:16:20 完成整个查询任务,所用时间为0.0049738883972168
+2015-07-01 08:16:22 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 08:16:22 释放结果集
+2015-07-01 08:16:22 完成整个查询任务,所用时间为0.0057220458984375
+2015-07-01 16:16:33 插入 insert into task_task(id,title,type,content,owner,priority,hour,add_time,end_time,project_id) values('','d东东','requirement','阿桑地方撒旦','杨小旭','P2','阿桑地方','2015-07-01 16:16:33','撒点粉','1')
+2015-07-01 16:16:33 查询 insert into task_task(id,title,type,content,owner,priority,hour,add_time,end_time,project_id) values('','d东东','requirement','阿桑地方撒旦','杨小旭','P2','阿桑地方','2015-07-01 16:16:33','撒点粉','1')
+2015-07-01 16:16:33 释放结果集
+2015-07-01 16:16:33 完成整个查询任务,所用时间为0.0089349746704102
+2015-07-01 08:16:33 查询 SELECT * FROM `task_project`
+2015-07-01 08:16:33 释放结果集
+2015-07-01 08:16:33 完成整个查询任务,所用时间为0.044183969497681
+2015-07-01 08:16:33 查询 SELECT * FROM `task_project`
+2015-07-01 08:16:33 释放结果集
+2015-07-01 08:16:33 完成整个查询任务,所用时间为0.003748893737793
+2015-07-01 08:16:33 查询 SELECT * FROM `task_task`
+2015-07-01 08:16:33 释放结果集
+2015-07-01 08:16:33 完成整个查询任务,所用时间为0.0048670768737793
+2015-07-01 08:16:57 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 08:16:57 释放结果集
+2015-07-01 08:16:57 完成整个查询任务,所用时间为0.0041470527648926
+2015-07-01 08:19:13 查询 SELECT * FROM `task_project`
+2015-07-01 08:19:13 释放结果集
+2015-07-01 08:19:13 完成整个查询任务,所用时间为0.010841131210327
+2015-07-01 08:19:14 查询 SELECT * FROM `task_project`
+2015-07-01 08:19:14 释放结果集
+2015-07-01 08:19:14 完成整个查询任务,所用时间为0.0058610439300537
+2015-07-01 08:19:14 查询 SELECT * FROM `task_task`
+2015-07-01 08:19:14 释放结果集
+2015-07-01 08:19:14 完成整个查询任务,所用时间为0.0063221454620361
+2015-07-01 08:20:26 查询 SELECT * FROM `task_project`
+2015-07-01 08:20:26 释放结果集
+2015-07-01 08:20:26 完成整个查询任务,所用时间为0.019352912902832
+2015-07-01 08:20:27 查询 SELECT * FROM `task_project`
+2015-07-01 08:20:27 释放结果集
+2015-07-01 08:20:27 完成整个查询任务,所用时间为0.006976842880249
+2015-07-01 08:20:27 查询 SELECT * FROM `task_task`
+2015-07-01 08:20:27 释放结果集
+2015-07-01 08:20:27 完成整个查询任务,所用时间为0.0052151679992676
+2015-07-01 08:21:38 查询 SELECT * FROM `task_task` where `project_id` = 1
+2015-07-01 08:21:38 释放结果集
+2015-07-01 08:21:38 完成整个查询任务,所用时间为0.0048022270202637
+2015-07-01 16:22:46 插入 insert into task_task(id,title,type,content,owner,priority,hour,add_time,end_time,project_id) values('','任务表格日期选择器','requirement','任务表格日期选择器，表格内修改','杨小旭','P2','2','2015-07-01 16:22:46','','1')
+2015-07-01 16:22:46 查询 insert into task_task(id,title,type,content,owner,priority,hour,add_time,end_time,project_id) values('','任务表格日期选择器','requirement','任务表格日期选择器，表格内修改','杨小旭','P2','2','2015-07-01 16:22:46','','1')
+2015-07-01 16:22:46 查询 update `task_project` set `hour` = `hour`+2 WHERE `id` = 1
+2015-07-01 16:22:46 释放结果集
+2015-07-01 16:22:46 完成整个查询任务,所用时间为0.013707160949707
+2015-07-01 08:22:46 查询 SELECT * FROM `task_project`
+2015-07-01 08:22:46 释放结果集
+2015-07-01 08:22:46 完成整个查询任务,所用时间为0.01515007019043
+2015-07-01 08:22:47 查询 SELECT * FROM `task_project`
+2015-07-01 08:22:47 释放结果集
+2015-07-01 08:22:47 完成整个查询任务,所用时间为0.005713939666748
+2015-07-01 08:22:47 查询 SELECT * FROM `task_task`
+2015-07-01 08:22:47 释放结果集
+2015-07-01 08:22:47 完成整个查询任务,所用时间为0.0071609020233154
+2015-07-01 08:25:51 查询 SELECT * FROM `task_project`
+2015-07-01 08:25:51 释放结果集
+2015-07-01 08:25:51 完成整个查询任务,所用时间为0.021188020706177
+2015-07-01 08:25:51 查询 SELECT * FROM `task_project`
+2015-07-01 08:25:51 释放结果集
+2015-07-01 08:25:51 完成整个查询任务,所用时间为0.0045781135559082
+2015-07-01 08:25:51 查询 SELECT * FROM `task_task`
+2015-07-01 08:25:51 释放结果集
+2015-07-01 08:25:51 完成整个查询任务,所用时间为0.0052199363708496
+2015-07-01 08:26:14 查询 SELECT * FROM `task_project`
+2015-07-01 08:26:14 释放结果集
+2015-07-01 08:26:14 完成整个查询任务,所用时间为0.0084950923919678
+2015-07-01 08:26:14 查询 SELECT * FROM `task_project`
+2015-07-01 08:26:14 释放结果集
+2015-07-01 08:26:14 完成整个查询任务,所用时间为0.0030250549316406
+2015-07-01 08:26:14 查询 SELECT * FROM `task_task`
+2015-07-01 08:26:14 释放结果集
+2015-07-01 08:26:14 完成整个查询任务,所用时间为0.0047228336334229
+2015-07-01 08:26:51 查询 SELECT * FROM `task_project`
+2015-07-01 08:26:51 释放结果集
+2015-07-01 08:26:51 完成整个查询任务,所用时间为0.013593912124634
+2015-07-01 08:26:52 查询 SELECT * FROM `task_project`
+2015-07-01 08:26:52 释放结果集
+2015-07-01 08:26:52 完成整个查询任务,所用时间为0.0058789253234863
+2015-07-01 08:26:52 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:26:52 释放结果集
+2015-07-01 08:26:52 完成整个查询任务,所用时间为0.0076069831848145
+2015-07-01 08:27:47 查询 SELECT * FROM `task_project`
+2015-07-01 08:27:47 释放结果集
+2015-07-01 08:27:47 完成整个查询任务,所用时间为0.018661022186279
+2015-07-01 08:27:47 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 08:27:47 释放结果集
+2015-07-01 08:27:47 完成整个查询任务,所用时间为0.0036220550537109
+2015-07-01 08:27:47 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:27:47 释放结果集
+2015-07-01 08:27:47 完成整个查询任务,所用时间为0.0055551528930664
+2015-07-01 08:28:43 查询 SELECT * FROM `task_task` where `project_id` = 1ORDER BY id DESC
+2015-07-01 08:28:43 Query Error: SELECT * FROM `task_task` where `project_id` = 1ORDER BY id DESC
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC' at line 1
+2015-07-01 08:28:43 释放结果集
+2015-07-01 08:28:43 完成整个查询任务,所用时间为0.0059449672698975
+2015-07-01 08:29:06 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:29:06 释放结果集
+2015-07-01 08:29:06 完成整个查询任务,所用时间为0.0055618286132812
+2015-07-01 08:30:32 查询 SELECT * FROM `task_task` where id = 12
+2015-07-01 08:30:32 获取一条记录 SELECT * FROM `task_task` where id = 12
+2015-07-01 08:30:32 查询 SELECT * FROM `task_project` where id = 1
+2015-07-01 08:30:32 获取一条记录 SELECT * FROM `task_project` where id = 1
+2015-07-01 08:30:32 查询 update `task_task` set `status` = "未开始" WHERE `id` = 12
+2015-07-01 08:30:32 更新 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-07-01 08:30:32 查询 update task_task set progress = '0',progress = '0' where 1=1 and id=12
+2015-07-01 08:30:32 释放结果集
+2015-07-01 08:30:32 完成整个查询任务,所用时间为0.016386985778809
+2015-07-01 08:30:36 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:30:36 释放结果集
+2015-07-01 08:30:36 完成整个查询任务,所用时间为0.0049231052398682
+2015-07-01 08:50:11 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:50:11 释放结果集
+2015-07-01 08:50:11 完成整个查询任务,所用时间为0.010081052780151
+2015-07-01 08:50:14 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:50:14 释放结果集
+2015-07-01 08:50:14 完成整个查询任务,所用时间为0.0046210289001465
+2015-07-01 08:50:52 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:50:52 释放结果集
+2015-07-01 08:50:52 完成整个查询任务,所用时间为0.010416984558105
+2015-07-01 08:50:55 查询 SELECT * FROM `task_task` where `project_id` = 1 ORDER BY id DESC
+2015-07-01 08:50:55 释放结果集
+2015-07-01 08:50:55 完成整个查询任务,所用时间为0.0045809745788574
+2015-07-01 08:51:00 查询 SELECT * FROM `task_project`
+2015-07-01 08:51:00 释放结果集
+2015-07-01 08:51:00 完成整个查询任务,所用时间为0.2893750667572
+2015-07-01 08:51:00 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 08:51:00 释放结果集
+2015-07-01 08:51:00 完成整个查询任务,所用时间为0.0035800933837891
+2015-07-01 08:51:00 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:51:00 释放结果集
+2015-07-01 08:51:00 完成整个查询任务,所用时间为0.0050129890441895
+2015-07-01 08:51:56 查询 SELECT * FROM `task_project`
+2015-07-01 08:51:56 释放结果集
+2015-07-01 08:51:56 完成整个查询任务,所用时间为0.01311993598938
+2015-07-01 08:51:56 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 08:51:56 释放结果集
+2015-07-01 08:51:56 完成整个查询任务,所用时间为0.0041019916534424
+2015-07-01 08:51:57 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:51:57 释放结果集
+2015-07-01 08:51:57 完成整个查询任务,所用时间为0.0050640106201172
+2015-07-01 08:52:03 查询 SELECT * FROM `task_task` where `project_id` = 8 ORDER BY id DESC
+2015-07-01 08:52:03 释放结果集
+2015-07-01 08:52:03 完成整个查询任务,所用时间为0.0040080547332764
+2015-07-01 08:56:28 查询 SELECT * FROM `task_project`
+2015-07-01 08:56:28 释放结果集
+2015-07-01 08:56:28 完成整个查询任务,所用时间为0.019546985626221
+2015-07-01 08:56:29 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 08:56:29 释放结果集
+2015-07-01 08:56:29 完成整个查询任务,所用时间为0.0063560009002686
+2015-07-01 08:56:29 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:56:29 释放结果集
+2015-07-01 08:56:29 完成整个查询任务,所用时间为0.0057239532470703
+2015-07-01 08:57:03 查询 SELECT * FROM `task_task` where id = 9
+2015-07-01 08:57:03 获取一条记录 SELECT * FROM `task_task` where id = 9
+2015-07-01 08:57:03 查询 SELECT * FROM `task_project` where id = 2
+2015-07-01 08:57:03 获取一条记录 SELECT * FROM `task_project` where id = 2
+2015-07-01 08:57:03 查询 update `task_task` set `status` = "已结束" WHERE `id` = 9
+2015-07-01 08:57:03 更新 update task_task set progress = '1',progress = '1' where 1=1 and id=9
+2015-07-01 08:57:03 查询 update task_task set progress = '1',progress = '1' where 1=1 and id=9
+2015-07-01 08:57:03 释放结果集
+2015-07-01 08:57:03 完成整个查询任务,所用时间为0.009774923324585
+2015-07-01 08:57:07 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 08:57:07 释放结果集
+2015-07-01 08:57:07 完成整个查询任务,所用时间为0.0077219009399414
+2015-07-01 09:04:00 查询 SELECT * FROM `task_project`
+2015-07-01 09:04:00 释放结果集
+2015-07-01 09:04:00 完成整个查询任务,所用时间为0.015845060348511
+2015-07-01 09:04:00 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 09:04:00 释放结果集
+2015-07-01 09:04:00 完成整个查询任务,所用时间为0.0037670135498047
+2015-07-01 09:04:01 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 09:04:01 释放结果集
+2015-07-01 09:04:01 完成整个查询任务,所用时间为0.0060698986053467
+2015-07-01 09:04:15 查询 SELECT * FROM `task_project`
+2015-07-01 09:04:15 释放结果集
+2015-07-01 09:04:15 完成整个查询任务,所用时间为0.011940002441406
+2015-07-01 09:04:15 查询 SELECT * FROM `task_project` ORDER BY id DESC
+2015-07-01 09:04:15 释放结果集
+2015-07-01 09:04:15 完成整个查询任务,所用时间为0.0071289539337158
+2015-07-01 09:04:15 查询 SELECT * FROM `task_task` ORDER BY id DESC
+2015-07-01 09:04:15 释放结果集
+2015-07-01 09:04:15 完成整个查询任务,所用时间为0.0095298290252686

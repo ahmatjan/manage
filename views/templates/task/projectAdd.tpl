@@ -1,4 +1,4 @@
-<{extends file="layout.tpl"}>
+<{extends file="../layout.tpl"}>
 	<{block name="head" append}>
 		<title><{$title}></title>
 		<link rel="stylesheet" type="text/css" href="../../static/css/codemirror.css">
@@ -14,6 +14,14 @@
 			<div class="side-right">
 				<form action="projectAdd.php" method="post">
 					<label>标题</label>：<input type="text" name="title" />
+					<br/>
+					<label>等级</label>：
+					<select name="priority">
+					 <option value="P0">P0</option>
+					 <option value="P1">P1</option>
+					 <option value="P2" selected="selected">P2</option>
+					 <option value="P3">P3</option>
+					</select>
 					<br/>
 					<label>详情</label>：<textarea name="content" id="content"></textarea>
 					<br/>

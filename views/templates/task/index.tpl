@@ -1,4 +1,4 @@
-<{extends file="layout.tpl" }>
+<{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title>任务</title>
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script>
@@ -57,7 +57,7 @@
 
 				var task = $("#taskTable").lhz_table({
 					"getDataUrl": './getData.php',
-					'updateDataUrl': './tableUPdate.php',
+					'updateDataUrl': './tableUpdate.php',
 					"getFilterUrl": './data/taskFilter.json',
 					'searchDataUrl': './taskSearch.php',
 					"getTheadDate": [{
@@ -87,7 +87,7 @@
 					}, {
 						"field": "used_hour",
 						'name':'已用人时',
-						'ifCanEdit':true
+						'ifCanEdit':false
 					},{
 						"field": "progress",
 						'name':'进度',
@@ -103,10 +103,6 @@
 					}, {
 						"field": "plan_end_time",
 						'name':'计划结束时间',
-						'ifCanEdit':true
-					}, {
-						"field": "start_time",
-						'name':'开始时间',
 						'ifCanEdit':true
 					}],
 					"callbackOperation": function(type,id){
@@ -129,7 +125,7 @@
 		</script>
 		<{/block}>
 		<{block name="content" }>
-			<div class="w960">
+			<div class="w980">
 				<a href="./projectAdd.php">新增项目</a>
 
 				<ul class="switch">

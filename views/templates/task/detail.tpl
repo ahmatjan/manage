@@ -1,4 +1,4 @@
-<{extends file="layout.tpl"}>
+<{extends file="../layout.tpl"}>
 	<{block name="head" append}>
 		<title><{$title}></title>
 		<link rel="stylesheet" type="text/css" href="../css/codemirror.css">
@@ -16,8 +16,19 @@
 	  		</script>
 		<{/block}>
 	<{block name="content"}>
-		<div class="w960">
 			<h1><{$list.title}></h1>
 			<div id="content"><{$list.content}></div>
-		</div>
+
+			<p>评论</p>
+			<ul>
+			<{foreach from=$list_comment item=foo}>
+				<li><{$foo.task_comment}></li>
+			<{/foreach}>
+			</ul>
+
+			<form action="detail.php" method="post">
+				<textarea name="task_comment"> </textarea>
+				<input type="hidden"  name="task_id" value="<{$list.id}>" /><br/>
+			    <input type="submit" />
+			</form>
 	<{/block}>

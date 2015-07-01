@@ -9,7 +9,7 @@ include $_SERVER['DOCUMENT_ROOT'] . $folder_name . '/db.php';
 $data = array();
 $db = new DB();
 
-$list = $db -> query('SELECT * FROM `task_project`');
+$list = $db -> query('SELECT * FROM `task_project` ORDER BY id DESC');
 
 $tbody = array();
 $fieldarr = array();

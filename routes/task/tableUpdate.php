@@ -44,7 +44,7 @@ class progress {
 		if($newProgress == 0){
 			$status = '未开始';
 		}else if($newProgress == 1){
-			$status = '已结束';
+			$status = '已完成';
 		}else{
 			$status = '开发中';
 		}
@@ -52,6 +52,19 @@ class progress {
 		$this -> db -> query('update `task_task` set `status` = "' . $status . '" WHERE `id` = ' . $this -> msg_task['id']);
 		//跟新进度
 		$this -> db -> query('update `task_task` set `progress` = ' . $newProgress . ' WHERE `id` = ' . $this -> msg_task['id']);
+	}
+
+	//更新任务状态
+	public function updateTaskStatus($field, $value) {
+		if($value == 0){
+			$status = '未开始';
+		}else if($value == 1){
+			$status = '已完成';
+		}else{
+			$status = '开发中';
+		}
+		//更新状态
+		$this -> db -> query('update `task_task` set `status` = "' . $status . '" WHERE `id` = ' . $this -> msg_task['id']);
 	}
 
 	//更新项目已用人时
@@ -117,6 +130,7 @@ if (isset($_POST['id'])) {
 		$updateData -> updateTotalProgress();
 	}
 	if ($_POST['field'] == 'progress') {
+		$updateData -> updateTaskStatus($_POST['field'], $_POST['value']);
 		//$updateData -> countProgress($_POST['value']);
 	}
 

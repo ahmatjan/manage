@@ -19,6 +19,8 @@ if(isset($_GET['id'])){
 
 //修改操作
 if(isset($_POST['title'])){
+	
+	$data['id'] = "";
 	$data['title'] = $_POST['title'];
 	$data['content'] = $_POST['content'];
     $db->update('task_task',$data,'id=' . $_POST['id']);

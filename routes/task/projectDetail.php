@@ -14,5 +14,5 @@ $sql = "SELECT * FROM `task_project` where id = " . $id;
 $result = $db -> get_one($sql);
 
 $tpl -> assign("list", $result);
-$tpl -> display("detail.tpl");
+$tpl -> display("projectDetail.tpl");
 ?>
