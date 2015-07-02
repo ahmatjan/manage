@@ -23,13 +23,15 @@ if(isset($_POST['user'])){
 
 	 	//sleep(5);
 
-	    $url = "http://".$_SERVER['HTTP_HOST'].$folder_name."/routes/task/add.php"; 
+	    $url = "http://".$_SERVER['HTTP_HOST'].$folder_name."/"; 
 	    header("Location: ".$url); 
 	  }
 }
 
 if(isset($_GET['action']) && $_GET['action'] == "logout"){   
     unset($_SESSION['username']);
+     $url = "http://".$_SERVER['HTTP_HOST'].$folder_name."/"; 
+	 header("Location: ".$url); 
     exit;
 }
 

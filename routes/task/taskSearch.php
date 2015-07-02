@@ -1,4 +1,5 @@
 <?php
+session_start();
 header("content-Type: text/html; charset=Utf-8");
 $folder_name = 'manage';
 //网站目录名称

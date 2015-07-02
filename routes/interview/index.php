@@ -1,4 +1,5 @@
 <?php
+session_start();
 $folder_name = '/manage';//网站目录名称
 
 include  './config.inc.php';
@@ -14,8 +15,6 @@ while($row = mysql_fetch_array($list)) {
 }
   //var_dump($result);
 $tpl->assign("list", $result);
-$tpl->display("index.tpl");
-
 
 if (ismobile()) {
     //设置默认默认主题为 mobile

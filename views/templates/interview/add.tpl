@@ -1,4 +1,4 @@
-<{extends file="layout.tpl"}>
+<{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title>新增试题</title>
 		<link rel="stylesheet" type="text/css" href="../../static/interview/css/layout.css">
@@ -14,7 +14,7 @@
 	<div class="title">
 		<p><i class="fa fa-plus-square"></i> 新增试题</p>
 	</div>
-	<div class="content">
+	<div class="clearfix">
 		<div class="content-inner">
 			<div class="side-right">
 				<form action="add.php" method="post">

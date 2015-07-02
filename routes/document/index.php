@@ -1,4 +1,5 @@
 <?php
+session_start();
 $folder_name = '/manage';//网站目录名称
 
 include  './config.inc.php';

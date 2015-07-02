@@ -1,11 +1,15 @@
 <{extends file="../layout.tpl" }>
+	<{block name="nav"}>
+	   <{include file="../widget/nav/nav.tpl"}>
+	<{/block}>
+
 	<{block name="head" append}>
 		<title>任务</title>
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script>
 		<script type="text/javascript" src="../../lhz_table/require.js"></script>
 		<script type="text/javascript" src="../../lhz_table/lhz_table.js"></script>
 		<link rel="stylesheet" type="text/css" href="../../lhz_table/lhz_table.css" />
-		<link rel="stylesheet" type="text/css" href="../../static/css/index.css" />
+		<link rel="stylesheet" type="text/css" href="../../static/task/index.css" />
 		<script>
 			$(document).ready(function() {
 				var project = $("#projectTable").lhz_table({
@@ -125,10 +129,9 @@
 		</script>
 		<{/block}>
 		<{block name="content" }>
-			<div class="w980">
 				<a href="./projectAdd.php">新增项目</a>
 
-				<ul class="switch">
+				<ul class="switch clearfix">
 					<li><a href="#" data-type="projectTable">项目列表</a></li>
 					<li><a href="#" data-type="taskTable">任务列表</a></li>
 				</ul>
@@ -136,5 +139,4 @@
 					<div id="projectTable">loading</div>
 					<div id="taskTable" style="display:none;">loading</div>
 				</div>		
-			</div>
 		<{/block}>

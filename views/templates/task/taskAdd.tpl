@@ -1,4 +1,7 @@
-<{extends file="../layout.tpl"}>
+<{extends file="../layout.tpl" }>
+	<{block name="nav"}>
+	   <{include file="../widget/nav/nav.tpl"}>
+	<{/block}>
 	<{block name="head" append}>
 		<title><{$title}></title>
 		<link rel="stylesheet" type="text/css" href="../../static/css/codemirror.css">
@@ -10,7 +13,7 @@
 		<script type="text/javascript" src="../../static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
-	<div class="w960">
+	<div class="clearfix">
 		<div class="side-right">
 			<form action="taskAdd.php" method="post">
 				<label>标题</label>：<input type="text" name="title" />

@@ -1,16 +1,60 @@
-:root {
+.doc_list {
+	width: 1000px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
 }
-::first-line::first-letter:not(x) 
-span + span 
-figure ~ p {
-}
-.switch {
-	overflow: hidden;
-	_zoom: 1;
-	font-weight: bold;
-	font-size:18px; 
-}
-.switch li {
+.doc_cell {
+	width: 325px;
+	height: 200px;
+	margin-left: 12px;
 	float: left;
-	margin-right: 10px;
+}
+.cell_first {
+	background-color: #ff5f57;
+	margin-left: 0px;
+}
+.cell_second {
+	background-color: #f3b530;
+}
+.cell_third {
+	background-color: #8cb51b;
+}
+.cell_cont {
+	width: 280px;
+	height: 160px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+.cell_cont h1 {
+	font-size: 28px;
+	color: #fffffc;
+}
+.cell_cont p {
+	font-size: 14px;
+	color: #fffffc;
+	margin-top: 20px;
+	display: inline-block;
+	height: 75px;
+}
+.doc_cell a {
+	display: inline-block;
+	color: #fffffc;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	width: 65px;
+	height: 25px;
+	float: right;
+}
+.cell_first a {
+	background-color: #ff919d;
+}
+.cell_second a {
+	background-color: #ee7628;
+}
+.cell_third a {
+	background-color: #439427;
 }

@@ -3933,3 +3933,219 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 2015-06-16 07:59:58 获取一条记录 SELECT * FROM `document_doc` where id = 27
 2015-06-16 07:59:58 释放结果集
 2015-06-16 07:59:58 完成整个查询任务,所用时间为0.13121104240417
+2015-07-01 11:00:52 查询 SELECT * FROM `document_doc`
+2015-07-01 11:01:13 查询 SELECT * FROM `document_doc`
+2015-07-01 11:01:14 释放结果集
+2015-07-01 11:01:14 完成整个查询任务,所用时间为0.32392287254333
+2015-07-01 11:11:03 查询 SELECT * FROM `document_doc`
+2015-07-01 11:11:03 释放结果集
+2015-07-01 11:11:03 完成整个查询任务,所用时间为0.36457991600037
+2015-07-01 11:12:39 查询 SELECT * FROM `document_doc`
+2015-07-01 11:12:39 释放结果集
+2015-07-01 11:12:39 完成整个查询任务,所用时间为0.34218406677246
+2015-07-01 11:12:55 查询 SELECT * FROM `document_doc`
+2015-07-01 11:12:56 释放结果集
+2015-07-01 11:12:56 完成整个查询任务,所用时间为0.35100293159485
+2015-07-01 11:13:30 查询 SELECT * FROM `document_doc`
+2015-07-01 11:13:30 释放结果集
+2015-07-01 11:13:30 完成整个查询任务,所用时间为0.32544803619385
+2015-07-01 11:13:55 查询 SELECT * FROM `document_doc`
+2015-07-01 11:13:55 释放结果集
+2015-07-01 11:13:55 完成整个查询任务,所用时间为0.37486815452576
+2015-07-01 11:14:40 查询 SELECT * FROM `document_doc`
+2015-07-01 11:14:40 释放结果集
+2015-07-01 11:14:40 完成整个查询任务,所用时间为0.25776886940002
+2015-07-01 11:14:57 查询 SELECT * FROM `document_doc`
+2015-07-01 11:14:57 释放结果集
+2015-07-01 11:14:57 完成整个查询任务,所用时间为0.45337104797363
+2015-07-01 11:19:20 查询 SELECT * FROM `document_doc`
+2015-07-01 11:19:21 释放结果集
+2015-07-01 11:19:21 完成整个查询任务,所用时间为0.30769991874695
+2015-07-02 01:59:31 查询 SELECT * FROM `document_doc`
+2015-07-02 01:59:32 释放结果集
+2015-07-02 01:59:32 完成整个查询任务,所用时间为0.47604203224182
+2015-07-02 02:03:53 查询 SELECT * FROM `document_doc`
+2015-07-02 02:03:53 释放结果集
+2015-07-02 02:03:53 完成整个查询任务,所用时间为0.020184993743896
+2015-07-02 02:04:15 查询 SELECT * FROM `document_doc`
+2015-07-02 02:04:15 释放结果集
+2015-07-02 02:04:15 完成整个查询任务,所用时间为0.010846138000488
+2015-07-02 02:05:27 查询 SELECT * FROM `document_doc`
+2015-07-02 02:05:27 释放结果集
+2015-07-02 02:05:27 完成整个查询任务,所用时间为0.060497045516968
+2015-07-02 02:15:53 查询 SELECT * FROM `document_doc`
+2015-07-02 02:15:53 释放结果集
+2015-07-02 02:15:53 完成整个查询任务,所用时间为0.017899990081787
+2015-07-02 02:58:36 查询 SELECT * FROM `document_doc`
+2015-07-02 02:58:37 释放结果集
+2015-07-02 02:58:37 完成整个查询任务,所用时间为0.36134314537048
+2015-07-02 03:01:05 查询 SELECT * FROM `document_doc`
+2015-07-02 03:01:05 释放结果集
+2015-07-02 03:01:05 完成整个查询任务,所用时间为0.012984037399292
+2015-07-02 03:01:08 查询 SELECT * FROM `document_project`
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =1
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =2
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =3
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =4
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =5
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =6
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =7
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =8
+2015-07-02 03:01:08 查询 SELECT * FROM `document_category` where id =9
+2015-07-02 03:01:08 释放结果集
+2015-07-02 03:01:08 完成整个查询任务,所用时间为0.32151103019714
+2015-07-02 03:03:49 查询 SELECT * FROM `document_project`
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =1
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =2
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =3
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =4
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =5
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =6
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =7
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =8
+2015-07-02 03:03:49 查询 SELECT * FROM `document_category` where id =9
+2015-07-02 03:03:49 释放结果集
+2015-07-02 03:03:49 完成整个查询任务,所用时间为0.014580011367798
+2015-07-02 03:04:01 查询 SELECT * FROM `document_project`
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =1
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =2
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =3
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =4
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =5
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =6
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =7
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =8
+2015-07-02 03:04:01 查询 SELECT * FROM `document_category` where id =9
+2015-07-02 03:04:01 释放结果集
+2015-07-02 03:04:01 完成整个查询任务,所用时间为0.029133081436157
+2015-07-02 03:04:55 查询 SELECT * FROM `document_doc`
+2015-07-02 03:04:56 释放结果集
+2015-07-02 03:04:56 完成整个查询任务,所用时间为0.31703901290894
+2015-07-02 03:21:07 查询 SELECT * FROM `document_doc`
+2015-07-02 03:21:07 释放结果集
+2015-07-02 03:21:07 完成整个查询任务,所用时间为0.014925003051758
+2015-07-02 03:21:10 查询 SELECT * FROM `document_doc`
+2015-07-02 03:21:10 释放结果集
+2015-07-02 03:21:10 完成整个查询任务,所用时间为0.012331962585449
+2015-07-02 03:22:05 查询 SELECT * FROM `document_doc`
+2015-07-02 03:22:05 释放结果集
+2015-07-02 03:22:05 完成整个查询任务,所用时间为0.010999202728271
+2015-07-02 03:23:22 查询 SELECT * FROM `document_doc`
+2015-07-02 03:23:22 释放结果集
+2015-07-02 03:23:22 完成整个查询任务,所用时间为0.31819105148315
+2015-07-02 03:23:37 查询 SELECT * FROM `document_doc`
+2015-07-02 03:23:37 释放结果集
+2015-07-02 03:23:37 完成整个查询任务,所用时间为0.42569303512573
+2015-07-02 03:59:15 查询 SELECT * FROM `document_doc`
+2015-07-02 03:59:16 释放结果集
+2015-07-02 03:59:16 完成整个查询任务,所用时间为0.39634203910828
+2015-07-02 05:44:01 查询 SELECT * FROM `document_doc`
+2015-07-02 05:44:01 释放结果集
+2015-07-02 05:44:01 完成整个查询任务,所用时间为0.16909718513489
+2015-07-02 05:44:03 查询 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:44:03 获取一条记录 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:45:03 查询 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:45:03 获取一条记录 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:45:03 释放结果集
+2015-07-02 05:45:03 完成整个查询任务,所用时间为0.24130010604858
+2015-07-02 05:45:31 查询 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:45:31 获取一条记录 SELECT * FROM `document_doc` where id = 17
+2015-07-02 05:45:31 释放结果集
+2015-07-02 05:45:31 完成整个查询任务,所用时间为0.029896974563599
+2015-07-02 05:45:40 查询 SELECT * FROM `document_doc`
+2015-07-02 05:45:40 释放结果集
+2015-07-02 05:45:40 完成整个查询任务,所用时间为0.022839069366455
+2015-07-02 05:45:44 查询 SELECT * FROM `document_project`
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =1
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =2
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =3
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =4
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =5
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =6
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =7
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =8
+2015-07-02 05:45:44 查询 SELECT * FROM `document_category` where id =9
+2015-07-02 05:45:44 释放结果集
+2015-07-02 05:45:44 完成整个查询任务,所用时间为0.33109593391418
+2015-07-02 05:45:46 查询 SELECT * FROM `document_doc`
+2015-07-02 05:45:46 释放结果集
+2015-07-02 05:45:46 完成整个查询任务,所用时间为0.038096189498901
+2015-07-02 05:45:48 查询 SELECT * FROM `document_project`
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =1
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =2
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =3
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =4
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =5
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =6
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =7
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =8
+2015-07-02 05:45:48 查询 SELECT * FROM `document_category` where project_id =9
+2015-07-02 05:45:49 释放结果集
+2015-07-02 05:45:49 完成整个查询任务,所用时间为0.55958104133606
+2015-07-02 05:46:24 查询 SELECT * FROM `document_project`
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =1
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =2
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =3
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =4
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =5
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =6
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =7
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =8
+2015-07-02 05:46:24 查询 SELECT * FROM `document_category` where project_id =9
+2015-07-02 05:46:24 释放结果集
+2015-07-02 05:46:24 完成整个查询任务,所用时间为0.42482900619507
+2015-07-02 05:47:05 查询 SELECT * FROM `document_project`
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =1
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =2
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =3
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =4
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =5
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =6
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =7
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =8
+2015-07-02 05:47:05 查询 SELECT * FROM `document_category` where project_id =9
+2015-07-02 05:47:05 释放结果集
+2015-07-02 05:47:05 完成整个查询任务,所用时间为0.4554181098938
+2015-07-02 05:47:50 查询 SELECT * FROM `document_project`
+2015-07-02 05:47:50 查询 SELECT * FROM `document_category` where project_id =1
+2015-07-02 05:47:50 查询 SELECT * FROM `document_category` where project_id =2
+2015-07-02 05:47:50 查询 SELECT * FROM `document_category` where project_id =3
+2015-07-02 05:47:50 查询 SELECT * FROM `document_category` where project_id =4
+2015-07-02 05:47:50 查询 SELECT * FROM `document_category` where project_id =5
+2015-07-02 05:47:51 查询 SELECT * FROM `document_category` where project_id =6
+2015-07-02 05:47:51 查询 SELECT * FROM `document_category` where project_id =7
+2015-07-02 05:47:51 查询 SELECT * FROM `document_category` where project_id =8
+2015-07-02 05:47:51 查询 SELECT * FROM `document_category` where project_id =9
+2015-07-02 05:47:51 释放结果集
+2015-07-02 05:47:51 完成整个查询任务,所用时间为0.088436126708984
+2015-07-02 05:50:48 查询 SELECT * FROM `document_doc`
+2015-07-02 05:50:48 释放结果集
+2015-07-02 05:50:48 完成整个查询任务,所用时间为0.23743104934692
+2015-07-02 05:51:42 查询 SELECT * FROM `document_doc`
+2015-07-02 05:51:42 释放结果集
+2015-07-02 05:51:42 完成整个查询任务,所用时间为0.030994892120361
+2015-07-02 05:56:23 查询 SELECT * FROM `document_doc`
+2015-07-02 05:56:23 释放结果集
+2015-07-02 05:56:23 完成整个查询任务,所用时间为0.020937204360962
+2015-07-02 05:56:25 查询 SELECT * FROM `document_project`
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =1
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =2
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =3
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =4
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =5
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =6
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =7
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =8
+2015-07-02 05:56:25 查询 SELECT * FROM `document_category` where id =9
+2015-07-02 05:56:25 释放结果集
+2015-07-02 05:56:25 完成整个查询任务,所用时间为0.02246880531311
+2015-07-02 05:56:27 查询 SELECT * FROM `document_category` where project_id =2
+2015-07-02 05:56:27 释放结果集
+2015-07-02 05:56:27 完成整个查询任务,所用时间为0.0051629543304443
+2015-07-02 05:56:32 插入 insert into document_doc(id,title,owner,content,category_id) values('','sd','杨小旭','dd','2')
+2015-07-02 05:56:32 查询 insert into document_doc(id,title,owner,content,category_id) values('','sd','杨小旭','dd','2')
+2015-07-02 05:56:32 释放结果集
+2015-07-02 05:56:32 完成整个查询任务,所用时间为0.0077459812164307
+2015-07-02 05:56:32 查询 SELECT * FROM `document_doc`
+2015-07-02 05:56:32 释放结果集
+2015-07-02 05:56:32 完成整个查询任务,所用时间为0.0087270736694336

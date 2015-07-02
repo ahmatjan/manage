@@ -2345,3 +2345,254 @@ Table 'lihuazh2_interview.interview_tag' doesn't exist
 2015-06-25 11:49:37 获取一条记录 SELECT * FROM `interview_tag` where id = 52
 2015-06-25 11:49:37 释放结果集
 2015-06-25 11:49:37 完成整个查询任务,所用时间为0.014889001846313
+2015-07-01 10:54:03 查询 SELECT * FROM `interview_question`
+2015-07-01 10:54:03 释放结果集
+2015-07-01 10:54:03 完成整个查询任务,所用时间为0.28610801696777
+2015-07-01 10:55:06 查询 SELECT * FROM `interview_question`
+2015-07-01 10:55:06 释放结果集
+2015-07-01 10:55:06 完成整个查询任务,所用时间为0.013813972473145
+2015-07-01 10:56:05 查询 SELECT * FROM `interview_question`
+2015-07-01 10:56:05 释放结果集
+2015-07-01 10:56:05 完成整个查询任务,所用时间为0.2094509601593
+2015-07-01 10:57:41 查询 SELECT * FROM `interview_question`
+2015-07-01 10:57:41 释放结果集
+2015-07-01 10:57:41 完成整个查询任务,所用时间为0.11808609962463
+2015-07-01 10:58:08 查询 SELECT * FROM `interview_question`
+2015-07-01 10:58:08 释放结果集
+2015-07-01 10:58:08 完成整个查询任务,所用时间为0.2689151763916
+2015-07-01 10:58:54 查询 SELECT * FROM `interview_question`
+2015-07-01 10:58:54 释放结果集
+2015-07-01 10:58:54 完成整个查询任务,所用时间为0.41527485847473
+2015-07-01 11:01:28 查询 SELECT * FROM `interview_question`
+2015-07-01 11:01:28 释放结果集
+2015-07-01 11:01:28 完成整个查询任务,所用时间为0.045645952224731
+2015-07-01 11:02:40 查询 SELECT * FROM `interview_question`
+2015-07-01 11:02:40 释放结果集
+2015-07-01 11:02:40 完成整个查询任务,所用时间为0.35006403923035
+2015-07-01 11:03:00 查询 SELECT * FROM `interview_question`
+2015-07-01 11:03:00 释放结果集
+2015-07-01 11:03:00 完成整个查询任务,所用时间为0.23790001869202
+2015-07-01 11:03:39 查询 SELECT * FROM `interview_question`
+2015-07-01 11:03:39 释放结果集
+2015-07-01 11:03:39 完成整个查询任务,所用时间为0.010926008224487
+2015-07-01 11:10:50 查询 SELECT * FROM `interview_question`
+2015-07-01 11:10:51 释放结果集
+2015-07-01 11:10:51 完成整个查询任务,所用时间为0.33661389350891
+2015-07-01 11:15:54 查询 SELECT * FROM `interview_question`
+2015-07-01 11:15:54 释放结果集
+2015-07-01 11:15:54 完成整个查询任务,所用时间为0.33785915374756
+2015-07-01 11:16:05 查询 SELECT * FROM `interview_question`
+2015-07-01 11:16:05 释放结果集
+2015-07-01 11:16:05 完成整个查询任务,所用时间为0.013756036758423
+2015-07-01 11:16:23 查询 SELECT * FROM `interview_question`
+2015-07-01 11:16:23 释放结果集
+2015-07-01 11:16:23 完成整个查询任务,所用时间为0.010747194290161
+2015-07-01 11:16:24 查询 SELECT * FROM `interview_question`
+2015-07-01 11:16:24 释放结果集
+2015-07-01 11:16:24 完成整个查询任务,所用时间为0.01469087600708
+2015-07-01 11:16:24 查询 SELECT * FROM `interview_question`
+2015-07-01 11:16:24 释放结果集
+2015-07-01 11:16:24 完成整个查询任务,所用时间为0.023736000061035
+2015-07-01 11:17:13 查询 SELECT * FROM `interview_question`
+2015-07-01 11:17:13 释放结果集
+2015-07-01 11:17:13 完成整个查询任务,所用时间为0.27528405189514
+2015-07-01 11:18:26 查询 SELECT * FROM `interview_question`
+2015-07-01 11:18:26 释放结果集
+2015-07-01 11:18:26 完成整个查询任务,所用时间为0.23778104782104
+2015-07-01 11:19:13 查询 SELECT * FROM `interview_question`
+2015-07-01 11:19:13 释放结果集
+2015-07-01 11:19:13 完成整个查询任务,所用时间为0.31399512290955
+2015-07-01 11:19:18 查询 SELECT * FROM `interview_question`
+2015-07-01 11:19:18 释放结果集
+2015-07-01 11:19:18 完成整个查询任务,所用时间为0.01998496055603
+2015-07-01 11:19:31 查询 SELECT * FROM `interview_question`
+2015-07-01 11:19:31 释放结果集
+2015-07-01 11:19:31 完成整个查询任务,所用时间为0.019874811172485
+2015-07-01 11:20:18 查询 SELECT * FROM `interview_question`
+2015-07-01 11:20:18 释放结果集
+2015-07-01 11:20:18 完成整个查询任务,所用时间为0.30894494056702
+2015-07-02 01:43:24 查询 SELECT * FROM `interview_question`
+2015-07-02 01:43:24 释放结果集
+2015-07-02 01:43:24 完成整个查询任务,所用时间为0.11133408546448
+2015-07-02 01:54:04 查询 SELECT * FROM `interview_question`
+2015-07-02 01:54:04 释放结果集
+2015-07-02 01:54:04 完成整个查询任务,所用时间为0.65251708030701
+2015-07-02 01:56:54 查询 SELECT * FROM `interview_question`
+2015-07-02 01:56:54 释放结果集
+2015-07-02 01:56:54 完成整个查询任务,所用时间为0.39589905738831
+2015-07-02 01:59:27 查询 SELECT * FROM `interview_question`
+2015-07-02 01:59:28 释放结果集
+2015-07-02 01:59:28 完成整个查询任务,所用时间为0.36102390289307
+2015-07-02 02:04:01 查询 SELECT * FROM `interview_question`
+2015-07-02 02:04:01 释放结果集
+2015-07-02 02:04:01 完成整个查询任务,所用时间为0.01860499382019
+2015-07-02 02:05:21 查询 SELECT * FROM `interview_question`
+2015-07-02 02:05:21 释放结果集
+2015-07-02 02:05:21 完成整个查询任务,所用时间为0.014044046401978
+2015-07-02 02:05:23 查询 SELECT * FROM `interview_question`
+2015-07-02 02:05:23 释放结果集
+2015-07-02 02:05:23 完成整个查询任务,所用时间为0.0072700977325439
+2015-07-02 02:05:26 查询 SELECT * FROM `interview_question`
+2015-07-02 02:05:26 释放结果集
+2015-07-02 02:05:26 完成整个查询任务,所用时间为0.0077579021453857
+2015-07-02 02:05:29 查询 SELECT * FROM `interview_question`
+2015-07-02 02:05:29 释放结果集
+2015-07-02 02:05:29 完成整个查询任务,所用时间为0.011366844177246
+2015-07-02 02:33:24 查询 SELECT * FROM `interview_question`
+2015-07-02 02:33:24 释放结果集
+2015-07-02 02:33:24 完成整个查询任务,所用时间为0.35830807685852
+2015-07-02 02:46:07 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:41 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:42 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:43 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:43 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:43 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:44 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:44 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:44 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:45 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:46:46 查询 SELECT * FROM `interview_question`
+2015-07-02 02:57:38 查询 SELECT * FROM `interview_question`
+2015-07-02 02:57:38 释放结果集
+2015-07-02 02:57:38 完成整个查询任务,所用时间为0.25766706466675
+2015-07-02 02:58:39 查询 SELECT * FROM `interview_question`
+2015-07-02 02:58:40 释放结果集
+2015-07-02 02:58:40 完成整个查询任务,所用时间为0.35440897941589
+2015-07-02 02:58:41 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 02:58:41 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 03:01:04 查询 SELECT * FROM `interview_question`
+2015-07-02 03:01:04 释放结果集
+2015-07-02 03:01:04 完成整个查询任务,所用时间为0.012054920196533
+2015-07-02 03:04:08 查询 SELECT * FROM `interview_question`
+2015-07-02 03:04:08 释放结果集
+2015-07-02 03:04:08 完成整个查询任务,所用时间为0.013695955276489
+2015-07-02 03:04:50 查询 SELECT * FROM `interview_question`
+2015-07-02 03:04:51 释放结果集
+2015-07-02 03:04:51 完成整个查询任务,所用时间为0.275151014328
+2015-07-02 03:04:53 查询 SELECT * FROM `interview_question`
+2015-07-02 03:04:53 释放结果集
+2015-07-02 03:04:53 完成整个查询任务,所用时间为0.008465051651001
+2015-07-02 03:04:57 查询 SELECT * FROM `interview_question`
+2015-07-02 03:04:57 释放结果集
+2015-07-02 03:04:57 完成整个查询任务,所用时间为0.012040138244629
+2015-07-02 03:24:06 查询 SELECT * FROM `interview_question`
+2015-07-02 03:24:06 释放结果集
+2015-07-02 03:24:06 完成整个查询任务,所用时间为0.28458881378174
+2015-07-02 03:58:41 查询 SELECT * FROM `interview_question`
+2015-07-02 03:58:41 释放结果集
+2015-07-02 03:58:41 完成整个查询任务,所用时间为0.31051516532898
+2015-07-02 03:59:28 查询 SELECT * FROM `interview_question`
+2015-07-02 03:59:28 释放结果集
+2015-07-02 03:59:28 完成整个查询任务,所用时间为0.021145820617676
+2015-07-02 04:14:11 查询 SELECT * FROM `interview_question`
+2015-07-02 04:14:11 释放结果集
+2015-07-02 04:14:11 完成整个查询任务,所用时间为0.096279144287109
+2015-07-02 05:39:12 查询 SELECT * FROM `interview_question`
+2015-07-02 05:39:12 释放结果集
+2015-07-02 05:39:12 完成整个查询任务,所用时间为0.045330047607422
+2015-07-02 05:39:14 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:39:14 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:39:14 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:39:14 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:39:14 释放结果集
+2015-07-02 05:39:14 完成整个查询任务,所用时间为0.42203402519226
+2015-07-02 05:40:00 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:00 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:00 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:00 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:00 释放结果集
+2015-07-02 05:40:00 完成整个查询任务,所用时间为0.32882499694824
+2015-07-02 05:40:22 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:22 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:22 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:22 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:22 释放结果集
+2015-07-02 05:40:22 完成整个查询任务,所用时间为0.3358850479126
+2015-07-02 05:40:47 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:47 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:40:47 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:47 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:40:47 释放结果集
+2015-07-02 05:40:47 完成整个查询任务,所用时间为0.015480995178223
+2015-07-02 05:43:16 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:16 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:16 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:16 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:16 释放结果集
+2015-07-02 05:43:16 完成整个查询任务,所用时间为0.36594986915588
+2015-07-02 05:43:40 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:40 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:40 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:40 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:40 释放结果集
+2015-07-02 05:43:40 完成整个查询任务,所用时间为0.32603597640991
+2015-07-02 05:43:55 查询 SELECT * FROM `interview_question`
+2015-07-02 05:43:55 释放结果集
+2015-07-02 05:43:55 完成整个查询任务,所用时间为0.01994800567627
+2015-07-02 05:43:57 查询 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:57 获取一条记录 SELECT * FROM `interview_question` where id = 20
+2015-07-02 05:43:57 查询 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:57 获取一条记录 SELECT * FROM `interview_tag` where id = 29
+2015-07-02 05:43:57 释放结果集
+2015-07-02 05:43:57 完成整个查询任务,所用时间为0.017178058624268
+2015-07-02 05:43:59 查询 SELECT * FROM `interview_question`
+2015-07-02 05:43:59 释放结果集
+2015-07-02 05:43:59 完成整个查询任务,所用时间为0.022913932800293
+2015-07-02 05:47:54 查询 SELECT * FROM `interview_question`
+2015-07-02 05:47:54 释放结果集
+2015-07-02 05:47:54 完成整个查询任务,所用时间为0.023328065872192
+2015-07-02 05:49:00 查询 SELECT * FROM `interview_question`
+2015-07-02 05:49:00 释放结果集
+2015-07-02 05:49:00 完成整个查询任务,所用时间为0.4470841884613
+2015-07-02 05:50:17 插入 insert into interview_tag(id,name) values('','tt')
+2015-07-02 05:50:17 查询 insert into interview_tag(id,name) values('','tt')
+2015-07-02 05:50:17 最后插入的id为61
+2015-07-02 05:50:17 插入 insert into interview_question(id,title,tag,content,answer) values('','tt','61','t','t')
+2015-07-02 05:50:17 查询 insert into interview_question(id,title,tag,content,answer) values('','tt','61','t','t')
+2015-07-02 05:50:17 释放结果集
+2015-07-02 05:50:17 完成整个查询任务,所用时间为0.041092872619629
+2015-07-02 05:50:18 查询 SELECT * FROM `interview_question`
+2015-07-02 05:50:18 释放结果集
+2015-07-02 05:50:18 完成整个查询任务,所用时间为0.027463912963867
+2015-07-02 05:50:46 查询 SELECT * FROM `interview_question`
+2015-07-02 05:50:46 释放结果集
+2015-07-02 05:50:46 完成整个查询任务,所用时间为0.024194955825806
+2015-07-02 05:55:26 查询 SELECT * FROM `interview_question`
+2015-07-02 05:55:26 释放结果集
+2015-07-02 05:55:26 完成整个查询任务,所用时间为0.023114919662476
+2015-07-02 05:55:32 插入 insert into interview_tag(id,name) values('','')
+2015-07-02 05:55:32 查询 insert into interview_tag(id,name) values('','')
+2015-07-02 05:55:32 最后插入的id为61
+2015-07-02 05:55:32 插入 insert into interview_question(id,title,owner,tag,content,answer) values('','dd','','61','dd','dd')
+2015-07-02 05:55:32 查询 insert into interview_question(id,title,owner,tag,content,answer) values('','dd','','61','dd','dd')
+2015-07-02 05:55:32 释放结果集
+2015-07-02 05:55:32 完成整个查询任务,所用时间为0.0045371055603027
+2015-07-02 05:55:33 查询 SELECT * FROM `interview_question`
+2015-07-02 05:55:33 释放结果集
+2015-07-02 05:55:33 完成整个查询任务,所用时间为0.030894041061401
+2015-07-02 05:55:58 查询 SELECT * FROM `interview_question`
+2015-07-02 05:55:58 释放结果集
+2015-07-02 05:55:58 完成整个查询任务,所用时间为0.016749143600464
+2015-07-02 05:56:04 插入 insert into interview_tag(id,name) values('','')
+2015-07-02 05:56:04 查询 insert into interview_tag(id,name) values('','')
+2015-07-02 05:56:04 最后插入的id为62
+2015-07-02 05:56:04 插入 insert into interview_question(id,title,owner,tag,content,answer) values('','dd','杨小旭','62','dd','dd')
+2015-07-02 05:56:04 查询 insert into interview_question(id,title,owner,tag,content,answer) values('','dd','杨小旭','62','dd','dd')
+2015-07-02 05:56:04 释放结果集
+2015-07-02 05:56:04 完成整个查询任务,所用时间为0.013327836990356
+2015-07-02 05:56:05 查询 SELECT * FROM `interview_question`
+2015-07-02 05:56:05 释放结果集
+2015-07-02 05:56:05 完成整个查询任务,所用时间为0.032477140426636

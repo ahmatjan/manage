@@ -1,4 +1,5 @@
 <?php
+session_start();
 include  './config.inc.php';
 include  $_SERVER['DOCUMENT_ROOT'] ."/interview/db.php";
 $tpl->assign("title", "leapsoul.cn为你展示smarty模板技术");

@@ -10,7 +10,7 @@
 		<script type="text/javascript" src="../../static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
-		<div class="w960">
+		<div class="clearfix">
 			<div class="side-right">
 				<form action="projectAdd.php" method="post">
 					<label>标题</label>：<input type="text" name="title" />

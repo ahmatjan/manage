@@ -1,4 +1,5 @@
 <?php
+session_start();
 $folder_name = '/manage';//网站目录名称
 include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
 include  './config.inc.php';
@@ -9,6 +10,7 @@ if(isset($_POST['title'])){
 	$db = new DB();
 	$data['id'] = "";
 	$data['title'] = $_POST['title'];
+	$data['owner'] = $_SESSION['username'];
 	$data['content'] = $_POST['content'];
 	$data['category_id'] = $_POST['category_id'];
 	$db->insert('document_doc',$data);

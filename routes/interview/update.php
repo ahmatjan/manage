@@ -1,4 +1,5 @@
 <?php
+session_start();
 $folder_name = '/manage';//网站目录名称
 include  './config.inc.php';
 include  $_SERVER['DOCUMENT_ROOT'] .$folder_name.'/db.php';
@@ -13,7 +14,6 @@ if(isset($_GET['id'])){
 	$result = $db->get_one($sql);
 
 	$tagId = $result['tag'];
-	echo $tagId;
 	$tagSql = "SELECT * FROM `interview_tag` where id = ".$tagId;
 	$tagRes = $db->get_one($tagSql);
 
