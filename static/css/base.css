@@ -1,0 +1,84 @@
+﻿/**
+ * Delta UI 
+ * base.css | 基础模块 v1.0.0
+ * User: wzj
+ * Date: 2015-01-10
+ * Mail: weizhongjian@baidu.com
+ */
+
+
+/* 单行文字溢出时出现省略号，需设定宽度 */ 
+.du-text-overflow{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* h1~h6标题 */ 
+.du-h1,
+.du-h2,
+.du-h3,
+.du-h4,
+.du-h5,
+.du-h6{margin-bottom:15px}
+
+.du-h1{font-size:36px;line-height:42px}
+.du-h2{font-size:24px;line-height:30px}
+.du-h3{font-size:18px;line-height:24px}
+.du-h4{font-size:16px;line-height:22px}
+.du-h5{font-size:14px;line-height:20px}
+.du-h6{font-size:12px;line-height:18px}
+
+*+.du-h1,
+*+.du-h2,
+*+.du-h3,
+*+.du-h4,
+*+.du-h5,
+*+.du-h6{/*margin-top:25px*/}
+
+/* 最常用的文本级语义 */
+p{margin-bottom:15px}       				/*段落*/
+small{font-size:85%}        				/*小型文本*/
+b,strong{font-weight:700}  					/*重要的文本，加粗*/
+em{font-style:italic}       				/*被强调的文本*/
+i{font-style:italic}        				/*斜体*/
+cite{font-style:normal}     				/*引用*/
+mark{color:#000;background:#ff0} 			/*突出显示文本*/
+pre{white-space:pre-wrap}   				/*预格式化的文本*/
+dfn{font-style:italic}      				/*一个定义项目*/
+del{}                       				/*删除线*/
+q{}                         				/*引入的语录*/
+ins{}                       				/*标记文档中插入的文本*/
+blockquote{}                				/*引用文字*/
+:not(pre)>code{font-size:12px;font-family:Consolas,monospace,serif;color:#d05;white-space:nowrap;padding:0 4px;border:1px solid #e5e5e5;border-radius:3px;background:#fafafa}   /*计算机代码文本*/
+
+.uppercase{text-transform:uppercase}    /*文字大写*/
+.lowercase{text-transform:lowercase}    /*文字小写*/
+.capitalize{text-transform:capitalize}  /*首字母大写*/
+
+/* 常用 margin样式 */
+.du-mt5{margin-top:5px}
+.du-mt10{margin-top:10px}
+.du-mt15{margin-top:15px}
+.du-mt20{margin-top:20px}
+
+.du-mb5{margin-bottom:5px}
+.du-mb10{margin-bottom:10px}
+.du-mb15{margin-bottom:15px}
+.du-mb20{margin-bottom:20px}
+
+.du-ml5{margin-left:5px}
+.du-ml10{margin-left:10px}
+.du-ml15{margin-left:15px}
+.du-ml20{margin-left:20px}
+
+.du-mr5{margin-right:5px}
+.du-mr10{margin-right:10px}
+.du-mr15{margin-right:15px}
+.du-mr20{margin-right:20px}
+
+/* 显示隐藏,通常用来与 JS 配合 */
+.du-show{display:block}
+.du-hide{display:none}
+
+/* 设置内联, 减少浮动带来的bug */
+.du-left,
+.du-right{display:inline}
+.du-left{float:left}
+.du-right{float:right}
