@@ -1,11 +1,11 @@
 <!DOCTYPE HTML> 
     <head>    
         <{block name="head"}>
-      	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+      	  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
       	  <link rel="stylesheet" type="text/css" href="/manage/static/css/base.css">
-	      <link rel="stylesheet" type="text/css" href="/manage/static/css/reset.css"> 
+	        <link rel="stylesheet" type="text/css" href="/manage/static/css/reset.css"> 
           <link rel="stylesheet" type="text/css" href="/manage/static/css/index.css">
-	      <link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
+	        <link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
           <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/nav/nav.css">
           <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/footer/footer.css"> 
         <{/block}>     

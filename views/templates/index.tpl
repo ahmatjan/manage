@@ -3,10 +3,10 @@
         <{block name="head"}>
         <title>前端管理平台</title>
       		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-      	  <link rel="stylesheet" type="text/css" href="/manage/static/css/base.css">
-	    <link rel="stylesheet" type="text/css" href="/manage/static/css/reset.css"> 
+      	    <link rel="stylesheet" type="text/css" href="/manage/static/css/base.css">
+	    	<link rel="stylesheet" type="text/css" href="/manage/static/css/reset.css"> 
             <link rel="stylesheet" type="text/css" href="/manage/static/css/index.css">
-	      <link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
+	      	<link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
             <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/nav/nav.css">
             <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/footer/footer.css"> 
         <{/block}>     
@@ -28,7 +28,7 @@
 					<div class="doc_cell cell_second">
 						<div class="cell_cont clearfix">
 							<h1>招聘试题</h1>
-							<p>收集能检验出候选人技术水平的面试试题，安装难易程度分等级，便于运用于一面、二面。</p>
+							<p>收集能检验出候选人技术水平的面试试题，按照难易程度分等级，便于运用于一面、二面。</p>
 							<a href="./routes/interview/" title="立即查看">立即查看</a>
 						</div>
 					</div>
