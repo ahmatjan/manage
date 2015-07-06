@@ -2929,3 +2929,6 @@ Table 'lihuazh2_interview.interview_tag' doesn't exist
 2015-07-06 05:59:49 查询 SELECT * FROM `interview_question`
 2015-07-06 05:59:49 释放结果集
 2015-07-06 05:59:49 完成整个查询任务,所用时间为0.10328793525696
+2015-07-06 08:33:37 查询 SELECT * FROM `interview_question`
+2015-07-06 08:33:37 释放结果集
+2015-07-06 08:33:37 完成整个查询任务,所用时间为0.085999965667725
