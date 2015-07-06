@@ -1,7 +1,3 @@
-html{
-	font-family: 微软雅黑;
-	color: #333333;
-}
 a:hover{
 	text-decoration: none;
 }
@@ -49,7 +45,10 @@ a:hover{
 	float: left;
 }
 .menu_list{
-	width: 42%;
+	width: 80%;
+	float: right;
+}
+.menu-ul {
 	float: right;
 }
 .menu_list ul li{

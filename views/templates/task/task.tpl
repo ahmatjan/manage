@@ -1,7 +1,4 @@
 <{extends file="../layout.tpl" }>
-	<{block name="nav"}>
-	   <{include file="../widget/nav/nav.tpl"}>
-	<{/block}>
 	<{block name="head" append}>
 		<title></title>
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script>
