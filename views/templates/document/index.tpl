@@ -1,7 +1,7 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title>文档管理</title>
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/common.css">
 	<{/block}>
 	<{block name="content"}>
 		<a href="./add.php" title="新增文档">新增文档</a>

@@ -1,12 +1,7 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
-		<title>试题库-首页</title>
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/layout.css">
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/index.css">
-		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.css">
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.js">
-		<script type="text/javascript" src="../../static/interview/js/jquery.min.js"></script> 
+		<title>招聘试题</title>
+		<link rel="stylesheet" type="text/css" href="/manage/static/common.css">
 	<{/block}>
 	<{block name="content"}>
 		<a href="./add.php" title="新增文档">新增</a>	    
