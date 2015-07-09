@@ -1,0 +1,28 @@
+﻿/**
+ * Delta UI 
+ * base.css | 表格模块 v1.0.0
+ * User: wzj
+ * Date: 2015-07-06
+ * Mail: weizhongjian@baidu.com
+ */
+
+
+/* 表格 */
+.du-table{border-collapse:collapse;border-spacing:0;width:100%}
+    .du-table td,
+    .du-table th{padding:8px 8px;border-bottom:1px solid #e5e5e5}
+    .du-table th{text-align:left;font-weight:bold}
+    .du-table td{vertical-align:top}
+    .du-table thead th{vertical-align:bottom}
+
+    .du-table caption,
+    .du-table tfoot{font-size:12px;font-style:italic}
+    .du-table caption{text-align:left;color:#999}
+    .du-table tbody tr.du-active{background:#f0f0f0}
+    
+    .du-table-middle,
+    .du-table-middle td{vertical-align:middle!important}
+    .du-table-striped tbody tr:nth-of-type(odd){background:#fafafa}
+    .du-table-condensed td{padding:4px 8px}
+    .du-table-hover tbody tr:hover{background:#f0f0f0}
+

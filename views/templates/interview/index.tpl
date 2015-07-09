@@ -1,24 +1,32 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
-		<title>试题库-首页</title>
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/layout.css">
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/index.css">
-		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.css">
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.js">
-		<script type="text/javascript" src="../../static/interview/js/jquery.min.js"></script> 
+		<title>招聘试题</title>
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/index.css">
+		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/table/table.css">
+		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/button/button.css">
 	<{/block}>
 	<{block name="content"}>
-		<a href="./add.php" title="新增文档">新增</a>	    
-	    <div class="document">
-	    	<ul> 
+		<a class="du-button du-button-primary" href="./add.php">新增试题</a>
+		<div class="document">
+			<table class="du-table du-table-striped">
+				<thead>
+                    <tr>
+                        <th width="90%">标题</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
 				<{foreach from=$list key=key item=question}>
-				<li>
-					<a href="./detail.php?id=<{$question.id}>" title="<{$question.title}>"><{$question.title}></a> 
-					<a class="edit-bt" href="./update.php?id=<{$question.id}>" title="编辑">编辑</a>
-				</li> 
+			    	<tr>
+			    		<td>
+			    			<a href="./detail.php?id=<{$question.id}>" title="<{$question.title}>"><{$question.title}></a>
+			    		</td>
+			    		<td>
+			    			<a href="./update.php?id=<{$question.id}>" title="编辑">编辑</a>
+			    		</td>
+			    	</tr>
 				<{/foreach}>
-			</ul>	    	
-	    </div>
-		
+				</tbody>
+			</table>
+		</div>
       <{/block}>
