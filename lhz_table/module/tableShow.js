@@ -85,6 +85,12 @@
 			var thead = [];
 			if (data.length > 0) {
 				thead.push("<tr>");
+
+				//开启选择模式
+				if(this.opts.checkboxOpen){
+					thead.push("<td><input type='checkbox' value=''/></td>");
+				}
+
 				$.each(data, function(index, item) {
 					thead.push("<td id='" + item.field + "' ifCanEdit='" + item.ifCanEdit + "'>" + item.name + "</td>");
 				});
@@ -116,6 +122,10 @@
 				$.each(tbodyObj, function(index, item) {
 					var id = item.data.id;
 					tbody.push('<tr data-rowId="' + item.data.id + '">');
+					//开启选择模式
+					if(t_this.opts.checkboxOpen){
+						tbody.push('<td><input type="checkbox" value="' + id + '" /></td>');
+					}
 					var tbodyData = item.data;
 					$.each(theadData, function(index, item) {
 						var key = item.field;

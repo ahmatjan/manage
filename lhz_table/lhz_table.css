@@ -11,6 +11,8 @@
 .lhz-tb td {
 	border: 1px #ddd solid;
 	padding: 2px 3px;
+	word-break: keep-all;
+	white-space: nowrap;
 }
 .lhz-tb thead {
 	text-align: center;
@@ -34,8 +36,8 @@
 	border-radius: 3px;
 	font-size: 1em;
 }
-/*百分比显示*/
 
+/*百分比显示*/
 .percent-box {
 	display: block;
 	border: 1px solid #CCCCCC;
@@ -57,8 +59,7 @@
 	width: 100%;
 	margin: 0.2em 0;
 }
-.lhz-filter dl dt,
-.lhz-filter dl dd {
+.lhz-filter dl dt, .lhz-filter dl dd {
 	float: left;
 	margin-right: 20px;
 }

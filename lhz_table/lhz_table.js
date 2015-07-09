@@ -62,6 +62,7 @@ require.config({
 	$.fn.lhz_table.defaults = {
 		"editOpen": true,
 		"editBatch": false,
+		"checkboxOpen": true,
 		"filterOpen": true,
 		"getDataUrl": './data/data.json',
 		"getFilterUrl": '../../lhz_table/test/data/tableFilter.json',

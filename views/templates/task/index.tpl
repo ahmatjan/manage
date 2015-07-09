@@ -121,15 +121,26 @@
 	            	$("#"+key).show().siblings().hide();
 	            });
 
+                //跳转发送邮件页面
+	            $('#sendMail').click(function(){
+	              var parameterArr = new Array();
+                   $('.lhz-tb :checkbox:checked').each(function(){
+                   		parameterArr.push($(this).val());
+                   });
+                   var parameters = parameterArr.join(",");  
+					console.log(parameters);
+	            	window.open('./emailSHow.php?ids='+parameters);
+	            });
+
 			});
 		</script>
 		<{/block}>
 		<{block name="content" }>
 				<a href="./projectAdd.php">新增项目</a>
-
 				<ul class="switch clearfix">
-					<li><a href="#" data-type="projectTable">项目列表</a></li>
+					<li style="font-size:20px"><a href="#" data-type="projectTable">项目列表</a></li>
 					<li><a href="#" data-type="taskTable">任务列表</a></li>
+					<li><a href="#" id="sendMail">发送邮件</a></li>
 				</ul>
 				<div>
 					<div id="projectTable">loading</div>
