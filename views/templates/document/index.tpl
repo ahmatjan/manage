@@ -1,7 +1,7 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title>文档管理</title>
-		<link rel="stylesheet" type="text/css" href="/manage/static/css/index.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/table/table.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/button/button.css">
 		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.css">

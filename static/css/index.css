@@ -58,21 +58,3 @@
 .cell_third a {
 	background-color: #439427;
 }
-/*文档管理及招聘试题*/
-.document{
-	margin-top: 20px;
-	margin-bottom: 50px;
-}
-.document .du-table td,.du-table th{
-	padding:10px 10px;border-bottom:1px solid #f1f1f1;
-}
-.document .du-table-striped tbody tr:nth-of-type(odd){
-	background:#fdfdfd;
-}
-.document a{
-	font:12px/1.5 arial,\5b8b\4f53;
-	color: #666;
-}
-.document a:hover{
-	color: #08c;
-}
