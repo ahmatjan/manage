@@ -1,19 +1,18 @@
-.wrap{ width: 960px; margin: 0 auto;}
-h1{text-align: center;}
-h1,h2,h3,h4,h5{
-	font-size: 16px;
-	font-weight: normal;
-	margin:0;
+.examination{
+	width: 980px;
+	margin:0px auto;
 }
-
-.detail-item{
-	color: #1fa67a;
-	font-size: 22px;
+.document-title{
+	border-bottom: 1px solid #ececec;
+	text-align: center;
+}
+.document-title h1{
+	font-size: 18px;
 	font-weight: bold;
-	border-bottom: 1px solid #E0E0E0;
-	padding-top: 15px;
+	color: #333;
 }
-.detail-item-content{
-	color: #707070;
-	line-height: 18px;
+.examination-questions h2,.question-answer h2{
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
 }
