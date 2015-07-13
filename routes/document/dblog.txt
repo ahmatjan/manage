@@ -4845,3 +4845,6 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 2015-07-13 02:13:49 查询 SELECT * FROM `document_doc`
 2015-07-13 02:13:49 释放结果集
 2015-07-13 02:13:49 完成整个查询任务,所用时间为0.010743141174316
+2015-07-13 07:32:59 查询 SELECT * FROM `document_doc`
+2015-07-13 07:32:59 释放结果集
+2015-07-13 07:32:59 完成整个查询任务,所用时间为0.092087030410767

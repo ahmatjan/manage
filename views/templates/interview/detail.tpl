@@ -7,11 +7,13 @@
 		<div class="examination">
 			<div class="document-title">
 				<h1><{$list.title}></h1>
-			</div>
+			</div> 
+
 			<div class="examination-questions">
 				<h2>试题内容(<{$list.tag}>)：</h2>
 				<{$list.content}>
 			</div>
+			
 			<div class="question-answer">
 				<h2>试题答案：</h2>
 				<{$list.answer}>
