@@ -1,6 +1,27 @@
-<!DOCTYPE HTML> 
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-07-17 06:51:13
+         compiled from "D:\Program Files (x86)\wamp\www\manage\views\templates\index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:1900855a46c98ae2b79-29441101%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'e27638570ab368c794bad3c3c0539d0eb3d08050' => 
+    array (
+      0 => 'D:\\Program Files (x86)\\wamp\\www\\manage\\views\\templates\\index.tpl',
+      1 => 1437115870,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '1900855a46c98ae2b79-29441101',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.21-dev',
+  'unifunc' => 'content_55a46c98b4eeb2_10614924',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_55a46c98b4eeb2_10614924')) {function content_55a46c98b4eeb2_10614924($_smarty_tpl) {?><!DOCTYPE HTML> 
     <head>    
-        <{block name="head"}>
+        
         <title>前端管理平台</title>
       		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
       	    <link rel="stylesheet" type="text/css" href="/manage/static/css/base.css">
@@ -10,12 +31,17 @@
 	      	<link rel="stylesheet" type="text/css" href="/manage/static/css/banner.css">
             <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/nav/nav.css">
             <link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/footer/footer.css"> 
-            <script type="text/javascript" src="/manage/static/js/jquery-1.9.1.js"></script>
-          	<script type="text/javascript" src="/manage/static/js/banner.js"></script>
-        <{/block}>     
+            <?php echo '<script'; ?>
+ type="text/javascript" src="/manage/static/js/jquery-1.9.1.js"><?php echo '</script'; ?>
+>
+          	<?php echo '<script'; ?>
+ type="text/javascript" src="/manage/static/js/banner.js"><?php echo '</script'; ?>
+>
+             
     </head> 
     <body>
-        <{include file="./widget/nav/nav.tpl"}>
+        <?php echo $_smarty_tpl->getSubTemplate ("./widget/nav/nav.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
         <div class="slide-main" id="touchMain">
           <a class="prev" href="javascript:;" stat="prev1001"><img src="/manage/static/images/l-btn.png" /></a>
           <div class="slide-box" id="slideContent">
@@ -62,6 +88,8 @@
 					</div>
 				</div>
         </div>
-         <{include file="./widget/footer/footer.tpl"}>
+         <?php echo $_smarty_tpl->getSubTemplate ("./widget/footer/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
     </body> 
 </html> 
+<?php }} ?>

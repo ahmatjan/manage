@@ -1,12 +1,12 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-07-17 06:50:02
-         compiled from "D:\Program Files (x86)\wamp\www\manage\views\templates\document\index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2764955a369abdae347-03944650%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-07-17 06:45:08
+         compiled from "D:\Program Files (x86)\wamp\www\manage\views\templates\interview\index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:941655a46c9c525b64-54833380%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    'b9ffc3aa17dc290883ee36e1d606ffde609e6459' => 
+    '78d5dd3fed7666f8f9ecc99cc679e83082fc9795' => 
     array (
-      0 => 'D:\\Program Files (x86)\\wamp\\www\\manage\\views\\templates\\document\\index.tpl',
+      0 => 'D:\\Program Files (x86)\\wamp\\www\\manage\\views\\templates\\interview\\index.tpl',
       1 => 1436778424,
       2 => 'file',
     ),
@@ -17,15 +17,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2764955a369abdae347-03944650',
+  'nocache_hash' => '941655a46c9c525b64-54833380',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.21-dev',
-  'unifunc' => 'content_55a369abe7af44_59312078',
+  'unifunc' => 'content_55a46c9c660e04_06516966',
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55a369abe7af44_59312078')) {function content_55a369abe7af44_59312078($_smarty_tpl) {?><!DOCTYPE HTML> 
+<?php if ($_valid && !is_callable('content_55a46c9c660e04_06516966')) {function content_55a46c9c660e04_06516966($_smarty_tpl) {?><!DOCTYPE HTML> 
     <head>    
         
       	  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -42,11 +42,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
  type="text/javascript" src="/manage/static/js/banner.js"><?php echo '</script'; ?>
 >
         
-		<title>文档管理</title>
+		<title>招聘试题</title>
 		<link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/table/table.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/button/button.css">
-		<link rel="stylesheet" type="text/css" href="/manage/static/document/index.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/index.css">
 	     
     </head> 
     <body>
@@ -75,7 +75,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         </div>
         <div class="w980">
             
-		<a class="du-button du-button-primary" href="./add.php">新增文档</a>
+		<a class="du-button du-button-primary" href="./add.php">新增试题</a>
 		<div class="document">
 			<table class="du-table du-table-striped">
 				<thead>
@@ -85,30 +85,30 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                     </tr>
                 </thead>
                 <tbody>
-				<?php  $_smarty_tpl->tpl_vars['doc'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['doc']->_loop = false;
+				<?php  $_smarty_tpl->tpl_vars['question'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['question']->_loop = false;
  $_smarty_tpl->tpl_vars['key'] = new Smarty_Variable;
  $_from = $_smarty_tpl->tpl_vars['list']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
-foreach ($_from as $_smarty_tpl->tpl_vars['doc']->key => $_smarty_tpl->tpl_vars['doc']->value) {
-$_smarty_tpl->tpl_vars['doc']->_loop = true;
- $_smarty_tpl->tpl_vars['key']->value = $_smarty_tpl->tpl_vars['doc']->key;
+foreach ($_from as $_smarty_tpl->tpl_vars['question']->key => $_smarty_tpl->tpl_vars['question']->value) {
+$_smarty_tpl->tpl_vars['question']->_loop = true;
+ $_smarty_tpl->tpl_vars['key']->value = $_smarty_tpl->tpl_vars['question']->key;
 ?>
 			    	<tr>
 			    		<td>
-			    			<a href="./detail.php?id=<?php echo $_smarty_tpl->tpl_vars['doc']->value['id'];?>
-" title="<?php echo $_smarty_tpl->tpl_vars['doc']->value['title'];?>
-"><?php echo $_smarty_tpl->tpl_vars['doc']->value['title'];?>
+			    			<a href="./detail.php?id=<?php echo $_smarty_tpl->tpl_vars['question']->value['id'];?>
+" title="<?php echo $_smarty_tpl->tpl_vars['question']->value['title'];?>
+"><?php echo $_smarty_tpl->tpl_vars['question']->value['title'];?>
 </a>
 			    		</td>
 			    		<td>
-			    			<a href="./update.php?id=<?php echo $_smarty_tpl->tpl_vars['doc']->value['id'];?>
+			    			<a href="./update.php?id=<?php echo $_smarty_tpl->tpl_vars['question']->value['id'];?>
 " title="编辑">编辑</a>
 			    		</td>
 			    	</tr>
 				<?php } ?>
 				</tbody>
 			</table>
-		</div>			
-	 
+		</div>
+       
         </div>
         <?php echo $_smarty_tpl->getSubTemplate ("../widget/footer/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
