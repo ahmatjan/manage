@@ -28,7 +28,6 @@ if(isset($_POST['title'])){
 	$data['hour'] = $_POST['hour'];
 	$data['owner'] = $_SESSION['username'];
 	$data['add_time'] = date("Y-m-d H:i:s");
-	$data['end_time'] = $_POST['end_time'];
 	$data['project_id'] = $_POST['project_id'];
   $db->insert('task_task',$data);
 

@@ -23,6 +23,9 @@
 					 <option value="P3">P3</option>
 					</select>
 					<br/>
+					<label>计划完成时间</label>：
+					<input type="text" name="plan_end_time" id="plan_end_time" />
+					<br/>
 					<label>详情</label>：<textarea name="content" id="content"></textarea>
 					<br/>
 					<input type="submit" value="提交" />

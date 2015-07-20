@@ -4,9 +4,11 @@
 		<link rel="stylesheet" type="text/css" href="../../static/document/codemirror.css">
 		<link rel="stylesheet" type="text/css" href="../../static/document/markdown.css">
 		<link rel="stylesheet" type="text/css" href="../../static/document/detail.css">
+
 		<script type="text/javascript" src="../../static/js/jquery.min.js"></script> 
 		<script type="text/javascript" src="../../static/js/codemirror.js"></script> 
-		<script type="text/javascript" src="../../static/js/marked.js"></script> 
+		<link rel="stylesheet" type="text/css" href="/manage/static/js/markdown.css">
+		<script type="text/javascript" src="/manage/static/css/marked.js"></script> 
 		<script type="text/javascript">
 			$(function() {
 				  (function() {

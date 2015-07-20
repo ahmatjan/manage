@@ -1,6 +1,8 @@
 <?php
 $folder_name = '/manage';//网站目录名称
 
+define('ROOT_PATH',dirname(__FILE__)); 
+
 include $_SERVER['DOCUMENT_ROOT'].$folder_name.'/smarty/libs/Smarty.class.php';
 define('SMARTY_ROOT', $_SERVER['DOCUMENT_ROOT'].$folder_name.'/views');
 $tpl = new Smarty();

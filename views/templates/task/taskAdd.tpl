@@ -21,8 +21,8 @@
 				 <option value="bug">BUG</option>
 				</select>	
 				<br/>
-				<label>完成时间</label>：
-				<input type="text" name="end_time" id="picker_endtime" />
+				<label>计划完成时间</label>：
+				<input type="text" name="plan_end_time" id="plan_end_time" />
 				<br/>
 				<label>等级</label>：
 				<select name="priority">

@@ -135,8 +135,13 @@
 			});
 		</script>
 		<{/block}>
+
+		<{block name="banner" }>
+ 			<{include file="../widget/banner/banner.tpl"}>	
+		<{/block}>
+
 		<{block name="content" }>
-				<a href="./projectAdd.php">新增项目</a>
+				<a href="./projectAdd.php" class="du-button du-button-primary">新增项目</a>
 				<ul class="switch clearfix">
 					<li style="font-size:20px"><a href="#" data-type="projectTable">项目列表</a></li>
 					<li><a href="#" data-type="taskTable">任务列表</a></li>

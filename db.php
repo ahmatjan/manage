@@ -36,11 +36,14 @@ Class DB {
         @mysql_query("set names ".$charset);
     }
      
-    //查询 
-    public function query($sql) {
+    //查询
+    public function query($sql,$needLastId = false) {
         $this->write_log("查询 ".$sql);
         $query = mysql_query($sql,$this->link_id);
         if(!$query) $this->halt('Query Error: ' . $sql);
+        if($needLastId){
+           return $lastID = mysql_insert_id(); 
+        }
         return $query;
     }
      
@@ -58,7 +61,7 @@ Class DB {
         $query = $this->query($sql);
         $i = 0;
         $rt = array();
-        while($row =& mysql_fetch_array($query,$result_type)) {
+        while($row = mysql_fetch_array($query,$result_type)) {
             $rt[$i]=$row;
             $i++;
         }
@@ -67,7 +70,7 @@ Class DB {
     }
      
     //插入
-    public function insert($table,$dataArray) {
+    public function insert($table,$dataArray,$needLastId = false) {
         $field = "";
         $value = "";
         if( !is_array($dataArray) || count($dataArray)<=0) {
@@ -82,6 +85,9 @@ Class DB {
         $value = substr( $value,0,-1);
         $sql = "insert into $table($field) values($value)";
         $this->write_log("插入 ".$sql);
+        if(isset($needLastId)){
+           return $this->query($sql,true);
+        }
         if(!$this->query($sql)) return false;
         return true;
     }

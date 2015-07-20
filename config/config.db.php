@@ -10,4 +10,6 @@
     $db_config["logfilepath"] = './';//开启日志
 
     $folder_name = '/manage';//网站目录名称
+
+    define('ROOT_PATH',dirname(__FILE__)); 
 ?>

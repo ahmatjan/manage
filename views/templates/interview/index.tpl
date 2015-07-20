@@ -4,8 +4,12 @@
 		<link rel="stylesheet" type="text/css" href="/manage/static/css/common.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/table/table.css">
 		<link rel="stylesheet" type="text/css" href="/manage/views/templates/widget/button/button.css">
-		<link rel="stylesheet" type="text/css" href="/manage/static/interview/index.css">
 	<{/block}>
+	
+	<{block name="banner"}>
+		<{include file="../widget/banner/banner.tpl"}>	
+	<{/block}>
+
 	<{block name="content"}>
 		<a class="du-button du-button-primary" href="./add.php">新增试题</a>
 		<div class="document">

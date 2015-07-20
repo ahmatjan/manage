@@ -6,7 +6,7 @@ $folder_name = 'manage';
 include './config.inc.php';
 include $_SERVER['DOCUMENT_ROOT'] . $folder_name . '/db.php';
 
-class progress {
+class Progress {
 	public $id;
 	public $db;
 	public $msg_task;
@@ -31,6 +31,12 @@ class progress {
 		$this -> msg_project = $this -> db -> get_one($sql_project);
 	}
 
+    //获取项目所属任务列表
+	public function getTaskList() {
+		$sql = "SELECT * FROM `task_task` where project_id = " . $this -> msg_task['project_id'];
+		return $this -> db -> get_all($sql);
+	}
+
 	//更新任务进度比例
 	public function updateTaskProgress($field, $value) {
 		if ($field == 'used_hour') {
@@ -53,6 +59,38 @@ class progress {
 		$this -> db -> query('update `task_task` set `status` = "' . $status . '" WHERE `id` = ' . $this -> msg_task['id']);
 		//跟新进度
 		$this -> db -> query('update `task_task` set `progress` = ' . $newProgress . ' WHERE `id` = ' . $this -> msg_task['id']);
+	}
+
+	//任务同步项目状态
+	public function tasksToUpdateProjectStatus() {
+		$taskList = $this -> getTaskList();
+		$taskNumber = count($taskList);
+        $notStart = 0;//未开始的任务数
+        $startIng = 0;//进行中
+        $complete = 0;//已完成
+		foreach ($taskList as $task) { 
+		    switch ($task['status']) { 
+			     case '未开始':           
+			       ++$notStart;        
+			       break;                  
+			     case '开发中': 
+			       ++$startIng; 
+			       break; 
+  			     case '已完成': 
+			       ++$complete; 
+			       break; 
+			     default: 
+			       break; 
+			}
+		} 
+        if($taskNumber == $notStart){
+            $status = '未开始';
+        }else if($taskNumber == $complete){
+			$status = '已完成';
+        }else{
+			$status = '开发中';
+        }
+        $this -> db -> query('update `task_project` set `status` = "' . $status . '" WHERE `id` = ' . $this -> msg_project['id']);
 	}
 
 	//更新任务状态
@@ -116,10 +154,11 @@ class progress {
 
 }
 
+
 if (isset($_POST['id'])) {
 	$db = new DB();
 	$id = $_POST['id'];
-	$updateData = new progress($db, $id);
+	$updateData = new Progress($db, $id);
 	if ($_POST['field'] == 'used_hour') {
 		$updateData -> updateTaskProgress($_POST['field'], $_POST['value']);
 		$updateData -> updateTotalUsedHour($_POST['value']);
@@ -132,6 +171,7 @@ if (isset($_POST['id'])) {
 	}
 	if ($_POST['field'] == 'progress') {
 		$updateData -> updateTaskStatus($_POST['field'], $_POST['value']);
+		$updateData -> tasksToUpdateProjectStatus();
 		//$updateData -> countProgress($_POST['value']);
 	}
 

@@ -22,6 +22,8 @@ if(isset($_POST['title'])){
   	$data['title'] = $_POST['title'];
     $data['owner'] = $_SESSION['username'];
     $data['priority'] = $_POST['priority'];
+    $data['owner'] = $_SESSION['username'];
+    $data['plan_end_time'] = $_POST['plan_end_time'];
   	$data['content'] = $_POST['content'];
     $db->insert('task_project',$data);
 
