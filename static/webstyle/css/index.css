@@ -1,0 +1,6 @@
+.CodeMirror {
+border: 1px solid #ccc;
+font-size: 13px;
+}
+.left-module{float: left;}
+.right-module{float: right;}

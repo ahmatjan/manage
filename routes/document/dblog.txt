@@ -4860,3 +4860,14 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 2015-07-17 06:50:02 查询 SELECT * FROM `document_doc`
 2015-07-17 06:50:02 释放结果集
 2015-07-17 06:50:02 完成整个查询任务,所用时间为0.11391401290894
+2015-07-20 09:37:44 查询 SELECT * FROM `document_doc`
+2015-07-20 09:42:36 查询 SELECT * FROM `document_doc`
+2015-07-20 09:42:36 释放结果集
+2015-07-20 09:42:36 完成整个查询任务,所用时间为0.49304890632629
+2015-07-20 09:42:39 查询 SELECT * FROM `document_doc` where id = 17
+2015-07-20 09:42:39 获取一条记录 SELECT * FROM `document_doc` where id = 17
+2015-07-20 09:42:39 释放结果集
+2015-07-20 09:42:39 完成整个查询任务,所用时间为0.39903998374939
+2015-07-20 09:42:41 查询 SELECT * FROM `document_doc`
+2015-07-20 09:42:41 释放结果集
+2015-07-20 09:42:41 完成整个查询任务,所用时间为0.31103110313416
