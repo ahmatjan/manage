@@ -1,13 +1,13 @@
 <{extends file="layout.tpl"}>
 	<{block name="head" append}>
 		<title>试题内容</title>
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/layout.css">
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/codemirror.css">
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/detail.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/css/layout.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/css/codemirror.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/css/detail.css">
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<script type="text/javascript" src="../../static/interview/js/jquery.min.js"></script> 
-		<script type="text/javascript" src="../../static/interview/js/codemirror.js"></script> 
-		<script type="text/javascript" src="../../static/interview/js/marked.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/jquery.min.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/codemirror.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/marked.js"></script> 
 		<script type="text/javascript">
 			$(function() {
 				  //(function() {

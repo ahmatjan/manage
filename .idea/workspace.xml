@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1dcb785-00cf-4dd1-80fb-7fd842a9b887" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\wamp\www\manage\static\interview\css\codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\static\interview\css\markdown.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-13-11-06\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-13-11-06\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-13-11-06\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-32-46\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-32-46\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-32-46\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-35-35\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-35-35\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-15-35-35\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-06-51\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-06-51\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-06-51\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-10\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-10\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-10\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-54\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-54\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-08-54\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-10-03\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-10-03\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-10-03\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-11-37\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-11-37\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-11-37\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-12-26\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-12-26\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-12-26\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-13-09\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-13-09\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\upload\webstyle\module\2015-07-19-19-13-09\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\document\layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\interview\mobile\header.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035282.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035382.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035411.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035434.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035498.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035510.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035616.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035620.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035626.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035857.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035961.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035972.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035977.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437035988.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036027.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036036.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036042.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036062.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036096.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036102.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036760.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036764.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437036845.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037055.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037070.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037092.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037246.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037271.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437037282.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040651.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040781.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040783.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040897.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040913.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437040934.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042232.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042288.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042325.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042328.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042332.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042392.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042442.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042450.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437042455.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437043131.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044764.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044771.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044775.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044777.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044800.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044812.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437044856.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437121539.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437125344.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437127006.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437127009.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437280857.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437301741.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303036.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303047.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303050.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303057.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303110.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437303685.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437304005.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437304201.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437304295.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437304756.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\wamp\www\manage\views\templates\webstyle\temp\1437304929.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/interview/js/add.js" afterPath="$PROJECT_DIR$/static/interview/js/add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/add.js" afterPath="$PROJECT_DIR$/static/js/add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/document/js/add.js" afterPath="$PROJECT_DIR$/views/templates/document/js/add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/webstyle/add.php" afterPath="$PROJECT_DIR$/routes/webstyle/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/add.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/add.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/mobile/add.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/mobile/add.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/webstyle/add.tpl" afterPath="$PROJECT_DIR$/views/templates/webstyle/add.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/widget/banner/css/banner.css" afterPath="$PROJECT_DIR$/views/templates/widget/banner/css/banner.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/common.css" afterPath="$PROJECT_DIR$/static/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/document/dblog.txt" afterPath="$PROJECT_DIR$/routes/document/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/interview/dblog.txt" afterPath="$PROJECT_DIR$/routes/interview/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/task/dblog.txt" afterPath="$PROJECT_DIR$/routes/task/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/user/dblog.txt" afterPath="$PROJECT_DIR$/routes/user/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/webstyle/dblog.txt" afterPath="$PROJECT_DIR$/routes/webstyle/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/task/detail.php" afterPath="$PROJECT_DIR$/routes/task/detail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/document/detail.tpl" afterPath="$PROJECT_DIR$/views/templates/document/detail.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/mobile/detail.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/mobile/detail.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/detail.tpl" afterPath="$PROJECT_DIR$/views/templates/task/detail.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/webstyle/detail.tpl" afterPath="$PROJECT_DIR$/views/templates/webstyle/detail.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/emailShow.tpl" afterPath="$PROJECT_DIR$/views/templates/task/emailShow.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/webstyle/css/index.css" afterPath="$PROJECT_DIR$/static/webstyle/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/webstyle/js/index.js" afterPath="$PROJECT_DIR$/static/webstyle/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/webstyle/index.php" afterPath="$PROJECT_DIR$/routes/webstyle/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/index.tpl" afterPath="$PROJECT_DIR$/views/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/mobile/index.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/mobile/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/index.tpl" afterPath="$PROJECT_DIR$/views/templates/task/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/webstyle/index.tpl" afterPath="$PROJECT_DIR$/views/templates/webstyle/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/layout.tpl" afterPath="$PROJECT_DIR$/views/templates/layout.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/loadElement.js" afterPath="$PROJECT_DIR$/static/js/loadElement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/user/login.tpl" afterPath="$PROJECT_DIR$/views/templates/user/login.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/widget/nav/nav.tpl" afterPath="$PROJECT_DIR$/views/templates/widget/nav/nav.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/projectAdd.tpl" afterPath="$PROJECT_DIR$/views/templates/task/projectAdd.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/projectDetail.tpl" afterPath="$PROJECT_DIR$/views/templates/task/projectDetail.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/projectEdit.tpl" afterPath="$PROJECT_DIR$/views/templates/task/projectEdit.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/user/register.tpl" afterPath="$PROJECT_DIR$/views/templates/user/register.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/task.tpl" afterPath="$PROJECT_DIR$/views/templates/task/task.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/taskAdd.tpl" afterPath="$PROJECT_DIR$/views/templates/task/taskAdd.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/task/taskEdit.tpl" afterPath="$PROJECT_DIR$/views/templates/task/taskEdit.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/update.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/update.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/interview/mobile/update.tpl" afterPath="$PROJECT_DIR$/views/templates/interview/mobile/update.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templates/webstyle/update.tpl" afterPath="$PROJECT_DIR$/views/templates/webstyle/update.tpl" />
+    </list>
+    <ignored path="manage.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="manage" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/routes/public/fileUpload.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1dcb785-00cf-4dd1-80fb-7fd842a9b887" name="Default" comment="" />
+      <created>1437547450485</created>
+      <updated>1437547450485</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/public/fileUpload.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.124047875" vertical-offset="399" max-vertical-offset="4598">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

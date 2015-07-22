@@ -1,12 +1,16 @@
 <{extends file="../layout.tpl"}>
 	<{block name="head" append}>
 		<title><{$title}></title>
-		<link rel="stylesheet" type="text/css" href="../../static/css/codemirror.css">
-		<link rel="stylesheet" type="text/css" href="../../static/css/add.css">
-		<script type="text/javascript" src="../../static/js/jquery.min.js"></script> 
-		<script type="text/javascript" src="../../static/js/codemirror.js"></script> 
-		<script type="text/javascript" src="../../static/js/marked.js"></script> 
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/codemirror.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/add.css">
+		<script type="text/javascript" src="/manage/static/js/codemirror.js"></script> 
+		<script type="text/javascript" src="/manage/static/js/marked.js"></script> 
 		<{/block}>
+
+	<{block name="banner" }>
+		<{include file="../widget/banner/banner.tpl"}>	
+	<{/block}>
+	
 	<{block name="content"}>
 		<div>
 		<form action="login.php" method="post">

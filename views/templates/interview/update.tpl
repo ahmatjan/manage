@@ -1,13 +1,12 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title>编辑试题</title>
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/codemirror.css">
-		<link rel="stylesheet" type="text/css" href="../../static/interview/css/add.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/css/codemirror.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/interview/css/add.css">
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<script type="text/javascript" src="../../static/interview/js/jquery.min.js"></script> 
-		<script type="text/javascript" src="../../static/interview/js/codemirror.js"></script> 
-		<script type="text/javascript" src="../../static/interview/js/marked.js"></script> 
-		<script type="text/javascript" src="../../static/interview/js/add.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/codemirror.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/marked.js"></script> 
+		<script type="text/javascript" src="/manage/static/interview/js/add.js"></script> 
 	<{/block}>
 	<{block name="content" append}>
 		<div class="clearfix">

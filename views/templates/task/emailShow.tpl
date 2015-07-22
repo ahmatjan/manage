@@ -1,6 +1,6 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
-		<script type="text/javascript" src="../../static/js/jquery.min.js"></script> 
+		<script type="text/javascript" src="/manage/static/js/jquery.min.js"></script> 
 		<script>
 		$(document).ready(function() {
             //跳转发送邮件页面

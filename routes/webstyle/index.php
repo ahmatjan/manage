@@ -33,8 +33,17 @@ while($row = mysql_fetch_array($list)) {
 
 	$result[] = $row;
 }
+
+$listPublic = $db->query('SELECT * FROM `webstyle_code` where is_public = 1');
+$resultPublic = array();
+
+while($row = mysql_fetch_array($listPublic)) {
+	$resultPublic[] = $row;
+}
+
 // print_r($result);
 $tpl->assign("list", $result);
+$tpl->assign("listPublic", $resultPublic);
 
 if (ismobile()) {
     //设置默认默认主题为 mobile

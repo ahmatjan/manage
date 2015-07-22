@@ -1,12 +1,8 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title><{$title}></title>
-		<link rel="stylesheet" type="text/css" href="../css/codemirror.css">
-		<link rel="stylesheet" type="text/css" href="../css/add.css">
-		<script type="text/javascript" src="../js/jquery.min.js"></script> 
-		<script type="text/javascript" src="../js/codemirror.js"></script> 
-		<script type="text/javascript" src="../js/marked.js"></script> 
-		<link rel="stylesheet" type="text/css" href="../css/detail.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/markdown.css">
+		<script type="text/javascript" src="/manage/static/js/marked.js"></script> 
 		<script type="text/javascript">
 			$(function() {
 				  (function() {

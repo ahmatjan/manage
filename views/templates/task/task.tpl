@@ -1,7 +1,7 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title></title>
-		<script type="text/javascript" src="../../static/js/jquery.min.js"></script>
+		<script type="text/javascript" src="/manage/static/js/jquery.min.js"></script>
 		<script type="text/javascript" src="../../lhz_table/require.js"></script>
 		<script type="text/javascript" src="../../lhz_table/lhz_table.js"></script>
 		<link rel="stylesheet" type="text/css" href="../../lhz_table/lhz_table.css" />

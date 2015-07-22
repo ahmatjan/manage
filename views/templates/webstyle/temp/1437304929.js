@@ -1,1 +1,0 @@
-$(p).click(function({alert(222)}))

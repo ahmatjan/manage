@@ -4,3 +4,4 @@ font-size: 13px;
 }
 .left-module{float: left;}
 .right-module{float: right;}
+.f-left li{float: left; margin-right:10px; }

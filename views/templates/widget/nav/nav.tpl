@@ -1,6 +1,6 @@
 <div class="top_login">
     <div class="link_login">
-        <{if $smarty.session|@count neq 0 && $smarty.session.username neq '' }>
+    <{if isset($smarty.session.username) && $smarty.session.username neq '' }>
     <p>欢迎：
       <{$smarty.session.username}> <a href="/manage/routes/user/login.php?action=logout">退出</a>
     </p>

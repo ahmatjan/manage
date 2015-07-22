@@ -33,7 +33,9 @@
         var script = this.doc.createElement("script");
         script.setAttribute("type", "text/javascript");
         script.setAttribute("src", filePath);
-        script.setAttribute("id", id);
+        if(id){
+            script.setAttribute("id", id); 
+        }
         var heads = this.doc.getElementsByTagName("head");
         if (heads.length)
             heads[0].appendChild(script);

@@ -8,7 +8,6 @@ include $_SERVER['DOCUMENT_ROOT'] . $folder_name . '/db.php';
 
 $tpl -> assign("title", "招聘试题");
 $tpl -> assign("description", "招聘试题管理系统");
-
 $db = new DB();
 
 //修改操作
@@ -33,9 +32,15 @@ if(isset($_GET['id'])){
 
 //修改操作
 if(isset($_POST['task_comment'])){
+	if(!isset($_SESSION['username'])){
+		$username = '游客';
+	}else{
+		$username = $_SESSION['username'];
+	}
 	$data['id'] = "";
 	$data['task_id'] = $_POST['task_id'];
-	$data['task_comment'] = $_POST['task_comment'];
+	$data['user_id'] = $username;
+	$data['task_comment'] = $_POST['task_comment'] ;  
     $db->insert('task_comment',$data);
 
     $url = "http://".$_SERVER['HTTP_HOST']. $folder_name . "/routes/task/detail.php?id=".$_POST['task_id']; 
@@ -44,7 +49,6 @@ if(isset($_POST['task_comment'])){
 	echo "window.location.href='$url'"; 
 	echo "</script>";
 }
-
 
 
 ?>

@@ -16,7 +16,7 @@ $(function() {
     var previewFrame = document.getElementById(iframeId);
     var preview = previewFrame.contentDocument || previewFrame.contentWindow.document;
     preview.open();
-    preview.write('<link href="/stylesheets/style.css" rel="stylesheet"><link href="/stylesheets/markdown.css" rel="stylesheet">');
+    preview.write('<link href="/manage/static/css/markdown.css" rel="stylesheet">');
     preview.write(marked(value.getValue()));
     preview.close();
   }

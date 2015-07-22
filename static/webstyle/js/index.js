@@ -1,52 +1,49 @@
 $(document).ready(function() {
+
+  void function mirrorShow() {
+    var eles = document.getElementById("showbox").querySelectorAll("textarea");
+    for (var i = 0; i < eles.length; i++) {
+      var mirrorShow = CodeMirror.fromTextArea(eles[i], {
+        mode: "application/xml",
+        styleActiveLine: true,
+        lineNumbers: true,
+        lineWrapping: true,
+        readOnly : true,  // 是否只读，默认false
+      });
+      mirrorShow.setSize('480px', '200px');
+    }
+  }();
+
+  //添加公用文件
   $('.show-code-form').click(function() {
     var type = $(this).attr('data-type');
-    $(".coding-box").append($('#tpl-code-form').html());
+    $('.add-module-form').hide();
+
+    $(".coding-box").html($('#tpl-code-form').html());
     $('.add-code-form input[name="code_type"]').val(type);
-  });
-
-  $(document).on("click", ".add-code-form .submit", function() {
-    var title = $('.add-code-form input[name="code_title"]').val();
-    var content = $('.add-code-form textarea[name="code_content"]').val();
-    var type = $('.add-code-form input[name="code_type"]').val();
-    if (!title || !content || !type)
-      return;
-
-    $.ajax({
-      type: "POST",
-      url: "./add.php",
-      data: {
-        title: title,
-        content: content,
-        type: type,
-        category: 'code'
-      },
-      success: function() {
-        console.log('提交成功');
-      }
-    });
   });
 
   $(document).on("click", ".add-code-form .cancel", function() {
     $('.add-code-form').remove();
   });
 
-
-
+  /**
+  * 添加模块
+  */
   $('#show-module-form').click(function() {
+    $(".coding-box").html('');
     $('.add-module-form').show();
   });
 
   $(document).on("click", ".add-module-form .cancel", function() {
-    $('.add-module-form').remove();
+    $('.add-module-form').hide();
   });
 
   /**
    *代码高亮实例化
    */
   var editorHtml, editorCss, editorJs;
-  void
-  function mirrorInstantiate() {
+  void function mirrorInstantiate() {
     editorHtml = CodeMirror.fromTextArea(document.getElementById("module-html"), {
       mode: "application/xml",
       styleActiveLine: true,
@@ -54,7 +51,7 @@ $(document).ready(function() {
       lineWrapping: true
     });
 
-    editorHtml.setSize('300px', '200px');
+    editorHtml.setSize('580px', '200px');
     var delayHtml;
     editorHtml.on("change", function() {
       clearTimeout(delayHtml);
@@ -67,7 +64,7 @@ $(document).ready(function() {
       lineNumbers: true,
       lineWrapping: true
     });
-    editorCss.setSize('300px', '200px');
+    editorCss.setSize('580px', '200px');
     var delayCss;
     editorCss.on("change", function() {
       clearTimeout(delayCss);
@@ -80,7 +77,7 @@ $(document).ready(function() {
       lineNumbers: true,
       lineWrapping: true
     });
-    editorJs.setSize('600px', '200px');
+    editorJs.setSize('500px', '200px');
     var delayJs;
     editorJs.on("blur", function() {
       clearTimeout(delayJs);
@@ -88,11 +85,20 @@ $(document).ready(function() {
     });
   }();
 
-
   var Load = new LoadElement(getIframe());
-
-  /*载入jquery文件*/
-  Load.loadScriptFile('../../static/js/jquery.min.js', 'code-js');
+ /**
+  *公用文件引入
+  */
+  $('#public-file li input:checkbox').click(function() {
+    var file_path = $(this).attr('data_file_path');
+    var file_style = $(this).attr('data_type');
+    /*载入jquery文件*/
+    if(file_style == 'css'){
+      Load.loadSheetFile(file_path);
+    }else{
+      Load.loadScriptFile(file_path);
+    }
+  });
 
   function updatePreview(content, style) {
     var preview = getIframe();
@@ -124,7 +130,6 @@ $(document).ready(function() {
     var previewFrame = document.getElementById('preview');
     return preview = previewFrame.contentDocument || previewFrame.contentWindow.document;
   }
-
 
   /*
    *code生产文件存在，保存module

@@ -1,13 +1,12 @@
 <{extends file="../layout.tpl" }>
 	<{block name="head" append}>
 		<title><{$title}></title>
-		<link rel="stylesheet" type="text/css" href="../../static/css/codemirror.css">
-		<link rel="stylesheet" type="text/css" href="../../static/css/add.css">
-		<script type="text/javascript" src="../../static/js/jquery.min.js"></script> 
-		<script type="text/javascript" src="../../static/js/codemirror.js"></script> 
-		<script type="text/javascript" src="../../static/js/marked.js"></script> 
-		<script type="text/javascript" src="../../static/js/jquery.DatePicker.js"></script> 
-		<script type="text/javascript" src="../../static/js/add.js"></script> 
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/add.css">
+		<link rel="stylesheet" type="text/css" href="/manage/static/css/codemirror.css">
+		<script type="text/javascript" src="/manage/static/js/codemirror.js"></script> 
+		<script type="text/javascript" src="/manage/static/js/marked.js"></script> 
+		<script type="text/javascript" src="/manage/static/js/jquery.DatePicker.js"></script> 
+		<script type="text/javascript" src="/manage/static/js/add.js"></script> 
 	<{/block}>
 	<{block name="content"}>
 	<div class="clearfix">
